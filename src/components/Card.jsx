@@ -1,7 +1,6 @@
 import { Card, CardBody, Typography, Chip } from "@material-tailwind/react";
 import { Link } from "react-router-dom/dist";
-import { BsClockFill } from "react-icons/bs";
-import { FaDownload } from "react-icons/fa";
+
 export default function InfoCard({ title, description, tags, link }) {
   return (
     <div className="max-w-[700px]  mx-auto flex justify-center my-3">

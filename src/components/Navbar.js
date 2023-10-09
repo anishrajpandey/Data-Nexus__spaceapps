@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaSmog } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import SearchBox from "./SearchBox";
 import { Link } from "react-router-dom/dist";
 

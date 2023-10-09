@@ -13,7 +13,7 @@ function CardDefault() {
     <div className="mt-6 w-[300px]">
       <Card className="w-full">
         <CardHeader color="blue-gray" className="relative h-fit">
-          <img src="/emission-in-Nepal.jpeg" alt="card-image" />
+          <img src="/emission-in-Nepal.jpeg" alt="card" />
         </CardHeader>
         <CardBody>
           <Typography variant="h5" color="blue-gray" className="mb-2">
@@ -53,7 +53,7 @@ function CardDefault() {
 
       <Card className="mt-12 w-full">
         <CardHeader color="blue-gray" className="relative h-fit">
-          <img src="/US-co2-emission.jpeg" alt="card-image" />
+          <img src="/US-co2-emission.jpeg" alt="card" />
         </CardHeader>
         <CardBody>
           <Typography variant="h5" color="blue-gray" className="mb-2">
