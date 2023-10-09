@@ -8,7 +8,6 @@ import Data from "./pages/Data";
 import EmissionPage from "./pages/EmissionPage";
 import EmissionVisualization from "./pages/EmissionVisualization";
 import NotFound from "./pages/NotFound";
-import ChartByCountry from "./components/Visualizations/ChartByCountry";
 
 function App() {
   const [query, setQuery] = useState("");
@@ -70,7 +69,7 @@ function App() {
           <Route path="/data/:id" element={<Data />} />
           <Route path="/emission-analysis" element={<EmissionPage />} />
           {/* <Route path="/emission-analysis" element={<LineChart />} /> */}
-          <Route path="/countries" element={<ChartByCountry />} />
+
           <Route
             path="emission-visualization"
             element={<EmissionVisualization />}

@@ -1,6 +1,5 @@
 import { useReducer, useState } from "react";
 import CountriesSelect from "../components/CountriesSelect";
-import ChartByCountry from "../components/Visualizations/ChartByCountry";
 
 function EmissionPage() {
   const [, forceUpdate] = useReducer((x) => x + 1, 0);
@@ -19,7 +18,6 @@ function EmissionPage() {
           USA
         </span> */}
         <CountriesSelect country={country} setCountry={setCountry} />
-        {/* <ChartByCountry country={country} /> */}
       </div>
     </div>
   );
