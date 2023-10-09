@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System",
+    "description": "This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding.",
+    "link": "https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Alzheimer's Disease and Healthy Aging Data",
+    "description": "2015-2021. This data set contains data from BRFSS.",
+    "link": "https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "DASH YRBSS - HS Cigar Use (by total grade/sex/race/sexual identity/sexual contacts)",
+    "description": "2015-2017. High School Dataset – Including Sexual Orientation. The Youth Risk Behavior Surveillance System (YRBSS) monitors six categories of priority health behaviors\namong youth and young adults: 1) behaviors that contribute to unintentional injuries and violence; 2) tobacco use; 3) alcohol and\nother drug use; 4) sexual behaviors related to unintended pregnancy and sexually transmitted infections (STIs), including human\nimmunodeficiency virus (HIV) infection; 5) unhealthy dietary behaviors; and 6) physical inactivity. In addition, YRBSS monitors\nthe prevalence of obesity and asthma and other priority health behaviors.  This dataset contains national, state, and local data from 2015 that includes two aspects of sexual orientation – sexual identity and sex of sexual contacts.  Additional information about the YRBSS can be found at www.cdc.gov/yrbss.",
+    "link": "https://data.cdc.gov/Youth-Risk-Behaviors/DASH-YRBSS-HS-Cigar-Use-by-total-grade-sex-race-se/bedg-mmpy",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Graph of Tobacco Use 3 Months Before and Last 3 Months of Pregnancy",
+    "description": "2011.  Centers for Disease Control and Prevention (CDC).  PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments.  PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy.\nData will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/Graph-of-Tobacco-Use-3-Months-Before-and-Last-3-Mo/mbvg-apdj",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC Nutrition, Physical Activity, and Obesity - Legislation",
+    "description": "This dataset contains policy data for 50 US states and DC from 2001 to 2017. Data include information related to state legislation and regulations on nutrition, physical activity, and obesity in settings such as early care and education centers, restaurants, schools, work places, and others. To identify individual bills, use the identifier ProvisionID.  A bill or citation may appear more than once because it could apply to multiple health or policy topics, settings, or states. As of Q 2 2016, data include only enacted legislation.",
+    "link": "https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/CDC-Nutrition-Physical-Activity-and-Obesity-Legisl/nxst-x9p4",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators (CDI)",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Percent of adults aged 18 and older who have obesity, National",
+    "description": "This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding.",
+    "link": "https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Percent-of-adults-aged-18-and-older-who-have-obesi/tv7q-8s5b",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Nutrition, Physical Activity, and Obesity - Women, Infant, and Child",
+    "description": "This dataset includes data on weight status for children aged 3 months to 4 years old from Women, Infant, and Children Participant and Program Characteristics (WIC-PC). This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding. For more information about WIC-PC visit https://www.fns.usda.gov/wic/national-survey-wic-participants.",
+    "link": "https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Women-Infa/735e-byxc",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2011",
+    "description": "2011.  Centers for Disease Control and Prevention (CDC).  PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments.  PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy.\nData will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2011/ese6-rqpq",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Map of HS Cigar Use",
+    "description": "2015-2017. High School Dataset – Including Sexual Orientation. The Youth Risk Behavior Surveillance System (YRBSS) monitors six categories of priority health behaviors\namong youth and young adults: 1) behaviors that contribute to unintentional injuries and violence; 2) tobacco use; 3) alcohol and\nother drug use; 4) sexual behaviors related to unintended pregnancy and sexually transmitted infections (STIs), including human\nimmunodeficiency virus (HIV) infection; 5) unhealthy dietary behaviors; and 6) physical inactivity. In addition, YRBSS monitors\nthe prevalence of obesity and asthma and other priority health behaviors.  This dataset contains national, state, and local data from 2015 that includes two aspects of sexual orientation – sexual identity and sex of sexual contacts.  Additional information about the YRBSS can be found at www.cdc.gov/yrbss.",
+    "link": "https://data.cdc.gov/Youth-Risk-Behaviors/Map-of-HS-Cigar-Use/a5cb-a2ww",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Nutrition, Physical Activity, and Obesity - Youth Risk Behavior Surveillance System",
+    "description": "This dataset includes data on adolescent's diet, physical activity, and weight status from Youth Risk Behavior Surveillance System (YRBSS). This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding. For more information about YRBSS visit https://www.cdc.gov/healthyyouth/data/yrbs/index.htm.",
+    "link": "https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Youth-Risk/vba9-s8jp",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Alzheimer's Disease and Healthy Aging Indicators: Cognitive Decline",
+    "description": "2015-2020. The data in this filtered view come from the BRFSS data set.",
+    "link": "https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Indicators-C/jhd5-u276",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Behavioral Risk Factor Surveillance System (BRFSS) Prevalence Data (2011 to present)",
+    "description": "2011 to present. BRFSS combined land line and cell phone prevalence data. BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death. Data will be updated annually as it becomes available. Detailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss). Methodology: http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf Glossary: https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data",
+    "link": "https://data.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Diabetes",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Diabetes/f8ti-h92k",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "500 Cities: Local Data for Better Health, 2019 release",
+    "description": "This is the complete dataset for the 500 Cities project 2019 release. This dataset includes 2017, 2016 model-based small area estimates for 27 measures of chronic disease related to unhealthy behaviors (5), health outcomes (13), and use of preventive services (9). Data were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. The project was funded by the Robert Wood Johnson Foundation (RWJF) in conjunction with the CDC Foundation. It represents a first-of-its kind effort to release information on a large scale for cities and for small areas within those cities. It includes estimates for the 500 largest US cities and approximately 28,000 census tracts within these cities. These estimates can be used to identify emerging health problems and to inform development and implementation of effective, targeted public health prevention activities. Because the small area model cannot detect effects due to local interventions, users are cautioned against using these estimates for program or policy evaluations. Data sources used to generate these measures include Behavioral Risk Factor Surveillance System (BRFSS) data (2017, 2016), Census Bureau 2010 census population data, and American Community Survey (ACS) 2013-2017, 2012-2016 estimates. Because some questions are only asked every other year in the BRFSS, there are 7 measures (all teeth lost, dental visits, mammograms, pap tests, colorectal cancer screening, core preventive services among older adults, and sleep less than 7 hours) from the 2016 BRFSS that are the same in the 2019 release as the previous 2018 release. More information about the methodology can be found at www.cdc.gov/500cities.",
+    "link": "https://data.cdc.gov/500-Cities-Places/500-Cities-Local-Data-for-Better-Health-2019-relea/6vp6-wxuq",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "National Vital Statistics System (NVSS) - National Cardiovascular Disease Surveillance Data",
+    "description": "2000 forward.  NVSS is a secure, web-based data management system that collects and disseminates the Nation's official vital statistics. Indicators from this data source have been computed by personnel in CDC's Division for Heart Disease and Stroke Prevention (DHDSP).   This is one of the datasets provided by the National Cardiovascular Disease Surveillance System. The system is designed to integrate multiple indicators from many data sources to provide a comprehensive picture of the public health burden of CVDs and associated risk factors in the United States. The data are organized by location (national and state) and indicator; NVSS mortality data include CVDs (e.g., heart failure). The data can be viewed by temporal trends and stratified by age group, sex, and race/ethnicity.",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/National-Vital-Statistics-System-NVSS-National-Car/kztq-p2jf",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "PLACES: Local Data for Better Health, County Data 2023 release",
+    "description": "This dataset contains model-based county estimates. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. PLACES was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. This dataset includes estimates for 36 measures: 13 for health outcomes, 9 for preventive services use, 4 for chronic disease-related health risk behaviors, 7 for disabilities, and 3 for health status. These estimates can be used to identify emerging health problems and to help develop and carry out effective, targeted public health prevention activities. Because the small area model cannot detect effects due to local interventions, users are cautioned against using these estimates for program or policy evaluations. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2021 or 2020 county population estimate data, and American Community Survey 2017–2021, or 2016–2020 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for 7 measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. More information about the methodology can be found at  www.cdc.gov/places.",
+    "link": "https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Nutrition, Physical Activity, and Obesity - Policy and Environmental Data",
+    "description": "This dataset includes data on policy and environmental supports for physical activity, diet, and breastfeeding. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding.",
+    "link": "https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Policy-and/k8w5-7ju6",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Behavioral Risk Factors – Vision and Eye Health Surveillance",
+    "description": "2013-2018. This dataset is a de-identified summary table of vision and eye health data indicators from BRFSS, stratified by all available combinations of age group, race/ethnicity, gender, risk factor and state. BRFSS is a system of telephone surveys conducted by CDC that collect state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services. BRFSS completes more than 400,000 adult interviews each year across 50 states, the District of Columbia, and three U.S. territories. BRFSS data for VEHSS includes one question from the core component related to Visual Function. Data were suppressed following NCHS standards. Data will be updated as it becomes available. Detailed information on VEHSS BRFSS analyses can be found on the VEHSS BRFSS webpage (link). General information about BRFSS can be found on the BRFSS website (https://www.cdc.gov/brfss). The VEHSS BRFSS dataset was last updated in November 2019.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/Behavioral-Risk-Factors-Vision-and-Eye-Health-Surv/vkwg-yswv",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "NOHSS Adult Indicators",
+    "description": "2012-2020 (even years). Data from BRFSS for indicators of adult oral health for even years from 2012 through 2020. National estimates are represented by the median prevalence among 50 states and the District of Columbia data. Estimates are prepared from the BRFSS public use data sets. Estimates in this file are not age adjusted, and may differ slightly from estimates available from the BRFSS web site or Chronic Disease Indicators due to small differences in definition, age adjustment or rounding.  For more information, see: https://www.cdc.gov/oralhealthdata/overview/Adult-Indicators.html.",
+    "link": "https://data.cdc.gov/Oral-Health/NOHSS-Adult-Indicators/jz6n-v26y",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Water Fluoridation Statistics - Percent of PWS population receiving fluoridated water",
+    "description": "2000-2018. Water Fluoridation Statistics is a biennial report of the percentage and number of people receiving fluoridated water from 2000 through 2018, originally published at http://www.cdc.gov/fluoridation/statistics/index.htm. For more information, see: http://www.cdc.gov/oralhealthdata/overview/fluoridation_indicators.html",
+    "link": "https://data.cdc.gov/Oral-Health/Water-Fluoridation-Statistics-Percent-of-PWS-popul/8235-5d73",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Behavioral Risk Factor Surveillance System (BRFSS) Historical Questions",
+    "description": "1984-2021.  Centers for Disease Control and Prevention (CDC). BRFSS Survey Data.  The BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death.\nDetailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss).",
+    "link": "https://data.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "500 Cities: Census Tract-level Data (GIS Friendly Format), 2019 release",
+    "description": "2017, 2016. Data were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. The project was funded by the Robert Wood Johnson Foundation (RWJF) in conjunction with the CDC Foundation. 500 cities project census tract-level data in GIS-friendly format can be joined with census tract spatial data (https://chronicdata.cdc.gov/500-Cities/500-Cities-Census-Tract-Boundaries/x7zy-2xmx) in a geographic information system (GIS) to produce maps of 27 measures at the census tract level. There are 7 measures (all teeth lost, dental visits, mammograms, Pap tests, colorectal cancer screening, core preventive services among older adults, and sleep less than 7 hours) in this 2019 release from the 2016 BRFSS that were the same as the 2018 release.",
+    "link": "https://data.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "BRFSS Vision Module Data – Vision & Eye Health",
+    "description": "2005-2016. This dataset includes data from the retired BRFSS Vision Module. From 2005-2011 the BRFSS employed a ten question vision module regarding vision impairment, access and utilization of eye care, and self-reported eye diseases. In 2013 and subsequently, one question in the core of BRFSS asks about vision: “Are you blind or do you have serious difficulty seeing, even when wearing glasses?” The latest data for this core question can be found in the Vision and Eye Health Surveillance System (VEHSS). VEHSS is intended to provide population estimates of vision loss function, eye diseases, health disparities, as well as barriers and facilitators to access to vision and eye care. This information can be used for designing, implementing, and evaluating vision and eye health prevention programs. To access the latest BRFSS data, (2013-2017) view the Behavioral Risk Factors – Vision and Eye Health Surveillance dataset (https://chronicdata.cdc.gov/Vision-Eye-Health/Behavioral-Risk-Factors-Vision-and-Eye-Health-Surv/vkwg-yswv).",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/BRFSS-Vision-Module-Data-Vision-Eye-Health/pttf-ck53",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "2021 Preliminary Assisted Reproductive Technology (ART) Summary",
+    "description": "ART data are made available as part of the National ART Surveillance System (NASS) that collects success rates, services, profiles and annual summary data from fertility clinics across the U.S. There are four datasets available: ART Services and Profiles, ART Patient and Cycle Characteristics, ART Success Rates, and ART Summary. All four datasets may be linked by “ClinicID.” ClinicID is a unique identifier for each clinic that reported cycles. The Summary dataset provides a full snapshot of clinic services and profile, patient characteristics, and ART success rates. It is worth noting that patient medical characteristics, such as age, diagnosis, and ovarian reserve, affect ART treatment’s success. Comparison of success rates across clinics may not be meaningful because of differences in patient populations and ART treatment methods. The success rates displayed in this dataset do not reflect any one patient’s chance of success. Patients should consult with a doctor to understand their chance of success based on their own characteristics.",
+    "link": "https://data.cdc.gov/Assisted-Reproductive-Technology-ART-/2021-Preliminary-Assisted-Reproductive-Technology-/9tjt-seye",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "NOHSS Adult Indicators - 2010 And Prior BRFSS",
+    "description": "Data from BRFSS for indicators of adult oral health for 1999 and even years from 2002 through 2010. National estimates are represented by the median prevalence among 50 states and the District of Columbia data. Estimates are prepared from the BRFSS public use data sets. Estimates in this file are not age adjusted, and may differ slightly from estimates available from the BRFSS web site or Chronic Disease Indicators due to small differences in definition, age adjustment or rounding. For more information, see: http://www.cdc.gov/oralhealthdata/overview/Adult_Indicators.html",
+    "link": "https://data.cdc.gov/Oral-Health/NOHSS-Adult-Indicators-2010-And-Prior-BRFSS/aemk-wcbf",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "PLACES: Local Data for Better Health, Census Tract Data 2023 release",
+    "description": "This dataset contains model-based census tract estimates. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. PLACES was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. The dataset includes estimates for 36 measures: 13 for health outcomes, 9 for preventive services use, 4 for chronic disease-related health risk behaviors, 7 for disabilities, and 3 for health status. These estimates can be used to identify emerging health problems and to help develop and carry out effective, targeted public health prevention activities. Because the small area model cannot detect effects due to local interventions, users are cautioned against using these estimates for program or policy evaluations. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2010 population data, and American Community Survey 2015–2019 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for seven measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. More information about the methodology can be found at www.cdc.gov/places.",
+    "link": "https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-Census-Tract-D/cwsq-ngmh",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Mental Health",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Mental-Health/ixrt-gnsg",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "National Health and Nutrition Examination Survey (NHANES) – Vision and Eye Health Surveillance",
+    "description": "1999-2008; 2005-2008. This dataset is a de-identified summary table of vision and eye health data indicators from NHANES, stratified by all available combinations of age group, race/ethnicity, gender, and risk factor. NHANES is a program of studies conducted by the National Center for Health Statistics at CDC designed to assess the health and nutritional status of adults and children in the U.S, and combines interviews and physical examinations. NHANES stopped collecting vision and eye health data in 2008. Approximate sample size is 5,000 persons per year. NHANES data for VEHSS includes questions and examinations related to Visual Function, Vision Exam Measures, Eye Health Conditions, Service Utilization, and Examination Measures. Data were suppressed for cell sizes less than 30 persons, or where the relative standard error more than 30% of the mean. Detailed information on VEHSS NHANES analyses can be found on the VEHSS NHANES webpage (https://www.cdc.gov/visionhealth/vehss/data/national-surveys/national-health-and-nutrition-examination-survey.html). Additional information about NHANES can be found on the NHANES website (https://www.cdc.gov/nchs/nhanes/index.htm). The VEHSS NHANES dataset was last updated in June 2018.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/National-Health-and-Nutrition-Examination-Survey-N/tdbk-8ubw",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Cancer",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Cancer/u9ek-bct3",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "BRFSS Vision Module Data – Vision & Eye Health",
+    "description": "2005-2016. This dataset includes data from the retired BRFSS Vision Module. From 2005-2011 the BRFSS employed a ten question vision module regarding vision impairment, access and utilization of eye care, and self-reported eye diseases. In 2013 and subsequently, one question in the core of BRFSS asks about vision: “Are you blind or do you have serious difficulty seeing, even when wearing glasses?” The latest data for this core question can be found in the Vision and Eye Health Surveillance System (VEHSS). VEHSS is intended to provide population estimates of vision loss function, eye diseases, health disparities, as well as barriers and facilitators to access to vision and eye care. This information can be used for designing, implementing, and evaluating vision and eye health prevention programs. To access the latest BRFSS data, (2013-2017) view the Behavioral Risk Factors – Vision and Eye Health Surveillance dataset (https://chronicdata.cdc.gov/Vision-Eye-Health/Behavioral-Risk-Factors-Vision-and-Eye-Health-Surv/vkwg-yswv).",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/BRFSS-Vision-Module-Data-Vision-Eye-Health/pttf-ck53",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Arthritis",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Arthritis/qean-rqre",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Chronic Obstructive Pulmonary Disease",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Chronic-Obstructive/aqr6-8kj8",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Vision Service Plan (VSP) – Vision and Eye Health Surveillance",
+    "description": "2016. This dataset is a de-identified summary table of vision and eye health data indicators from VSP, stratified by all available combinations of age group, race/ethnicity, gender, and state. VSP claims for VEHSS provides a convenience sample of vision insurance members representing approximately more than 1 in 4 of the U.S. population. VSP uses a web-based claims submissions system to collect and process claims. The denominator of the rates represents persons with VSP benefits as reported by employers, and is subject to some uncertainty.  VSP data for VEHSS include Service Utilization and Eye Health Condition indicators.  Certain ophthalmic conditions and procedures are covered by health insurance and are not covered by managed vision insurance, claims based eye disease prevalence may therefore be expected to undercount true prevalence.  Person level claims and person counts are not publically available.  Reported rates were suppressed for de-identification to ensure protection of patient privacy. Detailed information on VEHSS VSP analyses can be found on the VEHSS VSP webpage (link). Information on VSP data can be found on the VSP website (www.vsp.com). The VEHSS VSP dataset was last updated in June 2018.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/Vision-Service-Plan-VSP-Vision-and-Eye-Health-Surv/4r3g-hv9c",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Graph of Rates of Breastfeeding Initiation and Continuation at 1 and 2 Months",
+    "description": "2011.  Centers for Disease Control and Prevention (CDC).  PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments.  PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy.\nData will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/Graph-of-Rates-of-Breastfeeding-Initiation-and-Con/bxam-2zsw",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) MMSA Prevalence Data (2011 to Present)",
+    "description": "2011 to present. BRFSS SMART MMSA Prevalence combined land line and cell phone data. The Selected Metropolitan Area Risk Trends (SMART) project uses the Behavioral Risk Factor Surveillance System (BRFSS) to analyze the data of selected metropolitan statistical areas (MMSAs) with 500 or more respondents. BRFSS data can be used to identify emerging health problems, establish and track health objectives, and develop and evaluate public health policies and programs. BRFSS is a continuous, state-based surveillance system that collects information about modifiable risk factors for chronic diseases and other leading causes of death. Data will be updated annually as it becomes available. Detailed information on sampling methodology and quality assurance can be found on the BRFSS website (http://www.cdc.gov/brfss). Methodology: http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf Glossary: https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data",
+    "link": "https://data.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factors-Selected-Metropolitan-Area/j32a-sa6u",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "ASTDD Synopses of State Oral Health Programs - Selected indicators",
+    "description": "2011-2022. The ASTDD Synopses of State Oral Health Programs contain information useful in tracking states’ efforts to improve oral health and contributions to progress toward the national targets for Healthy People objectives for oral health. A subset of the information collected from the most recent five years is provided on the Oral Health Data website. For more information, see http://www.cdc.gov/oralhealthdata/overview/synopses/index.html",
+    "link": "https://data.cdc.gov/Oral-Health/ASTDD-Synopses-of-State-Oral-Health-Programs-Selec/vwmz-4ja3",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "2021 Preliminary Assisted Reproductive Technology (ART) Summary",
+    "description": "ART data are made available as part of the National ART Surveillance System (NASS) that collects success rates, services, profiles and annual summary data from fertility clinics across the U.S. There are four datasets available: ART Services and Profiles, ART Patient and Cycle Characteristics, ART Success Rates, and ART Summary. All four datasets may be linked by “ClinicID.” ClinicID is a unique identifier for each clinic that reported cycles. The Summary dataset provides a full snapshot of clinic services and profile, patient characteristics, and ART success rates. It is worth noting that patient medical characteristics, such as age, diagnosis, and ovarian reserve, affect ART treatment’s success. Comparison of success rates across clinics may not be meaningful because of differences in patient populations and ART treatment methods. The success rates displayed in this dataset do not reflect any one patient’s chance of success. Patients should consult with a doctor to understand their chance of success based on their own characteristics.",
+    "link": "https://data.cdc.gov/Assisted-Reproductive-Technology-ART-/2021-Preliminary-Assisted-Reproductive-Technology-/9tjt-seye",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "DHDSP - Graph of US Adults (18+) with hypertension",
+    "description": "1999-2000 forward.  The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The survey is unique in that it combines interviews and physical examinations. Indicators from this data source have been computed by personnel in CDC's Division for Heart Disease and Stroke Prevention (DHDSP). This is one of the datasets provided by the National Cardiovascular Disease Surveillance System. The system is designed to integrate multiple indicators from many data sources to provide a comprehensive picture of the public health burden of CVDs and associated risk factors in the United States. The data can be plotted as trends and stratified by age group, sex, and race/ethnicity.",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/DHDSP-Graph-of-US-Adults-18-with-hypertension/m62w-2ffr",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Reasons for No Eye Care (Age-adjusted Prevalence)",
+    "description": "In 2013 and subsequently, one question in the core of BRFSS asks about vision: Are you blind or do you have serious difficulty seeing, even when wearing glasses?  From 2005-2011 the BRFSS employed a ten question vision module regarding vision impairment, access and utilization of eye care, and self-reported eye diseases.  The Vision and Eye Health Surveillance System is intended   to provide population estimates of vision loss function, eye diseases, health disparities, as well as barriers and facilitators to access to vision and eye care.  This information can be used for designing, implementing, and evaluating vision and eye health prevention programs.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/Reasons-for-No-Eye-Care-Age-adjusted-Prevalence-/t9kj-aema",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "500 Cities: City-level Data (GIS Friendly Format), 2019 release",
+    "description": "2017, 2016. Data were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. The project was funded by the Robert Wood Johnson Foundation (RWJF) in conjunction with the CDC Foundation. 500 cities project city-level data in GIS-friendly format can be joined with city spatial data (https://chronicdata.cdc.gov/500-Cities/500-Cities-City-Boundaries/n44h-hy2j) in a geographic information system (GIS) to produce maps of 27 measures at the city-level. There are 7 measures (all teeth lost, dental visits, mammograms, Pap tests, colorectal cancer screening, core preventive services among older adults, and sleep less than 7 hours) in this 2019 release from the 2016 BRFSS that were the same as the 2018 release.",
+    "link": "https://data.cdc.gov/500-Cities-Places/500-Cities-City-level-Data-GIS-Friendly-Format-201/dxpw-cm5u",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2000",
+    "description": "2000. Centers for Disease Control and Prevention (CDC). PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments. PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy. Data will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2000/3hwj-hqmh",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "DASH - Youth Risk Behavior Surveillance System (YRBSS): High School - Excluding Sexual Identity",
+    "description": "1991-2017. High School Dataset. The Youth Risk Behavior Surveillance System (YRBSS) monitors six categories of priority health behaviors \namong youth and young adults: 1) behaviors that contribute to unintentional injuries and violence; 2) tobacco use; 3) alcohol and \nother drug use; 4) sexual behaviors related to unintended pregnancy and sexually transmitted infections (STIs), including human \nimmunodeficiency virus (HIV) infection; 5) unhealthy dietary behaviors; and 6) physical inactivity. In addition, YRBSS monitors \nthe prevalence of obesity and asthma and other priority health behaviors.",
+    "link": "https://data.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/svam-8dhg",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Chronic Obstructive Pulmonary Disease",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Chronic-Obstructive/aqr6-8kj8",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "ASTDD Synopses of State Oral Health Programs - Selected indicators",
+    "description": "2011-2022. The ASTDD Synopses of State Oral Health Programs contain information useful in tracking states’ efforts to improve oral health and contributions to progress toward the national targets for Healthy People objectives for oral health. A subset of the information collected from the most recent five years is provided on the Oral Health Data website. For more information, see http://www.cdc.gov/oralhealthdata/overview/synopses/index.html",
+    "link": "https://data.cdc.gov/Oral-Health/ASTDD-Synopses-of-State-Oral-Health-Programs-Selec/vwmz-4ja3",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2005",
+    "description": "2005. Centers for Disease Control and Prevention (CDC). PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments. PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy. Data will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2005/pj7z-f3xf",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Mental Health",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Mental-Health/ixrt-gnsg",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Alzheimer's Disease and Healthy Aging Indicators: Caregiving",
+    "description": "2015-2020. The data in this filtered view come from the BRFSS data set.",
+    "link": "https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Indicators-C/xs7u-t3bn",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "PLACES: County Data (GIS Friendly Format), 2023 release",
+    "description": "This dataset contains model-based county-level estimates in GIS-friendly format. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. Project was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2021 or 2020 county population estimates, and American Community Survey (ACS) 2017–2021 or 2016–2020 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for 7 measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. These data can be joined with the census 2020 county boundary file in a GIS system to produce maps for 36 measures at the county level. An ArcGIS Online feature service is also available for users to make maps online or to add data to desktop GIS software.\nhttps://cdcarcgis.maps.arcgis.com/home/item.html?id=3b7221d4e47740cab9235b839fa55cd7",
+    "link": "https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2023-releas/i46a-9kgh",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2002",
+    "description": "2002.  Centers for Disease Control and Prevention (CDC). PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments. PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy. Data will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2002/dnxe-zgxs",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Alzheimer's Disease and Healthy Aging Indicators: Caregiving",
+    "description": "2015-2020. The data in this filtered view come from the BRFSS data set.",
+    "link": "https://data.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Indicators-C/xs7u-t3bn",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "PLACES: County Data (GIS Friendly Format), 2023 release",
+    "description": "This dataset contains model-based county-level estimates in GIS-friendly format. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. Project was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2021 or 2020 county population estimates, and American Community Survey (ACS) 2017–2021 or 2016–2020 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for 7 measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. These data can be joined with the census 2020 county boundary file in a GIS system to produce maps for 36 measures at the county level. An ArcGIS Online feature service is also available for users to make maps online or to add data to desktop GIS software.\nhttps://cdcarcgis.maps.arcgis.com/home/item.html?id=3b7221d4e47740cab9235b839fa55cd7",
+    "link": "https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2023-releas/i46a-9kgh",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2002",
+    "description": "2002.  Centers for Disease Control and Prevention (CDC). PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments. PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy. Data will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2002/dnxe-zgxs",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Medicare Claims – Vision and Eye Health Surveillance",
+    "description": "2014-2019. This dataset is a de-identified summary table of vision and eye health data indicators from Medicare claims, stratified by all available combinations of age group, race/ethnicity, gender, and state. Medicare claims for VEHSS includes beneficiaries who were fully enrolled in Medicare Part B Fee-for-Service (FFS) for the duration of the year. Medicare claims provide a convenience sample that includes approximately 30 million individuals annually, which represents nearly 89% of the US population aged 65 and older and 3.3% of the US population younger than 65, including persons disabled due to blindness. Medicare data for VEHSS include Service Utilization and Medical Diagnoses indicators. Data were suppressed for de-identification to ensure protection of patient privacy. Data will be updated as it becomes available. Detailed information on VEHSS Medicare analyses can be found on the VEHSS Medicare webpage (cdc.gov/visionhealth/vehss/data/claims/medicare.html). Information on available Medicare claims data can be found on the ResDac website (www.resdac.org). The VEHSS Medicare dataset was last updated May 2023.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/Medicare-Claims-Vision-and-Eye-Health-Surveillance/e28h-tx85",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Overarching Conditions",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Overarching-Conditi/7nzt-5wft",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Alcohol",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Alcohol/5hba-acwf",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Water Fluoridation - Percentage of PWS population who receive fluoridated water",
+    "description": "2000-2018. Water Fluoridation Statistics is a biennial report of the percentage and number of people receiving fluoridated water from 2000 through 2018, originally published at http://www.cdc.gov/fluoridation/statistics/index.htm. For more information, see: http://www.cdc.gov/oralhealthdata/overview/fluoridation_indicators.html",
+    "link": "https://data.cdc.gov/Oral-Health/Water-Fluoridation-Percentage-of-PWS-population-wh/767a-qhkg",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "PLACES: Census Tract Data (GIS Friendly Format), 2023 release",
+    "description": "This dataset contains model-based census tract level estimates in GIS-friendly format. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. PLACES was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2010 population estimates, and American Community Survey (ACS) 2015–2019 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for 7 measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. These data can be joined with the census tract 2015 boundary file in a GIS system to produce maps for 36 measures at the census tract level. An ArcGIS Online feature service is also available for users to make maps online or to add data to desktop GIS software.\nhttps://cdcarcgis.maps.arcgis.com/home/item.html?id=3b7221d4e47740cab9235b839fa55cd7",
+    "link": "https://data.cdc.gov/500-Cities-Places/PLACES-Census-Tract-Data-GIS-Friendly-Format-2023-/yjkw-uj5s",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2010",
+    "description": "2010. Centers for Disease Control and Prevention (CDC). PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments. PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy. Data will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2010/xvu4-xjdb",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "National Survey of Children’s Health (NSCH) – Vision and Eye Health Surveillance",
+    "description": "2016-17 merged. This dataset is a de-identified summary table of vision and eye health data indicators from the National Survye of Chilrens Health (NSCH), stratified by all available combinations of age group, race/ethnicity, gender, risk factor and state. NSCH is a telephone survey conducted by the National Center for Health Statistics at CDC (currently conducted by the U.S. Census Bureau) that examines the physical and emotional health of children 0-17 years of age. Approximate sample size is 95,000 over two rounds of data collection. Data were suppressed for cell sizes less than 30 persons, or where the relative standard error more than 30% of the mean. Detailed information on VEHSS NSCH analyses can be found on the VEHSS NSCH webpage (cdc.gov/visionhealth/vehss/data/national-surveys/national-survey-of-childrens-health.html). Additional information about NSCH can be found on the NSCH website (http://childhealthdata.org/learn/NSCH). The VEHSS NSCH dataset was last updated in November 2019.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/National-Survey-of-Children-s-Health-NSCH-Vision-a/de4p-4g3k",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "National Survey of Children’s Health (NSCH) – Vision and Eye Health Surveillance",
+    "description": "2016-17 merged. This dataset is a de-identified summary table of vision and eye health data indicators from the National Survye of Chilrens Health (NSCH), stratified by all available combinations of age group, race/ethnicity, gender, risk factor and state. NSCH is a telephone survey conducted by the National Center for Health Statistics at CDC (currently conducted by the U.S. Census Bureau) that examines the physical and emotional health of children 0-17 years of age. Approximate sample size is 95,000 over two rounds of data collection. Data were suppressed for cell sizes less than 30 persons, or where the relative standard error more than 30% of the mean. Detailed information on VEHSS NSCH analyses can be found on the VEHSS NSCH webpage (cdc.gov/visionhealth/vehss/data/national-surveys/national-survey-of-childrens-health.html). Additional information about NSCH can be found on the NSCH website (http://childhealthdata.org/learn/NSCH). The VEHSS NSCH dataset was last updated in November 2019.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/National-Survey-of-Children-s-Health-NSCH-Vision-a/de4p-4g3k",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Graph of Unintended Pregnancies Among Women Having a Live Birth",
+    "description": "2011.  Centers for Disease Control and Prevention (CDC).  PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments.  PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy.\nData will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/Graph-of-Unintended-Pregnancies-Among-Women-Having/nauw-t2ir",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Heart Disease Mortality Data Among US Adults (35+) by State/Territory and County",
+    "description": "2013 to 2015, 3-year average. Rates are age-standardized. County rates are spatially smoothed. The data can be viewed by gender and race/ethnicity. Data source: National Vital Statistics System. Additional data, maps, and methodology can be viewed on the Interactive Atlas of Heart Disease and Stroke http://www.cdc.gov/dhdsp/maps/atlas",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/i2vk-mgdh",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Asthma",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Asthma/us8e-ubyj",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Stroke Mortality Data Among US Adults (35+) by State/Territory and County",
+    "description": "2014 to 2016, 3-year average. Rates are age-standardized. County rates are spatially smoothed. The data can be viewed by gender and race/ethnicity. Data source: National Vital Statistics System. Additional data, maps, and methodology can be viewed on the Interactive Atlas of Heart Disease and Stroke http://www.cdc.gov/dhdsp/maps/atlas",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Stroke-Mortality-Data-Among-US-Adults-35-by-State-/kgsi-35re",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Nutrition, Physical Activity, and Weight Status",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Nutrition-Physical-/gjw6-9wda",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Water Fluoridation - Percentage of PWS population who receive fluoridated water",
+    "description": "2000-2018. Water Fluoridation Statistics is a biennial report of the percentage and number of people receiving fluoridated water from 2000 through 2018, originally published at http://www.cdc.gov/fluoridation/statistics/index.htm. For more information, see: http://www.cdc.gov/oralhealthdata/overview/fluoridation_indicators.html",
+    "link": "https://data.cdc.gov/Oral-Health/Water-Fluoridation-Percentage-of-PWS-population-wh/767a-qhkg",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2004",
+    "description": "2004. Centers for Disease Control and Prevention (CDC). PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments. PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy. Data will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2004/xyxp-dxa9",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "DHDSP - Graph of Heart Disease Mortality Among US Adults (18+)",
+    "description": "2000 forward.  NVSS is a secure, web-based data management system that collects and disseminates the Nation's official vital statistics. Indicators from this data source have been computed by personnel in CDC's Division for Heart Disease and Stroke Prevention (DHDSP).   This is one of the datasets provided by the National Cardiovascular Disease Surveillance System. The system is designed to integrate multiple indicators from many data sources to provide a comprehensive picture of the public health burden of CVDs and associated risk factors in the United States. The data are organized by location (national and state) and indicator; NVSS mortality data include CVDs (e.g., heart failure). The data can be viewed by temporal trends and stratified by age group, sex, and race/ethnicity.",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/DHDSP-Graph-of-Heart-Disease-Mortality-Among-US-Ad/idqp-cicu",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Blind or Serious Difficulty Seeing (Age-Adjusted Prevalence by Total)",
+    "description": "In 2013 and subsequently, one question in the core of BRFSS asks about vision: Are you blind or do you have serious difficulty seeing, even when wearing glasses?  From 2005-2011 the BRFSS employed a ten question vision module regarding vision impairment, access and utilization of eye care, and self-reported eye diseases.  The Vision and Eye Health Surveillance System is intended   to provide population estimates of vision loss function, eye diseases, health disparities, as well as barriers and facilitators to access to vision and eye care.  This information can be used for designing, implementing, and evaluating vision and eye health prevention programs.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/Blind-or-Serious-Difficulty-Seeing-Age-Adjusted-Pr/cejb-p7hn",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "PLACES: Census Tract Data (GIS Friendly Format), 2023 release",
+    "description": "This dataset contains model-based census tract level estimates in GIS-friendly format. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. PLACES was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2010 population estimates, and American Community Survey (ACS) 2015–2019 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for 7 measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. These data can be joined with the census tract 2015 boundary file in a GIS system to produce maps for 36 measures at the census tract level. An ArcGIS Online feature service is also available for users to make maps online or to add data to desktop GIS software.\nhttps://cdcarcgis.maps.arcgis.com/home/item.html?id=3b7221d4e47740cab9235b839fa55cd7",
+    "link": "https://data.cdc.gov/500-Cities-Places/PLACES-Census-Tract-Data-GIS-Friendly-Format-2023-/yjkw-uj5s",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "NOHSS Adult Indicators - Adults who have visited a dentist or dental clinic in the past year",
+    "description": "2012-2020 (even years). Data from BRFSS for indicators of adult oral health for even years from 2012 through 2020. National estimates are represented by the median prevalence among 50 states and the District of Columbia data. Estimates are prepared from the BRFSS public use data sets. Estimates in this file are not age adjusted, and may differ slightly from estimates available from the BRFSS web site or Chronic Disease Indicators due to small differences in definition, age adjustment or rounding.  For more information, see: http://www.cdc.gov/oralhealthdata/overview/Adult_Indicators.html",
+    "link": "https://data.cdc.gov/Oral-Health/NOHSS-Adult-Indicators-Adults-who-have-visited-a-d/c2kg-wtx6",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "DASH - Youth Risk Behavior Surveillance System (YRBSS): High School –  Including Sexual Orientation",
+    "description": "2015-2017. High School Dataset – Including Sexual Orientation. The Youth Risk Behavior Surveillance System (YRBSS) monitors six categories of priority health behaviors\namong youth and young adults: 1) behaviors that contribute to unintentional injuries and violence; 2) tobacco use; 3) alcohol and\nother drug use; 4) sexual behaviors related to unintended pregnancy and sexually transmitted infections (STIs), including human\nimmunodeficiency virus (HIV) infection; 5) unhealthy dietary behaviors; and 6) physical inactivity. In addition, YRBSS monitors\nthe prevalence of obesity and asthma and other priority health behaviors.  This dataset contains national, state, and local data from 2015 that includes two aspects of sexual orientation – sexual identity and sex of sexual contacts.  Additional information about the YRBSS can be found at www.cdc.gov/yrbss.",
+    "link": "https://data.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/q6p7-56au",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2008",
+    "description": "2008. Centers for Disease Control and Prevention (CDC). PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments. PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy. Data will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2008/4ya2-fkvt",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "PLACES: Local Data for Better Health, ZCTA Data 2023 release",
+    "description": "This dataset contains model-based ZIP Code Tabulation Area (ZCTA) level estimates. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. PLACES was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. The dataset includes estimates for 36 measures: 13 for health outcomes, 9 for preventive services use, 4 for chronic disease-related health risk behaviors, 7 for disabilities, and 3 for health status. These estimates can be used to identify emerging health problems and to help develop and carry out effective, targeted public health prevention activities. Because the small area model cannot detect effects due to local interventions, users are cautioned against using these estimates for program or policy evaluations. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2010 population data, and American Community Survey 2015–2019 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for 7 measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. More information about the methodology can be found at www.cdc.gov/places.",
+    "link": "https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-ZCTA-Data-2023/qnzd-25i4",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Center for Medicare & Medicaid Services (CMS) , Medicare Claims data",
+    "description": "2003 forward.  CMS compiles claims data for Medicare and Medicaid patients across a variety of categories and years. This includes Inpatient and Outpatient claims, Master Beneficiary Summary Files, and many other files. Indicators from this data source have been computed by personnel in CDC's Division for Heart Disease and Stroke Prevention (DHDSP).  This is one of the datasets provided by the National Cardiovascular Disease Surveillance System. The system is designed to integrate multiple indicators from many data sources to provide a comprehensive picture of the public health burden of CVDs and associated risk factors in the United States. The data are organized by location (national and state) and indicator. The data can be plotted as trends and stratified by sex and race/ethnicity.",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Center-for-Medicare-Medicaid-Services-CMS-Medicare/iw6q-r3ja",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Heart Disease Mortality Data Among US Adults (35+) by State/Territory and County",
+    "description": "2013 to 2015, 3-year average. Rates are age-standardized. County rates are spatially smoothed. The data can be viewed by gender and race/ethnicity. Data source: National Vital Statistics System. Additional data, maps, and methodology can be viewed on the Interactive Atlas of Heart Disease and Stroke http://www.cdc.gov/dhdsp/maps/atlas",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/i2vk-mgdh",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "PLACES: County Data (GIS Friendly Format), 2023 release",
+    "description": "This dataset contains model-based county-level estimates in GIS-friendly format. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. Project was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2021 or 2020 county population estimates, and American Community Survey (ACS) 2017–2021 or 2016–2020 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for 7 measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. These data can be joined with the census 2020 county boundary file in a GIS system to produce maps for 36 measures at the county level. An ArcGIS Online feature service is also available for users to make maps online or to add data to desktop GIS software.\nhttps://cdcarcgis.maps.arcgis.com/home/item.html?id=3b7221d4e47740cab9235b839fa55cd7",
+    "link": "https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2023-releas/i46a-9kgh",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "ASTDD Synopses of State Oral Health Programs - States with dental directors or statewide oral health coalitions",
+    "description": "2018. The ASTDD Synopses of State Oral Health Programs contain information useful in tracking states’ efforts to improve oral health and contributions to progress toward the national targets for Healthy People objectives for oral health. A subset of the information collected from the most recent five years is provided on the Oral Health Data website. For more information, see http://www.cdc.gov/oralhealthdata/overview/synopses/index.html",
+    "link": "https://data.cdc.gov/Oral-Health/ASTDD-Synopses-of-State-Oral-Health-Programs-State/473a-5348",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Medicare Claims – Vision and Eye Health Surveillance",
+    "description": "2014-2019. This dataset is a de-identified summary table of vision and eye health data indicators from Medicare claims, stratified by all available combinations of age group, race/ethnicity, gender, and state. Medicare claims for VEHSS includes beneficiaries who were fully enrolled in Medicare Part B Fee-for-Service (FFS) for the duration of the year. Medicare claims provide a convenience sample that includes approximately 30 million individuals annually, which represents nearly 89% of the US population aged 65 and older and 3.3% of the US population younger than 65, including persons disabled due to blindness. Medicare data for VEHSS include Service Utilization and Medical Diagnoses indicators. Data were suppressed for de-identification to ensure protection of patient privacy. Data will be updated as it becomes available. Detailed information on VEHSS Medicare analyses can be found on the VEHSS Medicare webpage (cdc.gov/visionhealth/vehss/data/claims/medicare.html). Information on available Medicare claims data can be found on the ResDac website (www.resdac.org). The VEHSS Medicare dataset was last updated May 2023.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/Medicare-Claims-Vision-and-Eye-Health-Surveillance/e28h-tx85",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2003",
+    "description": "2003. Centers for Disease Control and Prevention (CDC). PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments. PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy. Data will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2003/u76f-m89e",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Commercial Medical Insurance (MSCANCC) - Vision and Eye Health Surveillance",
+    "description": "2016. This dataset is a de-identified summary table of prevalence rates for vision and eye health data indicators from the 2016 MarketScan® Commercial Claims and Encounters Data (CCAE) is produced by Truven Health Analytics, a division of IBM Watson Health.  The CCEA data contain a convenience sample of insurance claims information from person with employer-sponsored insurance and their dependents, including 43.6 million person years of data. Prevalence estimates are stratified by all available combinations of age group, gender, and state.  Detailed information on VEHSS MarketScan analyses can be found on the VEHSS MarketScan webpage (cdc.gov/visionhealth/vehss/data/claims/marketscan.html). Information on available Medicare claims data can be found on the IBM MarketScan website (https://marketscan.truvenhealth.com). The VEHSS MarketScan summary dataset was last updated November 2019.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/Commercial-Medical-Insurance-MSCANCC-Vision-and-Ey/a35h-9yn4",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "ASTDD Synopses of State Oral Health Programs - States with cleft lip/palate registries and referral systems",
+    "description": "2018. The ASTDD Synopses of State Oral Health Programs contain information useful in tracking states’ efforts to improve oral health and contributions to progress toward the national targets for Healthy People objectives for oral health. A subset of the information collected from the most recent five years is provided on the Oral Health Data website. For more information, see http://www.cdc.gov/oralhealthdata/overview/synopses/index.html",
+    "link": "https://data.cdc.gov/Oral-Health/ASTDD-Synopses-of-State-Oral-Health-Programs-State/uac3-ned3",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Graph of Postpartum Contraception Use",
+    "description": "2011.  Centers for Disease Control and Prevention (CDC).  PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments.  PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy.\nData will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/Graph-of-Postpartum-Contraception-Use/pyx3-qe4e",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "PLACES: Local Data for Better Health, Place Data 2023 release",
+    "description": "This dataset contains model-based place (incorporated and census-designated places) estimates. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. PLACES was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. The dataset includes estimates for 36 measures: 13 for health outcomes, 9 for preventive services use, 4 for chronic disease-related health risk behaviors, 7 for disabilities, and 3 for health status. These estimates can be used to identify emerging health problems and to help develop and carry out effective, targeted public health prevention activities. Because the small area model cannot detect effects due to local interventions, users are cautioned against using these estimates for program or policy evaluations. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2010 population data, and American Community Survey 2015–2019 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for 7 measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. More information about the methodology can be found at  www.cdc.gov/places.",
+    "link": "https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-Place-Data-202/eav7-hnsx",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "DHDSP - Graph of Cardiovascular Disease Mortality Among US Adults (18+)",
+    "description": "2000 forward.  NVSS is a secure, web-based data management system that collects and disseminates the Nation's official vital statistics. Indicators from this data source have been computed by personnel in CDC's Division for Heart Disease and Stroke Prevention (DHDSP).   This is one of the datasets provided by the National Cardiovascular Disease Surveillance System. The system is designed to integrate multiple indicators from many data sources to provide a comprehensive picture of the public health burden of CVDs and associated risk factors in the United States. The data are organized by location (national and state) and indicator; NVSS mortality data include CVDs (e.g., heart failure). The data can be viewed by temporal trends and stratified by age group, sex, and race/ethnicity.",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/DHDSP-Graph-of-Cardiovascular-Disease-Mortality-Am/3f98-kxvx",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "National Health and Nutrition Examination Survey (NHANES) - National Cardiovascular Disease Surveillance System",
+    "description": "1999-2000 forward.  The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The survey is unique in that it combines interviews and physical examinations. Indicators from this data source have been computed by personnel in CDC's Division for Heart Disease and Stroke Prevention (DHDSP). This is one of the datasets provided by the National Cardiovascular Disease Surveillance System. The system is designed to integrate multiple indicators from many data sources to provide a comprehensive picture of the public health burden of CVDs and associated risk factors in the United States. The data can be plotted as trends and stratified by age group, sex, and race/ethnicity.",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/National-Health-and-Nutrition-Examination-Survey-N/5svk-8bnq",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Tobacco",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Tobacco/rrbt-bhen",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "500 Cities: Obesity among adults aged >=18 years",
+    "description": "2017. Data were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. The project was funded by the Robert Wood Johnson Foundation (RWJF) in conjunction with the CDC Foundation. This is a filtered subset of the 500 Cities data that provides model-based small area estimates for 27 measures of chronic disease related to unhealthy behaviors (5), health outcomes (13), and use of preventive services (9). It represents a first-of-its kind effort to release information on a large scale for cities and for small areas within those cities. It includes estimates for the 500 largest US cities and approximately 28,000 census tracts within these cities. These estimates can be used to identify emerging health problems and to inform development and implementation of effective, targeted public health prevention activities. Because the small area model cannot detect effects due to local interventions, users are cautioned against using these estimates for program or policy evaluations. Data sources used to generate these measures include Behavioral Risk Factor Surveillance System (BRFSS) data (2017), Census Bureau 2010 census population data, and American Community Survey (ACS) 2013-2017 estimates. More information about the methodology can be found at www.cdc.gov/500cities.",
+    "link": "https://data.cdc.gov/500-Cities-Places/500-Cities-Obesity-among-adults-aged-18-years/bjvu-3y7d",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Older Adults",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Older-Adults/kpzw-wy6p",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Older Adults",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Older-Adults/kpzw-wy6p",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "U.S. Chronic Disease Indicators: Oral Health",
+    "description": "CDC's Division of Population Health provides cross-cutting set of 124 indicators that were developed by consensus and that allows states and territories and large metropolitan areas to uniformly define, collect, and report chronic disease data that are important to public health practice and available for states, territories and large metropolitan areas. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.",
+    "link": "https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Oral-Health/w3xt-aph7",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2008",
+    "description": "2008. Centers for Disease Control and Prevention (CDC). PRAMS, the Pregnancy Risk Assessment Monitoring System, is a surveillance system collecting state-specific, population-based data on maternal attitudes and experiences before, during, and shortly after pregnancy. It is a collaborative project of the Centers for Disease Control and Prevention (CDC) and state health departments. PRAMS provides data for state health officials to use to improve the health of mothers and infants. PRAMS topics include abuse, alcohol use, contraception, breastfeeding, mental health, morbidity, obesity, preconception health, pregnancy history, prenatal-care, sleep behavior, smoke exposure, stress, tobacco use, WIC, Medicaid, infant health, and unintended pregnancy. Data will be updated annually as it becomes available.",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2008/4ya2-fkvt",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "VEHSS Composite Prevalence Estimates",
+    "description": "VEHSS Composite Prevalence Estimates\n2017, 2019, 2021. This dataset contains estimates of the prevalence of visual acuity loss and major eye diseases generated using a Bayesian meta-analytic modeling approach that combines information from multiple data sources to produce comprehensive estimates of prevalence by age, race, and gender at the national, state and county levels. These composite prevalence estimates are the primary surveillance measures developed by the Centers for Disease Control and Prevention’s Vision & Eye Health Surveillance System (VEHSS).  ",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/VEHSS-Composite-Prevalence-Estimates/qeru-k2y2",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease (by Race)",
+    "description": "For more information about these estimates including summary tables and maps, methods, and links to related publications visit https://www.cdc.gov/visionhealth/vehss/estimates/index.html\nTo view this data in the VEHSS interactive data visualization application, visit https://ddt-vehss.cdc.gov/ and search for “VEHSS Composite Prevalence Estimate”.",
+    "link": "https://data.cdc.gov/Oral-Health/Adults-aged-65-who-have-lost-six-or-more-teeth-due/wh9j-2zjc",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Heart Disease Mortality Data Among US Adults (35+) by State/Territory and County",
+    "description": "Visual Acuity Loss:\nVisual acuity loss prevalence estimates represent best-corrected visual acuity in the better-seeing eye and are included in rows where Category=’Measured Visual Acuity’.  Rows with Subgroup = ‘Any vision loss' represents any impairment or blindness of 20/40 or worse; rows with Subgroup = 'US-defined blindness' refers to the subset of vision loss that is 20/200 or worse.",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/r35g-znws",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Behavioral Risk Factors: Selected Metropolitan Area Risk Trends (SMART) County Prevalence Data (2011 to 2012)",
+    "description": "Age Related Macular Degeneration:\nThe age-related macular degeneration (AMD) estimates represent AMD as measured with retinal imaging examination, and are included in rows where Category = ‘Age Related Macular Degeneration’.  The Subgroup ‘Vision threatening AMD’ includes patients with geographic atrophy, wet-form AMD, or choroidal neovascularization in either eye. The Subgroup ‘Non-vision threatening AMD’ includes patients with early or intermediate dry-form AMD defined as retinal pigment epithelium abnormalities or drusen ≥125 µm in the worse-affected eye, and do not have vision threatening AMD.",
+    "link": "https://data.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factors-Selected-Metropolitan-Area/cpem-dkkm",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Medicaid Claims (MAX) - Vision and Eye Health Surveillance",
+    "description": "Diabetic Retinopathy:\nThe diabetic retinopathy (DR) estimates represent DR as measured with retinal imaging examination, and are included in rows where Category=’Diabetic Eye Diseases’.  The Subgroup ‘Vision threatening DR’ includes patients with severe non-proliferative DR, proliferative DR, and diabetic macular edema. The Subgroup ‘Non-vision threatening DR’ is defined as patients with mild-moderate non-proliferative DR or unspecified DR, and do not have vision threatening DR.",
+    "link": "https://data.cdc.gov/Vision-Eye-Health/Medicaid-Claims-MAX-Vision-and-Eye-Health-Surveill/bwx3-gx66",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "CDC PRAMStat Data for 2001",
+    "description": "Glaucoma:\nVEHSS Composite Prevalence Estimates for glaucoma are forthcoming. ",
+    "link": "https://data.cdc.gov/Maternal-Child-Health/CDC-PRAMStat-Data-for-2001/u93h-quup",
+    "category": "diesease",
+    "tags": ["api"]
+  },
+  {
+    "title": "Behavioral Risk Factor Surveillance System (BRFSS) -  National Cardiovascular Disease Surveillance Data",
+    "description": "Age Groups:\nThe VEHSS Composite Prevalence Estimates are available by major age groups (All ages, ages 0-17, 18-39, 40-64, 65-84, 85+) and detailed (5-year) age groups, which are indicated by the text “by detailed age groups” in the ‘Indicator’ field. ",
+    "link": "https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Behavioral-Risk-Factor-Surveillance-System-BRFSS-N/ikwk-8git",
+    "category": "diesease",
+    "tags": ["api"]
+  }
+]

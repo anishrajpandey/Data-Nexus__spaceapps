@@ -1,0 +1,1416 @@
+[
+  {
+    "title": "SENTINEL-1A_SLC",
+    "description": "Sentinel-1A slant-range product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214470488-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_SLC",
+    "description": "Sentinel-1B slant-range product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985661-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_DUAL_POL_GRD_HIGH_RES",
+    "description": "Sentinel-1A Dual-pol ground projected high and full resolution images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214470533-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ALOS_PALSAR_RTC_HIGH_RES",
+    "description": "PALSAR_Radiometric_Terrain_Corrected_high_res",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1206487504-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_DUAL_POL_METADATA_GRD_HIGH_RES",
+    "description": "Sentinel-1A Dual-pol ground projected high and full resolution metadata",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214470576-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_DUAL_POL_GRD_HIGH_RES",
+    "description": "Sentinel-1B Dual-pol ground projected high and full resolution images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985645-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_METADATA_SLC",
+    "description": "Metadata for Sentinel-1A slant-range product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214470496-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ALOS_PALSAR_LEVEL1.5",
+    "description": "ALOS PALSAR Level 1.5",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1206485940-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ALOS_PALSAR_RTC_LOW_RES",
+    "description": "PALSAR_Radiometric_Terrain_Corrected_low_res",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1206487217-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ALOS_PALSAR_KMZ",
+    "description": "ALOS PALSAR KMZ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1206156901-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_METADATA_RAW",
+    "description": "Metadata for Sentinel-1A level zero product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214470532-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ALOS_PALSAR_LEVEL1.0",
+    "description": "ALOS PALSAR Level 1.0",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1206485320-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_OCN",
+    "description": "SENTINEL-1A Level 2 Ocean wind, wave and current data",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214472977-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_METADATA_SLC",
+    "description": "Metadata for Sentinel-1B slant-range product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985617-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_METADATA_OCN",
+    "description": "Sentinel-1A Metadata for OCN product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1266376001-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_DUAL_POL_METADATA_GRD_HIGH_RES",
+    "description": "Sentinel-1B Dual-pol ground projected high and full resolution metadata",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985741-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_DUAL_POL_GRD_MEDIUM_RES",
+    "description": "Sentinel-1B Dual-pol ground projected medium resolution images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985660-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_SINGLE_POL_METADATA_GRD_HIGH_RES",
+    "description": "Sentinel-1A Single-pol ground projected high and full resolution metadata",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214470732-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_DUAL_POL_METADATA_GRD_MEDIUM_RES",
+    "description": "Sentinel-1A Dual-pol ground projected medium resolution metadata",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214472336-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_METADATA_RAW",
+    "description": "Metadata for Sentinel-1B level zero product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985650-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ERS-2_LEVEL0",
+    "description": "ERS-2 Standard Beam Data Level 0",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1208794942-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_OCN",
+    "description": "Sentinel-1B Level 2 Ocean wind, wave and current data",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985579-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_METADATA_OCN",
+    "description": "Sentinel-1B Metadata for OCN product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985646-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_SINGLE_POL_METADATA_GRD_MEDIUM_RES",
+    "description": "Sentinel-1B Single-pol ground projected medium resolution metadata",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985739-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ERS-1_LEVEL1",
+    "description": "ERS-1 Standard Beam Data Level 1",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1211627521-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_DUAL_POL_METADATA_GRD_MEDIUM_RES",
+    "description": "Sentinel-1B Dual-pol ground projected medium resolution metadata",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985578-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "JERS-1_LEVEL0",
+    "description": "JERS-1 Level 0 Data",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1207933168-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ERS-2_LEVEL1",
+    "description": "ERS-2 Standard Beam Data Level 1",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1209373626-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "JERS-1_LEVEL1",
+    "description": "JERS-1 Level 1 Data",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1208662092-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "RADARSAT-1_LEVEL1",
+    "description": "RADARSAT-1 Level 1 Amplitude Images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1206936391-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_SINGLE_POL_GRD_MEDIUM_RES",
+    "description": "Sentinel-1B Single-pol ground projected medium resolution images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985740-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "RADARSAT-1_LEVEL0",
+    "description": "RADARSAT-1 Level 0",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1206897141-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_SINGLE_POL_METADATA_GRD_MEDIUM_RES",
+    "description": "Sentinel-1A Single-pol ground projected medium resolution metadata",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214473170-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_SINGLE_POL_METADATA_GRD_HIGH_RES",
+    "description": "Sentinel-1B Single-pol ground projected high and full resolution metadata",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985619-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ERS-1_LEVEL0",
+    "description": "ERS-1 Standard Beam Level 0 Frame",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1210197768-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_SINGLE_POL_GRD_MEDIUM_RES",
+    "description": "Sentinel-1A Single-pol ground projected medium resolution images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214472994-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_RAW",
+    "description": "Sentinel-1A level zero product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214470561-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_DUAL_POL_GRD_MEDIUM_RES",
+    "description": "Sentinel-1A Dual-pol ground projected medium resolution images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214471521-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "MERRA-2 tavg1_2d_lnd_Nx: 2d,1-Hourly,Time-Averaged,Single-Level,Assimilation,Land Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T1NXLND) at GES DISC",
+    "description": "M2T1NXLND (or  tavg1_2d_lnd_Nx) is an hourly time-averaged 2-dimensional data collection in Modern-Era Retrospective analysis for Research and Applications version 2 (MERRA-2).  This collection consists of land surface diagnostics, such as baseflow flux, runoff, surface soil wetness,  root zone soil wetness, water at surface layer, water at root zone layer, and soil temperature at six layers.  The data field is time-stamped with the central time of an hour starting from 00:30 UTC, e.g.: 00:30, 01:30, … , 23:30 UTC.\n\nMERRA-2 is the latest version of global atmospheric reanalysis for the satellite era produced by NASA Global Modeling and Assimilation Office (GMAO) using the Goddard Earth Observing System Model (GEOS) version 5.12.4.  The dataset covers the period of 1980-present with the latency of ~3 weeks after the end of a month. \n\nData Reprocessing:  Please check “Records of MERRA-2 Data Reprocessing and Service Changes” linked from the “Documentation” tab on this page.  Note that a reprocessed data filename is different from the original file.\n\nMERRA-2 Mailing List: Sign up to receive information on reprocessing of data, changing of tools and services, as well as data announcements from GMAO. Contact the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov) to be added to the list.\n\nQuestions: If you have a question, please read \"MERRA-2 File Specification Document\",  “MERRA-2 Data Access – Quick Start Guide”, and FAQs linked from the ”Documentation” tab on this page.  If that does not answer your question, you may email the question on data access to the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov), or the question on science to the MERRA-2 science team (merra-questions@lists.nasa.gov).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1276812861-GES_DISC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "MERRA-2 tavgM_2d_lnd_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Land Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXLND) at GES DISC",
+    "description": "M2TMNXLND (or  tavgM_2d_lnd_Nx) is a time-averaged 2-dimensional monthly mean data collection in Modern-Era Retrospective analysis for Research and Applications version 2 (MERRA-2).  This collection consists of land surface diagnostics, such as baseflow flux, runoff, surface soil wetness,  root zone soil wetness, water at surface layer, water at root zone layer, and soil temperature at six layers.  The collection also includes variance of certain parameters. \n\nMERRA-2 is the latest version of global atmospheric reanalysis for the satellite era produced by NASA Global Modeling and Assimilation Office (GMAO) using the Goddard Earth Observing System Model (GEOS) version 5.12.4.  The dataset covers the period of 1980-present with the latency of ~3 weeks after the end of a month. \n\nData Reprocessing:  Please check “Records of MERRA-2 Data Reprocessing and Service Changes” linked from the “Documentation” tab on this page.  Note that a reprocessed data filename is different from the original file.\n\nMERRA-2 Mailing List: Sign up to receive information on reprocessing of data, changing of tools and services, as well as data announcements from GMAO. Contact the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov) to be added to the list.\n\nQuestions: If you have a question, please read \"MERRA-2 File Specification Document\",  “MERRA-2 Data Access – Quick Start Guide”, and FAQs linked from the ”Documentation” tab on this page.  If that does not answer your question, you may email the question on data access to the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov), or the question on science to the MERRA-2 science team (merra-questions@lists.nasa.gov).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1276812856-GES_DISC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Forest Cover Change Tree Cover Multi-Year Global 30m V003",
+    "description": "The Land Processes Distributed Active Archive Center (LP DAAC) archives and distributes Global Forest Cover Change (GFCC) data products through the NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Program. The GFCC Tree Cover Multi-Year Global dataset is available for four epochs centered on the years 2000, 2005, 2010, and 2015. The dataset is derived from the GFCC Surface Reflectance product (GFCC30SR) (http://dx.doi.org/10.5067/MEaSUREs/GFCC/GFCC30SR.001), which is based on enhanced Global Land Survey (GLS) datasets. The GLS datasets are composed of high-resolution Landsat 5 Thematic Mapper (TM) and Landsat 7 Enhanced Thematic Mapper Plus (ETM+) images at 30 meter resolution. GFCC30TC provides tree canopy information and can be used to understand forest changes. Each tree cover product features four files associated with it; a tree cover layer with an embedded color map, a tree cover error (uncertainty) file, and an index (provenance) file, plus a list of path/rows that relate to the Surface Reflectance input files. Note that the index file and file list were not generated for the 2015 epoch. Data follow the Worldwide Reference System-2 tiling scheme. Additional details regarding the methodology used to create the data are available in the Algorithm Theoretical Basis Document (ATBD) (https://lpdaac.usgs.gov/documents/146/GFCC_ATBD.pdf).\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1540118694-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_SINGLE_POL_GRD_HIGH_RES",
+    "description": "Sentinel-1A Single-pol ground projected high and full resolution images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214470682-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ALOS_PALSAR_LEVEL1.1",
+    "description": "ALOS PALSAR Level 1.1",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1206485527-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_RAW",
+    "description": "Sentinel-1B level zero product",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985647-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Landsat-Derived Global Rainfed and Irrigated-Cropland Product 30 m V001",
+    "description": "The Landsat-Derived Global Rainfed and Irrigated-Cropland Product (LGRIP) provides high resolution, global cropland data to assist and address food and water security issues of the twenty-first century.  As an extension of the Global Food Security-support Analysis Data (GFSAD) project, LGRIP maps the world’s agricultural lands by dividing them into irrigated and rainfed croplands, and calculates irrigated and rainfed areas for every country in the world. LGRIP data are produced using Landsat 8 time-series satellite sensor data for the 2014-2017 time period to create a nominal 2015 product.\r\n\r\nEach LGRIP 30 meter resolution GeoTIFF file contains a contains a layer that identifies areas of rainfed cropland (cropland areas that are purely dependent on direct precipitation), irrigated cropland (cropland that had at least one irrigation during the crop growing period), non-cropland, and water bodies over a 10° by 10° area, as well as an accuracy assessment of the product. A low-resolution browse image is also available. \r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2592845930-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1B_SINGLE_POL_GRD_HIGH_RES",
+    "description": "Sentinel-1B Single-pol ground projected high and full resolution images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1327985571-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Smerge-Noah-CCI root zone soil moisture 0-40 cm L4 daily 0.125 x 0.125 degree V2.0 (SMERGE_RZSM0_40CM) at GES DISC",
+    "description": "Smerge-Noah-CCI root zone soil moisture 0-40 cm L4 daily 0.125 x 0.125 degree V2.0 is a multi-decadal root-zone soil moisture product. Smerge is developed by merging the North American Land Data Assimilation System (NLDAS) land surface model output with surface satellite retrievals from the European Space Agency Climate Change Initiative. The data have a 0.125 degree resolution at a daily time-step, covering the entire continental United States and spanning nearly four decades (January 1979 to May 2019).\n\nThis data product contains root-zone soil moisture of 0 - 40 cm layer, Climate Change Initiative (CCI) derived soil moisture anomalies of 0-40 cm layer, and a soil moisture data estimation flag.\n\nThis data product is the recommended replacement for the AMSR-E/Aqua root zone soil moisture L3 1 day 25 km x 25 km descending and 2-Layer Palmer Water Balance Model V001 product (LPRM_AMSRE_D_RZSM3), which will be removed from archive on June 27, 2022. Smerge provides a better root zone soil moisture estimation because it has higher data quality and longer temporal coverage. \n\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1569839798-GES_DISC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "MERRA-2 tavgU_2d_lnd_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Land Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXLND) at GES DISC",
+    "description": "M2TUNXLND (or  tavgU_2d_lnd_Nx) is a time-averaged 2-dimensional monthly diurnal means data collection in Modern-Era Retrospective analysis for Research and Applications version 2 (MERRA-2).  This collection consists of land surface diagnostics, such as baseflow flux, runoff, surface soil wetness,  root zone soil wetness, water at surface layer, water at root zone layer, and soil temperature at six layers.  This data collection is the monthly mean of data fields for each hour and time-stamped with the central time of an hour starting from 00:30 UTC, e.g.: 00:30, 01:30, … , 23:30 UTC.\n\nMERRA-2 is the latest version of global atmospheric reanalysis for the satellite era produced by NASA Global Modeling and Assimilation Office (GMAO) using the Goddard Earth Observing System Model (GEOS) version 5.12.4.  The dataset covers the period of 1980-present with the latency of ~3 weeks after the end of a month. \n\nData Reprocessing:  Please check “Records of MERRA-2 Data Reprocessing and Service Changes” linked from the “Documentation” tab on this page.  Note that a reprocessed data filename is different from the original file.\n\nMERRA-2 Mailing List: Sign up to receive information on reprocessing of data, changing of tools and services, as well as data announcements from GMAO. Contact the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov) to be added to the list.\n\nQuestions: If you have a question, please read \"MERRA-2 File Specification Document\",  “MERRA-2 Data Access – Quick Start Guide”, and FAQs linked from the ”Documentation” tab on this page.  If that does not answer your question, you may email the question on data access to the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov), or the question on science to the MERRA-2 science team (merra-questions@lists.nasa.gov).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1276812876-GES_DISC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Forest Cover Change Forest Cover Change Multi-Year Global 30m V001",
+    "description": "The Land Processes Distributed Active Archive Center (LP DAAC) archives and distributes Global Forest Cover Change (GFCC) data products through the NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Program. The GFCC Forest Cover Change Multi-Year Global dataset provides estimates of changes in forest cover from 1990 to 2000 and from 2000 to 2005 at 30 meter spatial resolution. The GFCC30FCC product represents a global record of fine-scale changes in forest dynamics between observation periods. The forest cover change product was generated from the GFCC Tree Cover (GFCC30TC) (http://dx.doi.org/10.5067/MEaSUREs/GFCC/GFCC30TC.003) product which is based on Global Land Survey (GLS) data acquired by the Landsat 5 Thematic Mapper (TM) and Landsat 7 Enhanced Thematic Mapper Plus (ETM+) sensors. \r\n\r\nEach forest cover product has two GeoTIFF files associated with it; a change map file and a change probability file. Data follow the Worldwide Reference System-2 tiling scheme. Additional details regarding the methodology used to create the data are available in the Algorithm Theoretical Basis Document (ATBD) (https://lpdaac.usgs.gov/documents/146/GFCC_ATBD.pdf).\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1398831361-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "MERRA-2 const_2d_lnd_Nx: 2d, constants Land Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2C0NXLND) at GES DISC",
+    "description": "M2C0NXLND (or const_2d_lnd_Nx) is a data collection in Modern-Era Retrospective analysis for Research and Applications version 2 (MERRA-2).  This collection consists of 2-dimensional constant land surface parameters,  such as thickness of the predefined soil layers, soil porosity, and soil wilting point. \n\nMERRA-2 is the latest version of global atmospheric reanalysis for the satellite era produced by NASA Global Modeling and Assimilation Office (GMAO) using the Goddard Earth Observing System Model (GEOS) version 5.12.4.  \n\nMERRA-2 Mailing List: Sign up to receive information on reprocessing of data, changing of tools and services, as well as data announcements from GMAO. Contact the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov) to be added to the list.\n\nQuestions: If you have a question, please read \"MERRA-2 File Specification Document\",  “MERRA-2 Data Access – Quick Start Guide”, and FAQs linked from the ”Documentation” tab on this page.  If that does not answer your question, you may email the question on data access to the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov), or the question on science to the MERRA-2 science team (merra-questions@lists.nasa.gov).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1278787757-GES_DISC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Food Security-support Analysis Data (GFSAD) Cropland Extent 2015 Africa 30 m V001",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Global Food Security-support Analysis Data (GFSAD) data product provides cropland extent data over the continent of Africa for nominal year 2015 at 30 meter resolution (GFSAD30AFCE). The monitoring of global cropland extent is critical for policymaking and provides important baseline data that are used in many agricultural cropland studies pertaining to water sustainability and food security. The GFSAD30AFCE data product uses two pixel-based supervised classifiers, Random Forest (RF) and Support Vector Machine (SVM), and one object-oriented classifier, Recursive Hierarchical Image Segmentation (RHSEG). The classifiers retrieve cropland extent from a combination of Landsat 8 Operational Land Imager (OLI) and Sentinel-2 MultiSpectral Instrument (MSI) data and elevation derived from the Shuttle Radar Topography Mission (SRTM) Version 3 data products. Each GFSAD30AFCE GeoTIFF file contains a cropland extent layer that defines areas of cropland, non-cropland, and water bodies over a 10° by 10° area.\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1429296018-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Food Security-support Analysis Data (GFSAD) Cropland Extent 2015 Europe, Central Asia, Russia, Middle East product 30 m V001",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Global Food Security-support Analysis Data (GFSAD) data product provides cropland extent data over Europe, Central Asia, Russia and the Middle East for nominal year 2015 at 30 meter resolution (GFSAD30EUCEARUMECE). The monitoring of global cropland extent is critical for policymaking and provides important baseline data that are used in many agricultural cropland studies pertaining to water sustainability and food security. The GFSAD30EUCEARUMECE product uses a pixel-based supervised random forest machine learning algorithm to retrieve cropland extent from a combination of Landsat 7 Enhanced Thematic Mapper (ETM+), Landsat 8 Operational Land Imager (OLI) data, and elevation derived from the Shuttle Radar Topography Mission (SRTM) Version 3 data products. Each GFSAD30EUCEARUMECE GeoTIFF file contains a cropland extent layer that defines areas of cropland, non-cropland, and water bodies over a 10° by 10° area.\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1431401246-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LUH1: Harmonized Global Land Use for Years 1500-2100, V1",
+    "description": "These data represent fractional land use and land cover patterns annually for the years 1500 - 2100 for the globe at 0.5-degree (~50-km) spatial resolution. Land use categories of cropland, pasture, primary land, secondary (recovering) land, and urban land, and underlying annual land-use transitions, are included. Annual data on age and biomass density of secondary land, as well as annual wood harvest, are included for each grid cell. Historical land cover data for the years 1500 - 2005 are based on HYDE 3.1 and future land cover projections for the period 2006 - 2100 came from four Integrated Assessment Model (IAM) scenarios which reach different levels of radiative forcing by year 2100: MESSAGE (8.5 W/m2), AIM (6 W/m2), GCAM (4.5 W/m2), and IMAGE (2.6 W/m2). A key feature of these data is that historical reconstructions of land use were harmonized (computationally adjusted to minimize differences at the transition period) with modeled future scenarios, allowing for a seamless examination of historical and future land use. The output data present a single consistent, spatially gridded set of land-use change scenarios for studies of human impacts on the past, present, and future Earth system. For additional information about the algorithms, inputs, and options used in creating the land use transitions data, please refer to Hurtt et al. (2006) and Hurtt et al. (2011).Data are presented as a series of twenty (20) different data products representing different past and future model scenarios. There are a total of 560 NetCDF v4 files (*.nc4), one for each combination of data product and land use variable.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2135999572-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Hyperspectral Imaging Spectral-library of Agricultural crops for Conterminous United States V001",
+    "description": "\r\n\r\nThe Global Hyperspectral Imaging Spectral-library of Agricultural crops (GHISA) is a comprehensive compilation, collation, harmonization, and standardization of hyperspectral signatures of agricultural crops of the world. This hyperspectral library of agricultural crops is developed for all major world crops and was collected by United States Geological Survey (USGS) and partnering volunteer agencies from around the world. Crops include wheat, rice, barley, corn, soybeans, cotton, sugarcane, potatoes, chickpeas, lentils, and pigeon peas, which together occupy about 65% of all global cropland areas. The GHISA spectral libraries were collected and collated using spaceborne, airborne (e.g., aircrafts and drones), and ground based hyperspectral imaging spectroscopy.\r\n\r\nThe GHISA for the Conterminous United States (GHISACONUS) Version 1 product provides dominant crop data in different growth stages for various agroecological zones (AEZs) of the United States. The GHISA hyperspectral library of the five major agricultural crops (e.g., winter wheat, rice, corn, soybeans, and cotton) for CONUS was developed using Earth Observing-1 (EO-1) Hyperion hyperspectral data acquired from 2008 through 2015 from different AEZs of CONUS using the United States Department of Agriculture (USDA) Cropland Data Layer (CDL) as reference data..\r\n\r\nGHISACONUS is comprised of seven AEZs throughout the United States covering the major agricultural crops in six different growth stages: emergence/very early vegetative (Emerge VEarly), early and mid vegetative (Early Mid), late vegetative (Late), critical, maturing/senescence (Mature Senesc), and harvest. The crop growth stage data were derived using crop calendars generated by the Center for Sustainability and the Global Environment (SAGE), University of Wisconsin-Madison.\r\n\r\nProvided in the CSV file is the spectral library including image information, geographic coordinates, corresponding agroecological zone, crop type labels, and crop growth stage labels for the United States.\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1629302681-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "A Global Database of Soil Respiration Data, Version 5.0",
+    "description": "The Soil Respiration Database (SRDB) is a near-universal compendium of published soil respiration (Rs) data. The database encompasses published studies that report at least one of the following data measured in the field (not laboratory): annual soil respiration, mean seasonal soil respiration, a seasonal or annual partitioning of soil respiration into its source fluxes, soil respiration temperature response (Q10), or soil respiration at 10 degrees C. The SRDB's orientation is to seasonal and annual fluxes, not shorter-term or chamber-specific measurements, and the database is dominated by temperate, well-drained forest measurement locations. Version 5 (V5) is the compilation of 2,266 published studies with measurements taken between 1961-2017. V5 features more soil respiration data published in Russian and Chinese scientific literature for better global spatio-temporal coverage and improved global climate-space representation. The database is also restructured to have better interoperability with other datasets related to carbon-cycle science.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2216864433-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Food Security-support Analysis Data (GFSAD) Cropland Extent 2015 South Asia, Afghanistan, and Iran product 30 m V001",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Global Food Security-support Analysis Data (GFSAD) data product provides cropland extent data over South Asia, Afghanistan, and Iran for nominal year 2015 at 30 meter resolution (GFSAD30SAAFGIRCE). The monitoring of global cropland extent is critical for policymaking and provides important baseline data that are used in many agricultural cropland studies pertaining to water sustainability and food security. The GFSAD30SAAFGIRCE data product uses the pixel-based supervised classifier, Random Forest (RF), to retrieve cropland extent from a combination of Landsat 8 Operational Land Imager (OLI) and elevation derived from the Shuttle Radar Topography Mission (SRTM) Version 3 data products. Each GFSAD30SAAFGIRCE GeoTIFF file contains a cropland extent layer that defines areas of cropland, non-cropland, and water bodies over a 10° by 10° area.\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1431435698-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Food Security-support Analysis Data (GFSAD) Cropland Extent 2010 North America product 30 m V001",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Global Food Security-support Analysis Data (GFSAD) data product provides cropland extent data over North America for nominal year 2010 at 30 meter resolution (GFSAD30NACE). The monitoring of global cropland extent is critical for policymaking and provides important baseline data that are used in many agricultural cropland studies pertaining to water sustainability and food security. The GFSAD30NACE data product uses a combination of the pixel-based supervised classifier, Random Forest (RF), and the object-oriented classifier, Recursive Hierarchical Image Segmentation (RHSEG). The classifiers retrieve cropland extent from a combination of Landsat 5 Thematic Mapper (TM) and Landsat 7 Enhanced Thematic Mapper Plus (ETM+) data and elevation derived from the Shuttle Radar Topography Mission (SRTM) Version 3 data products. Each GFSAD30NACE GeoTIFF file contains a cropland extent layer that defines areas of cropland, non-cropland, and water bodies over a 10° by 10° area.\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1432073647-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LANDMET Ancillary Soil Moisture data L3 V1 (LANDMET_ANC_SM) at GES DISC",
+    "description": "This ancillary climatology soil porosity and wetlands coverage information were derived from the daily GEWEX fusion of satellite active and passive microwave measurements. These quantities are re-mapped to a 1.0 degree equal-area grid from the original 0.25 degree equal-angle map grid.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1374187876-GES_DISC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Food Security-support Analysis Data (GFSAD) Cropland Extent 2015 South America product 30 m V001",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Global Food Security-support Analysis Data (GFSAD) data product provides cropland extent data over South America for nominal year 2015 at 30 meter resolution (GFSAD30SACE). The monitoring of global cropland extent is critical for policymaking and provides important baseline data that are used in many agricultural cropland studies pertaining to water sustainability and food security. The GFSAD30SACE data product uses the pixel-based supervised classifier, Random Forest (RF), to retrieve cropland extent from a combination of Landsat 5 Thematic Mapper (TM), Landsat 7 Enhanced Thematic Mapper Plus (ETM+), Landsat 8 Operational Land Imager (OLI) data, and elevation derived from the Shuttle Radar Topography Mission (SRTM) Version 3 data products. Each GFSAD30SACE GeoTIFF file contains a cropland extent layer that defines areas of cropland, non-cropland, and water bodies over a 10° by 10° area.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1431432916-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Food Security-support Analysis Data (GFSAD) Cropland Extent 2015 Australia, New Zealand, China, Mongolia 30 m V001",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Global Food Security-support Analysis Data (GFSAD) data product provides cropland extent data over Australia, New Zealand, China, and Mongolia for nominal year 2015 at 30 meter resolution (GFSAD30AUNZCNMOCE). The monitoring of global cropland extent is critical for policymaking and provides important baseline data that are used in many agricultural cropland studies pertaining to water sustainability and food security. The GFSAD30AUNZCNMOCE data product uses the pixel-based supervised classifier, Random Forest (RF), to retrieve cropland extent from a combination of Landsat 8 Operational Land Imager (OLI) and Landsat 7 Enhanced Thematic Mapper Plus (ETM+) data. Each GFSAD30AUNZCNMOCE GeoTIFF file contains a cropland extent layer that defines areas of cropland, non-cropland, and water bodies over a 10° by 10° area.\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1431392676-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Food Security-support Analysis Data (GFSAD) Cropland Extent 2015 Southeast and Northeast Asia product 30 m V001",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Global Food Security-support Analysis Data (GFSAD) data product provides cropland extent data over Southeast and Northeast Asia for nominal year 2015 at 30 meter resolution (GFSAD30SEACE). The monitoring of global cropland extent is critical for policymaking and provides important baseline data that are used in many agricultural cropland studies pertaining to water sustainability and food security. The GFSAD30SEACE data product uses the pixel-based supervised classifiers, Random Forest (RF), to retrieve cropland extent from a combination of Landsat 8 Operational Land Imager (OLI), Landsat 7 Enhanced Thematic Mapper Plus (ETM+), and elevation derived from the Shuttle Radar Topography Mission (SRTM) Version 3 data products. Each GFSAD30SEACE GeoTIFF file contains a cropland extent layer that defines areas of cropland, non-cropland, and water bodies over a 10° by 10° area.\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1431439087-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Hyperspectral Imaging Spectral-library of Agricultural crops for Central Asia V001",
+    "description": "The Global Hyperspectral Imaging Spectral-library of Agricultural crops (GHISA) is a comprehensive compilation, collation, harmonization, and standardization of hyperspectral signatures of agricultural crops of the world. This hyperspectral library of agricultural crops is developed for all major world crops and was collected by United States Geological Survey (USGS) and partnering volunteer agencies from around the world. Crops include wheat, rice, barley, corn, soybeans, cotton, sugarcane, potatoes, chickpeas, lentils, and pigeon peas, which together occupy about 65% of all global cropland areas. The GHISA spectral libraries were collected and collated using spaceborne, airborne (e.g., aircrafts and drones), and ground based hyperspectral imaging spectroscopy.\r\n\r\nThe GHISA for Central Asia (GHISACASIA) Version 1 product provides dominant crop data (wheat, rice, corn, alfalfa, and cotton) in different growth stages across the Galaba and Kuva farm fields in the Syr Darya river basin in Central Asia. The GHISA hyperspectral library for the two irrigated areas was developed using Earth Observing-1 (EO-1) Hyperion hyperspectral data acquired in 2007 and ASD (Analytical Spectral Devices, Inc.) Spectroradiometer data acquired in 2006 and 2007. GHISACASIA is extracted from three Hyperion hyperspectral images and several thousands of field ASD Spectroradiometer data. Measurements were taken from 1,232 randomly chosen points scattered across the two farm sites throughout the growing season. All the processing algorithms are coded in Statistical Analysis System (SAS) format and available for download.\r\n\r\nProvided in the .xlsx files are the spectral library including image information, plot IDs, study area, instrument, Julian or acquisition date, and crop type labels for Central Asia sample fields.\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1704836117-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "AirMOSS: L4 Modeled Volumetric Root Zone Soil Moisture, 2012-2015",
+    "description": "This data set provides hourly gridded soil moisture estimates derived from hydrologic modeling at nine AirMOSS sites across North America. The AirMOSS L4 RZSM product represents a temporal interpolation of intermittent AirMOSS L2/3 RZSM retrievals into a temporally-continuous, multi-layer, hourly soil moisture product. The L4 RZSM data have the same spatial resolution (3-arcsecs or ~100 m), and the same temporal coverage (generally Fall 2012 through Fall 2015), as the underlying L2/3 RZSM data. The L4 RZSM data were produced by the integration of the Level 2/3 product and other ancillary information into the Penn State Integrated Hydrologic Model (PIHM). Many key applications for AirMOSS data products, including the calculation of net ecosystem exchange (NEE), require temporally continuous RZSM estimates such as those provided here.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2258632707-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LUH2-GCB2019: Land-Use Harmonization 2 Update for the Global Carbon Budget, 850-2019",
+    "description": "This dataset, referred to as LUH2-GCB2019, includes 0.25-degree gridded, global maps of fractional land-use states, transitions, and management practices for the period 0850-2019. The LUH2-GCB2019 dataset is an update to the previous Land-Use Harmonization Version 2 (LUH2-GCB) datasets prepared as required input to land models in the annual Global Carbon Budget (GCB) assessments, including land-use change data relating to agricultural expansion, deforestation, wood harvesting, shifting cultivation, afforestation, and crop rotations. Compared with previous LUH2-GCB datasets, the LUH2-GCB2019 takes advantage of new data inputs that corrected cropland and grazing areas in the globally important region of Brazil, as far back as 1950. LUH2-GCB datasets are used by bookkeeping models and Dynamic Global Vegetation Models (DGVMs) for the GCB.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2756847743-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global 1-degree Maps of Forest Area, Carbon Stocks, and Biomass, 1950-2010",
+    "description": "This data set provides global forest area, forest growing stock, and forest biomass data at 1-degree resolution for the period 1950-2010. The data set is based on a compilation of forest area and growing stock data reported in international assessments performed by FAO, MCPFE (now Forest Europe), and UNECE. Data of different assessments are to the extent possible harmonized to reflect both forest area and other wooded land, to be comparable between countries and assessments.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2763367695-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "NACP: Forest Carbon Stocks, Fluxes and Productivity Estimates, Western USA, 1979-2099",
+    "description": "This dataset contains annual estimates of carbon stocks, fluxes, and productivity over forested land in 11 states of the western USA (Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming). The estimates were produced from multiple simulations using the Community Land Model (v4.5) with different climate forcing data and prescribed harvest rates. Business as usual (BAU) scenarios were run to ensure that the simulations represented present-day stand ages. The estimates span two modeled time periods, 1979-2014 and 2015-2099, at 1/24-degree (4 km x 4 km) resolution. Variables included are gross primary production (GPP), net ecosystem exchange (NEE), net ecosystem productivity (NEP), net primary production (NPP), autotrophic respiration (RA), heterotrophic respiration (RH), transpiration factor, aboveground live tree carbon, carbon loss from fire, allocation to stem carbon, and burned area fraction over forested areas of the western USA.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2517656499-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "CMS: Global Carbon Fluxes Associated with Livestock Feed and Emissions, 2000-2013",
+    "description": "This data set provides global annual carbon flux estimates, at 0.05-degree resolution, associated with livestock feed intake, manure, manure management, respiration, and enteric fermentation, summed over all livestock types. These fluxes can be summed across multiple grid cells to obtain totals for any given areas. These 2000-2013 flux estimates were based on livestock populations reported by the Food and Agriculture Organization (FAO) and the United States Department of Agriculture National Agricultural Statistics Service (USDA NASS), on coefficients provided by the Intergovernmental Panel on Climate Change (IPCC), and on additional coefficients developed by the authors.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2343145099-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Soil Profile Data (ISRIC-WISE)",
+    "description": "The ISRIC-WISE International soil profile data set consists of a homogenized, global set of 1,125 soil profiles for use by global modelers. These profiles provided the basis for the Global Pedon Database (GPDB) of the International Geosphere-Biosphere Programme (IGBP) - Data and Information System (DIS). The data set includes information on soil classification, site data, soil horizon data, source of data, and methods used for determining analytical data.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2216862983-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Food Security-support Analysis Data (GFSAD) Cropland Extent-Product 2015 Validation 30 m V001",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Global Food Security-support Analysis Data (GFSAD) data product provides cropland extent data of the globe for nominal year 2015 at 30 meter resolution. The monitoring of global cropland extent is critical for policymaking and provides important baseline data that are used in many agricultural cropland studies pertaining to water sustainability and food security. The GFSAD30 Validation (GFSAD30VAL) data product provides a thorough and independent accuracy assessment and validation of the cropland extent products produced for each of the seven regions. The accuracy assessment and validation process utilizes a cluster of 3 by 3 pixels of 30 meter data to resample the product to 90 meter resolution. Each GFSAD30VAL shapefile contains information on sample locations, presence of cropland or no cropland, and the zones that were randomly selected for accuracy assessment across the globe.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1432078714-LPDAAC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Gridded 1-km Annual Soil Respiration and Uncertainty Derived from SRDB V3",
+    "description": "This dataset provides six global gridded products at 1-km resolution of predicted annual soil respiration (Rs) and associated uncertainty, maps of the lower and upper quartiles of the prediction distributions, and two derived annual heterotrophic respiration (Rh) maps. A machine learning approach was used to derive the predicted Rs and uncertainty data using a quantile regression forest (QRF) algorithm trained with observations from the global Soil Respiration Database (SRDB) version 3 spanning from 1961 to 2011. The two Rh maps were derived from the predicted Rs with two different empirical equations. These products were produced to support carbon cycle research at local- to global-scales, and highlight the immense spatial variability of soil respiration and our ability to predict it across the globe.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2389104778-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "DSCOVR EPIC Level 2 Vegetation Earth System Data Record (VESDR), Version 2",
+    "description": "DSCOVR_EPIC_L2_VESDR_02 is the Deep Space Climate ObserVatoRy (DSCOVR) Earth Polychromatic Imaging Camera (EPIC) Level 2 Vegetation Earth System Data Record (VESDR), Version 2 data product. It provides Leaf Area Index (LAI) and diurnal courses of Normalized Difference Vegetation Index (NDVI), Sunlit Leaf Area Index (SLAI), Fraction of incident Photosynthetically Active Radiation (400-700 nm) absorbed by the vegetation (FPAR), Directional Area Scattering Function (DASF), Earth Reflector Type Index (ERTI) and Canopy Scattering Coefficient at 443 nm, 551 nm, 680 nm and 779 nm. The VESDR files also include Solar Zenith Angle (SZA), Solar Azimuthal Angle (SAA), View Zenith (VZA), and Azimuthal (VAA) angles at the same temporal and spatial resolutions. The parameters are projected on eight regional 10 km SIN grids and available at 65 to 110 min temporal frequency. The version 2 VESDR product is generated from the upstream DSCOVR EPIC L2 MAIAC  (Multi-Angle Implementation of Atmospheric Correction version 2) surface reflectance product. \r\n\r\n\r\nFPAR, LAI, and SLAI help monitor variability and change in global vegetation due to climate and anthropogenic influences, modeling climate, carbon, and water cycles and improving forecasting of near-surface weather. DASF provides information critical to accounting for structural contributions to measurements of leaf biochemistry from remote sensing. The canopy scattering coefficient is the Fraction of intercepted radiation reflected from or diffusely transmitted through the vegetation. This parameter is strongly correlated with leaf albedo, which depends on leaf biochemical constituents. \r\n\r\n\r\nWe also provide two ancillary science data products: \"Version 2 10 km Land Cover Type\" and \"Version 2 Distribution of Land Cover Types within 10 km EPIC pixel.\" The products were derived from 500m Moderate Resolution Imaging Spectroradiometer (MODIS) land cover type 3 product (MCDLCHKM), which was generated from 2008, 2009, and 2010 land cover products (MCD12Q1, v051). \r\n\r\nA detailed description of the VESDR and ancillary science data products can be found in \"VESDR Science Data Product Guide, version 2\". Section \"USER'S GUIDE\" provides links to this document as well as to the two ancillary science data products.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1990753227-LARC_ASDC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "NPP Multi-Biome: Summary Data from Intensive Studies at 125 Sites, 1936-2006",
+    "description": "This data set, NPP Multi-Biome: Summary Data from Intensive Studies at 125 Sites, 1936-2006, contains a single shapefile that provides site-level summary statistics from 125 sites in five biomes: boreal forest, grassland, temperate forest, tropical forest, and tundra. The spatial coverage is global and spans the time period from 1936 through 2006. Study periods, and both spatial and temporal resolution vary by site. Data include georeferenced location, elevation, mean annual precipitation, mean annual minimum and maximum air temperature, dominant soil type, ecoregion type, dominant plant species, general vegetation types, annual mean or peak living above- and below-ground biomass, average annual above- and below-ground Net Primary Productivity (NPP), and reference information. Additionally study sampling period and intervals, plot management, and long-term site management history are also provided.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2751950299-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Landsat-derived Burn Scar dNBR across Alaska and Canada, 1985-2015",
+    "description": "This dataset contains differenced Normalized Burned Ratio (dNBR) at 30-m resolution calculated for burn scars from fires that occurred within the Arctic Boreal and Vulnerability Experiment (ABoVE) Project domain in Alaska and Canada during 1985-2015. The fire perimeters were obtained from the Alaskan Interagency Coordination Center (AICC) and the Natural Resources Canada (NRC) fire occurrence datasets. Only burns with an area larger than 200-ha were included. The dNBR for each burn scar at 30-m pixel resolution was derived from pre- and post-burn Landsat 5, 7, and 8 scenes within a 5-km buffered area surrounding each burn scar using Landsat LEDAPS surface reflection image pairs.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2111787144-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Environmental Conditions During Fall Moose Hunting Seasons, Alaska, 2000-2016",
+    "description": "This dataset provides daily and annual air temperature, river water level, and leaf drop dates coincident with the moose (Alces alces) hunting season (September) for the area surrounding the rural communities of Nulato, Koyukuk, Kaltag, Galena, Ruby, Huslia, and Hughes in interior Alaska, USA, over the period 2000-2016. The main objective of the study was to assess how the environmental conditions impacted the success of hunters who rely on moose as a subsistence resource.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143402663-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SMAPVEX16 Iowa Manual ThetaProbe Soil Moisture V001",
+    "description": "These data consist of calibrated soil moisture sensor measurements recorded by manual sampling teams at the field sites of SMAPVEX16-Iowa during two intensive observation periods in June and August of 2016. The sites were located throughout an experiment domain of about 30 km by 40 km approximately 30 km north of Ames, Iowa.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2011916760-NSIDC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Forest Carbon Stocks and Fluxes from the NFCMS, Conterminous USA, 1990-2010",
+    "description": "This dataset, derived from the National Forest Carbon Monitoring System (NFCMS), provides estimates of forest carbon stocks and fluxes in the form of aboveground woody biomass (AGB), total live biomass, total ecosystem carbon, aboveground coarse woody debris (CWD), and net ecosystem productivity (NEP) as a function of the number of years since the most recent disturbance (i.e., stand age) for forests of the conterminous U.S. at a 30 m resolution for the benchmark years 1990, 2000, and 2010. The data were derived from an inventory-constrained version of the Carnegie-Ames-Stanford Approach (CASA) carbon cycle process model that accounts for disturbance processes for each combination of forest type, site productivity, and pre-disturbance biomass. Also provided are the core model data inputs including the year of the most recent disturbance according to the North American Forest Dynamics (NAFD) and the Monitoring Trends in Burn Severity (MTBS) data products; the type of disturbance; biomass estimates from the year 2000 according to the National Biomass and Carbon Dataset (NBCD); forest-type group; a site productivity classification; and the number of years since stand-replacing disturbance. The data are useful for a wide range of applications including monitoring and reporting recent dynamics of forest carbon across the conterminous U.S., assessment of recent trends with attribution to disturbance and regrowth drivers, conservation planning, and assessment of climate change mitigation opportunities within the forest sector.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2389890387-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Methane Emissions from Dairy Sources (Vista-CA), State of California, USA, 2019",
+    "description": "This dataset provides estimates of methane (CH4) emissions from dairies in California at a resolution of 0.1 degrees (~ 10 km x 10 km) for the year 2019. The mapped sources of dairy CH4 emissions are enteric fermentation and manure management reported in gigagrams per square km per year (Gg km-2 y-1). The sum of the two sources is also provided. These data are in the succession of Vista California (Vista-CA) spatial datasets that have identified and classified potential methane source emitters in California and were created utilizing an assortment of publicly available data sources from local, state, and federal agencies. This dataset can serve as a planning tool for mitigation, a prior for atmospheric observation-based emissions estimates, attribution of emissions to a specific facility, and to validate CH4 emissions reductions from management changes.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2515935936-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SMAPVEX12 Core-Based In Situ Soil Moisture Data for Agricultural Area V001",
+    "description": "This data set contains in situ soil moisture data collected with coring devices at several agricultural sites as part of the Soil Moisture Active Passive Validation Experiment 2012 (SMAPVEX12).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000620-NSIDC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SMAPVEX16 Iowa PALS Brightness Temperature and Soil Moisture Data V001",
+    "description": "This product contains data derived from permanent in situ soil stations and observations by the Passive Active L-band System (PALS) microwave aircraft instrument. The PALS instrument was mounted to a DC-3 aircraft, which flew six parallel flight lines at an altitude of 3000 m in order to map a study area in South Fork, Iowa, United States. A total of 20 soil stations were distributed throughout this same area. \n\nThe soil characteristics included in this data set are volumetric soil moisture, vertically and horizontally polarized brightness temperature, effective soil temperature, effective vegetation temperature, vegetation water content, land cover classification, sand and clay fraction, and volumetric soil moisture uncertainty estimates.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1586713401-NSIDC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SMAPVEX16 Manitoba PALS Brightness Temperature and Soil Moisture Data V001",
+    "description": "This product contains data derived from permanent in situ soil stations and observations by the Passive Active L-band System (PALS) microwave aircraft instrument. The PALS instrument was mounted to a DC-3 aircraft, which flew six parallel flight lines at an altitude of 3000 m in order to map a 26 km x 48 km domain in Manitoba, Canada. Nine permanent soil stations were distributed throughout this same area. \n\nThe soil characteristics included in this data set are volumetric soil moisture, vertically and horizontally polarized brightness temperature, effective soil temperature, effective vegetation temperature, vegetation water content, land cover classification, sand and clay fraction, and volumetric soil moisture uncertainty estimates.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1586713519-NSIDC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Remote Sensing Derived Topsoil and Agricultural Economic Losses, Midwestern USA",
+    "description": "This dataset provides estimates of topsoil loss and economic loss associated with decreased crop productivity resulting from topsoil loss at county- and state-levels across the Corn Belt region of the Midwestern USA. Intermediate products used to derive topsoil loss are provided and include 4 m gridded estimates of study sites elevation, curvature, slope, soil organic carbon index (SOCI), and the probability of exposed B-horizon soil. Topsoil loss at the county- and state-levels was derived from analyses of agricultural land at selected sites across the study area. From WorldView imagery, 759 fields were identified that had exposed bare soil (210 km2) and were grouped into 28 sites. Gridded estimates of the SOCI and of the probability of exposed B-horizon soil were determined for each field within the sites. Topography measures, including elevation (m), curvature (m-1), and slope (deg), were extracted over the entire study area from LiDAR-derived digital elevation models at a 4 m resolution acquired from 2003-2018. Within each of the 28 study sites, the SOCI and topographic curvature values were extracted from co-located pixels. Topsoil loss was estimated from the relationship between subsoil exposure and topography and averaged across each site.The relationship between topsoil loss and topographic curvature was used to up-scale and predict topsoil and economic losses at the county and state-levels across the entire 375,000 km2 study area. The data have been used to demonstrate a robust and scalable method for estimating the magnitude of erosion in agricultural landscapes.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2216864353-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Aquarius L2 Swath Single Orbit Soil Moisture V005",
+    "description": "This data set contains Level-2 global soil moisture estimates derived from the NASA Aquarius passive microwave radiometer on the Sat&amp;eacute;lite de Aplicaciones Cient&amp;iacute;ficas (SAC-D).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1529467866-NSIDC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Export and Leaching of Carbon and Nitrogen from Mississippi River Basin, 1901-2099",
+    "description": "This dataset provides estimates for export and leaching of dissolved inorganic carbon (DIC), dissolved organic carbon (DOC), total organic carbon (TOC), particulate organic carbon (POC), ammonium (NH4+), nitrate (NO3-), and total organic nitrogen (TON) from the Mississippi River Basin (MRB) to the Gulf of Mexico. The estimates are provided for a historical period of 1901-2014, and a future period of 2010-2099 (carbon estimates only) under two scenarios of high and low levels of population growth, economy, and energy consumption, respectively. The estimates are from the Dynamic Land Ecosystem Model 2.0 (DLEM 2.0). These data are applicable to studying how changes in multiple environmental factors (e.g., fertilizer application, land-use changes, climate variability, atmospheric CO2, and N deposition) affect the dynamics of leaching and export to the Gulf of Mexico.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2389021952-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "CMS: Annual Estimates of Global Riverine Nitrous Oxide Emissions, 1900-2016",
+    "description": "This dataset provides modeled estimates of annual nitrous oxide (N2O) emissions at a coarse geographic scale (0.5 x 0.5 degree) for two sets of global rivers and streams covering the period of 1900-2016. Emissions (g N2O-N/yr) are provided for higher-order rivers and streams (&gt;=4th order) and headwater streams (&lt;4th order). The estimates were derived from a water transport model, the Model for Scale Adaptive River Transport (MOSART), coupled with the Dynamic Land Ecosystem Model (DLEM) to link hydrology and ecosystem processes pertaining to N2O flux and transport. Factors driving the model included climate, land use and land cover, and nitrogen inputs (i.e., fertilizer, deposition, manure, and sewage). Nitrogen discharges from streams and rivers to the ocean were calibrated from observations from 50 river basins across the globe.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2389020006-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "NACP MCI: CO2 Emissions Inventory, Upper Midwest Region, USA., 2007",
+    "description": "This data set provides a bottom-up CO2 emissions inventory for the mid-continent region of the United States for the year 2007. The study was undertaken as part of the North American Carbon Program (NACP) Mid-Continent Intensive (MCI) campaign. Emissions for the MCI region were compiled from these resources into nine inventory sources (Table 1):(1) forest biomass and soil carbon, harvested woody products carbon, and agricultural soil carbon from the U.S. Greenhouse Gas (GHG) Inventory (EPA, 2010; Heath et al., 2011);(2) high resolution data on fossil and biofuel CO2 emissions from Vulcan (Gurney et al,. 2009); (3) CO2 uptake by agricultural crops, lateral transport in crop biomass harvest, and livestock CO2 emissions using USDA statistics (West et al., 2011); (4) agricultural residue burning (McCarty et al., 2011);(5) CO2 emissions from landfills (EPA, 2012);(6) and CO2 losses from human respiration using U.S. Census data (West et al., 2009). The CO2 inventory in the MCI region was dominated by fossil fuel combustion, carbon uptake during crop production, carbon export in biomass (commodities) from the region, and to a lesser extent, carbon sinks in forest growth and incorporation of carbon into timber products. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2539907396-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SMAPVEX12 Probe-Based In Situ Soil Moisture Data for Agricultural Area V001",
+    "description": "This data set contains in situ soil moisture data collected at several agricultural sites as part of the Soil Moisture Active Passive Validation Experiment 2012 (SMAPVEX12).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000241-NSIDC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Annual wildland fire emissions (WFEIS v0.5) for Conterminous US and Alaska, 2001-2013",
+    "description": "This data set contains annual modeled estimates of wildland fire emissions at 0.01 degree (~1-km) spatial resolution from the Wildland Fire Emissions Information System (WFEIS v0.5) for the conterminous U.S. (CONUS) and Alaska for 2001 through 2013. WFEIS is a web-based tool that provides resources to quantify emissions from past fires and output results as spatial data files (French et al., 2014). The data set includes emissions estimates of carbon (C), carbon monoxide (CO), carbon dioxide (CO2), methane (CH4), other non-methane hydrocarbons (NMHC), and particulate matter (PM) as well as estimates of above-ground biomass, total fuel availability, and consumption estimates.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2389082906-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Wildfire Carbon Emissions and Burned Plot Characteristics, NWT, CA, 2014-2016",
+    "description": "This dataset provides estimates of wildfire carbon emissions and uncertainties at 30-m resolution, and measurements collected at burned and unburned field plots from the 2014 wildfire sites near Yellowknife, Northwest Territories (NWT), Canada. Field data were collected at 211 burned plots in 2015 and include site characteristics, tree cover and species, basal area, delta normalized burn ratio (dNBR), plot characteristics, soil carbon, and carbon combusted. Data were collected at 36 unburned plots with characteristics similar to the burned plots in 2016. The emission estimates were derived from a statistical modeling approach based on measurements of carbon consumption at the 211 burned field plots located in seven independent burn scars. Estimates include uncertainty of field observations of aboveground and belowground combustion, as well as prediction uncertainty from a multiplicative regression model. To apply the model across all 2014 NWT fire perimeters, the final model covariates were re-gridded to a common 30-m grid defined by the Arctic Boreal and Vulnerability Experiment (ABoVE) Project. The regression model was then applied to burned pixels defined by a threshold of Landsat-derived differenced Normalized Burn Ratio (dNBR) within fire perimeters. Derived carbon emissions and uncertainty in g/m2 are provided for each 30-m grid cell. The modeled NWT domain encompasses 29 tiles within the ABoVE 30-m reference grid system.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2111710292-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Topographic and Soil Carbon Reconstructions in Agricultural Fields, Iowa",
+    "description": "This dataset contains model predictions of soil erosion and soil organic carbon (SOC) redistribution caused by agricultural practices such as tillage erosion. Soil erosion diminishes agricultural productivity by driving the loss of SOC. This model addresses a growing need to predict soil organic carbon transport, loss, and deposition. The model was applied to three sites containing paired prairie grassland and field plots in Iowa, and predicts SOC redistribution between 1859 to 2019. The model was developed by incorporating a SOC mixing model with a landscape evolution model that simulates tillage erosion.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2575422019-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Tree Mortality from Fires and Bark Beetles at 1-km Resolution, Western USA, 2003-2012",
+    "description": "This dataset provides annual estimates of tree mortality due to fires and bark beetles from 2003 to 2012 on forestland in the continental western United States. Tree mortality was estimated at 1-km spatial resolution by combining tree aboveground carbon (AGC) and disturbance datasets derived largely from remote sensing. Tree mortality is expressed as the amount of AGC stored in trees killed by disturbance (Mg carbon per km2). The dataset also includes annual uncertainty maps that were generated using a Monte Carlo approach in which tree biomass, biomass carbon content, and disturbance severity were iteratively varied by their uncertainty.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2767487834-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "WLDAS Noah-MP 3.6 Land Surface Model L4 Daily 0.01 degree x 0.01 degree Version D1.0 (WLDAS_NOAMP001_DA1) at GES DISC",
+    "description": "TBD",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2722116330-GES_DISC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "A Global Database of Gas Fluxes from Soils after Rewetting or Thawing, Version 1.0",
+    "description": "This database contains information compiled from published studies on gas flux from soil following rewetting or thawing. The resulting database includes 222 field and laboratory observations focused on rewetting of dry soils, and 116 field laboratory observations focused on thawing of frozen soils studies conducted from 1956 to 2010. Fluxes of carbon dioxide, methane, nitrous oxide, nitrogen oxide, and ammonia (CO2, CH4, N2O, NO and NH3) were compiled from the literature and the flux rates were normalized for ease of comparison. Field observations of gas flux following rewetting of dry soils include events caused by natural rainfall, simulated rainfall in natural ecosystems, and irrigation in agricultural lands. Similarly, thawing of frozen soils include field observations of natural thawing, simulated freezing-thawing events (i.e., thawing of simulated frozen soil by snow removal), and thawing of seasonal ice in temperate and high latitude regions (Kim et al., 2012). Reported parameters include experiment type, location, site type, vegetation, climate, soil properties, rainfall, soil moisture, soil gas flux after wetting and thawing, peak soil gas flux properties, and the corresponding study references. There is one comma-delimited data file. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2216863284-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Forest Ecosystem Structure and Function Data For Carbon Balance Research",
+    "description": "A comprehensive global database has been assembled to quantify CO2 fluxes and pathways across different levels of integration (from photosynthesis up to net ecosystem production) in forest ecosystems. The database fills an important gap for model calibration, model validation, and hypothesis testing at global and regional scales. The database archive includes: a Microsoft Office Access Database; data files for all tables in the database; query outputs from the database; and SQL script file for re-creating the database from the tables. The database is structured by site (i.e., a forest or stand of known geographical location, biome, species composition, and management regime). It contains carbon budget variables (fluxes and stocks), ecosystem traits (standing biomass, leaf area index, age), and ancillary information (management regime, climate, soil characteristics) for 529 sites from eight forest biomes. Data entries originated from peer-reviewed literature and personal communications with researchers involved in Fluxnet. Flux estimates were included in the database when they were based on direct measurements (e.g., tower-based eddy covariance system measurements), derived from single or multiple direct measurements, or modeled. Stand description was based on observed values, and climatic description was based on the CRU data set and ORCHIDEE model output. Uncertainty for each carbon balance component in the database was estimated in a uniformed way by expert judgment. Robustness of CO2 balances was tested, and closure terms were introduced as a numerical way to approach data quality and flux uncertainty at the biome level.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003031-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SMAPVEX08 Soil Texture Data V001",
+    "description": "This data set contains soil texture data that were extracted from a multi-layer soil characteristics database for the conterminous United States and generated for each regional study area. Data are representative of the conditions present in the regional study areas during the general timeline of the Soil Moisture Active Passive Validation Experiment 2008 (SMAPVEX08) campaign.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000001405-NSIDC_ECS",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "CENTURY: Modeling Ecosystem Responses to Climate Change, Version 4 (VEMAP 1995)",
+    "description": "The CENTURY model, Version 4, is a general model of plant-soil nutrient cycling that is being used to simulate carbon and nutrient dynamics for different types of ecosystems including grasslands, agricultural lands, forests and savannas. CENTURY is composed of a soil organic matter/ decomposition submodel, a water budget model, a grassland/crop submodel, a forest production submodel, and management and events scheduling functions.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003592-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Soil Moisture Data: Peck (FIFE)",
+    "description": "Gravimetric soil moisture data collected in conjunction w/ gamma ray soil study",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003703-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Eddy Corr. Surface Flux: USGS (FIFE)",
+    "description": "FIFE observations of surface fluxes",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003354-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO ND-04 Secondary Forest Recovery, Structure, and LAI, Central Amazonia, Brazil",
+    "description": "This data set reports measurements of the canopy and structure of secondary forests regenerating from abandoned pastures. These secondary forests are located in the state of Amazonas, Brazil, along the road BR-174 north of the city of Manaus within three fazendas (cattle ranches) now in various stages of grazing, pasture abandonment, or pasture reclamation: Fazenda Rodao (km 46), Embrapa-District of SUFRAMA (DAS) pasture research site (km 53), and Fazenda Dimona (km 72). Ten secondary forest study sites were selected within the three fazendas where post-pasture forest recovery ranged from 0 to 14 years since abandonment.From 2000-2001 estimates of leaf area index (LAI) and canopy cover were derived from hemispherical canopy digital photographs, and estimates of aboveground biomass and basal area were derived utilizing allometric equations from diameter at breast height (DBH) measurements. Estimates were classified by growth-form and diameter class. See Feldpausch et al. (2005) for more information. There are four comma-delimited data files with this data set and one companion file with information regarding the allometric equations relating diameter at breast height (for dbh &gt; 5 cm) to dry weight for biomass calculations. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003388-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Soil Carbon Estimates in 20-cm Layers to 1-meter Depth, Conterminous US, 1970-1993",
+    "description": "This data set provides a soil map with estimates of soil carbon (C) in g C/m2 for 20-cm layers from the surface to one meter depth for the conterminous United States.STATSGO v.1 (State Soil Geographic Database, Soil Survey Staff, 1994) data were used to estimate by 20-cm intervals to a 1-m depth the mean soil carbon for each of the STATSGO-delineated soil map units. These map units are the polygons represented in the provided Shapefile data product. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2216863502-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Soil Respiration Maps for the ABoVE Domain, 2016-2017",
+    "description": "This dataset provides gridded estimates of carbon dioxide (CO2) emissions from soil respiration occurring within permafrost-affected tundra and boreal ecosystems of Alaska and Northwest Canada at a 300 m spatial resolution for the period 2016-08-18 to 2018-09-12. The estimates include monthly average CO2 flux (gCO2 C m-2 d-1), daily average CO2 flux and error estimates by season (Autumn, Winter, Spring, Summer), estimates of annual offset of CO2 uptake (i.e., vegetation GPP), annual budgets of vegetation gross primary productivity (GPP; gCO2 C m-2 yr-1), and the fraction of open (non-vegetated) water within each 300 m grid cell. Belowground sources of respiration (i.e., root and microbial) are included. The gridded soil CO2 estimates were obtained using seasonal Random Forest models, information from remote sensing, and a new compilation of in-situ soil CO2 flux from Soil Respiration Stations and eddy covariance towers. The flux tower data are provided along with daily gap-filled flux observations for each Soil Respiration station forced diffusion (FD) chamber record. The data cover the NASA ABoVE Domain.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2254714725-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "AMS (Automated Met Station) Data (FIFE)",
+    "description": "30 minute average meteorological data from NCARs Portable Automated Mesonet Station",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003615-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Site Averaged Gravimetric Soil Moisture: 1989 (Betts)",
+    "description": "Site averaged product of the gravimetric soil moisture collected during the 1987-1989 FIFE experiment. Samples were averaged for each site, then averaged for each day. Includes only 1989 data.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002737-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Site Averaged Flux Data: 1987-1989 (Betts)",
+    "description": "Site averaged product of the flux data collected by many PIs during the 1987-1989 FIFE experiment. Data are in 30-minute intervals and include the entire period 1987-1989.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003240-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Mowing Experiment Biophys. Data (FIFE)",
+    "description": "Plant biomass data where grazing height or frequency were simulated by mowing",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003674-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Bowen Ratio Surface Flux: GSFC (FIFE)",
+    "description": "Surface flux measurements by Bowen Ratio technique during FIFE",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003284-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Bowen Ratio Surface Flux: KSU (FIFE)",
+    "description": "Assessing the effects of annual burning &amp; topography on surface energy exchanges",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002962-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Bowen Ratio Surf. Flux: Fritschen (FIFE)",
+    "description": "Evaluation of surface radiation and energy budget stations for FIFE",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003377-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Bowen Ratio Surface Flux: Smith (FIFE)",
+    "description": "Retrieval of surface fluxes from a combination of satellite &amp; surface platforms",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003349-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Bowen Ratio Surface Flux: UNL (FIFE)",
+    "description": "Latent &amp; sensible heat flux by Bowen Ratio &amp; aerodynamic characterization of vegetation",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003347-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Bowen Ratio Surface Flux: USGS (FIFE)",
+    "description": "Surface flux measurements by Bowen Ratio technique during FIFE",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003479-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Eddy Corr. Surface Flux: ANL (FIFE)",
+    "description": "Eddy flux &amp; surface exchange processes in non-uniform areas",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003138-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Eddy Corr. Surface Flux: UK (FIFE)",
+    "description": "Areal average evapotranspiration by measuring &amp; modeling surface controls",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002869-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Eddy Corr. Surface Flux: GSFC (FIFE)",
+    "description": "Surface flux measurements by eddy correlation technique during FIFE",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003218-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Eddy Corr. Surface Flux: UNL (FIFE)",
+    "description": "Latent &amp; sensible heat flux by eddy correlation &amp; aerodynamic characterization of vegetation",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002899-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Remote Sensing Data Before and After California Rim and King Forest Fires, 2010-2015",
+    "description": "This data set provides high-resolution surface reflectance, thermal imagery, burn severity metrics, and LiDAR-derived structural measures of forested areas in the Sierra Nevada Mountains, California, USA, collected before and after the August 2013 Rim and September 2014 King mega forest fires. Pre-fire data were paired with post-fire collections to assess pre- and post-fire landscape characteristics and fire severity. Field estimates of fire severity were collected to compare with derived remote sensing indices. Reflectance measurements for the spectroscopic AVIRIS and MASTER sensors are distributed as multi-band geotiffs for each megafire and acquisition date. Derived operational metric products for each sensor are provided in individual GeoTIFFs. GeoTIFFs produced from LiDAR point data depict first order topographic indices and summary statistics of vertical vegetation structure.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2773214672-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO TG-05 NPP, Carbon Pool, Soil Characteristics, Soil Gas Flux Maps of Brazil",
+    "description": "This data set provides maps produced from model output data from the National Aeronautics and Space Administration-Carnegie Ames Stanford Approach (NASA-CASA) model and other modeling approaches. The maps include estimated annual Net Primary Production (ANPP), leaf (live) biomass carbon, wood (live) biomass carbon, fine root (live) biomass carbon, metabolic leaf litter (dead) carbon, structural leaf litter (dead) carbon, woody detritus (dead) carbon, and slow soil carbon, gridded at half-degree spatial resolution for the years 1982-1998, and 2001 (NPP data) for Brazil. Maps are provided at one-degree resolution for monthly soil emissions and soil uptake of N2O, NO, CO, and CH4. In addition, there are maps in 8-km resolution for soil texture, soil carbon, soil pH, soil maximum plant available water (paw), and net primary productivity (NPP).There are three files with this data set in tar.gz format. The files are in half-degree, one-degree, and 8-km resolution. When expanded, the half degree and one degree files contain 83 map files in GeoTIFF (.tif) format. The third file (8-km resolution) contains the soil and productivity maps. When expanded, this file contains 22 files in GeoTIFF (.tif) format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2773195548-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Geoecology: County-Level Environmental Data for the United States, 1941-1981",
+    "description": "The Geoecology database is a compilation of environmental data for the period 1941 to 1981. The Geoecology database contains selected data on terrain and soils, water resources, forestry, vegetation, agriculture, land use, wildlife, air quality, climate, natural areas, and endangered species. Data on selected human population characteristics are also included to complement the environmental files. Data represent the conterminous United States at the county level. These historical data are provided as a source of 1970s baseline environmental conditions for the United States.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2761762895-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "GPM Ground Validation Duke Soil Moisture IPHEx V1",
+    "description": "The GPM Ground Validation Duke Soil Moisture dataset consists of a collection of various data obtained during the Integrated Precipitation and Hydrology Experiment (IPHEx) which occurred in the Southern Appalachians, spanning into the Piedmont and Coastal Plain regions of North Carolina from February 27, 2014 through October 17, 2014.  The various instruments used included Theta Probes, Infrared Thermometers, 200-A Soil Core Samplers, a Global Positioning System (GPS), Soil Thermometers with Scanning L-band Active Passive (SLAP) flight concurrent survey data, and CS6161 Water Reflectometers.  Data are available in a variety of formats based on instrument, including shapefiles, Excel files, Word document files, and ASCII formats. Browse images of site locations and data are available in JPG format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1979730515-GHRC_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "ALOS_PALSAR_LEVEL2.2",
+    "description": "ALOS PALSAR Level 2.2",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2011599335-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS SERM Forest Cover Data Layers of the SSA in Vector Format",
+    "description": "This data set was prepared by the SERM-FBIU.  The data include information on forest parameters and cover the area in and near the BOREAS SSA, excluding the PANP.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002730-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS TF-01 SSA-OA Understory Flux, Meteorological, and Soil Temperature Data",
+    "description": "Energy, carbon dioxide, and momentum flux data collected under the canopy along with meteorological and soils data at the BOREAS SSA-OA site from mid-October to mid-November of 1993 and throughout all of 1994.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003088-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS TGB-12 Soil Carbon and Flux Data of NSA-MSA in Raster Format",
+    "description": "This data set contains (1) estimates of soil carbon stocks by horizon based on soil survey data and analyses of data from individual soil profiles; (2) estimates of soil carbon fluxes based on stocks, fire history, drainage, and soil C inputs and decomposition constants based on field work using radiocarbon analyses; (3) fire history data estimating age ranges of time since last fire; (4) a raster image and an associated soils table file from which area-weighted maps of soil carbon and fluxes and fire history may be generated.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003175-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS TGB-07 Ambient Air Herbicide and Organochlorine Concentration Data",
+    "description": "Contains herbicide and organic chlorine concentrations in ambient air samples for TGB-07 in the SSA.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003399-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS TGB-07 Dry Deposition Herbicide and Organochlorine Flux Data",
+    "description": "Contains herbicide and organic chlorine fluxes in dry deposition samples for TGB-07 in the SSA.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002944-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS TGB-07 Rainwater Herbicide and Organochlorine Concentration Data",
+    "description": "Contains 1993 and 1994 herbicide concentrations in rain samples for TGB-07 in the SSA.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002784-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO CD-05 Forest Understory Fuel Loads, Paragominas, Para, Brazil: 2001",
+    "description": "This data set contains estimates of understory fuel loads (forest litter) at six locations near Paragominas in Northeastern Amazonia. Samples were collected from three different forest conditions: primary forest, logged forest, and burned forest. Volumes and weights are provided by size and condition class based on the planar transect method of estimating understory fuel loads (Brown 1971). Means and standard errors are reported from 3 transects in each forest x condition class. There is one comma-delimited data file (.csv) with this data set.DATA QUALITY STATEMENT: The Data Center has determined that there are questions about the quality of the data reported in this data set. The data set has missing or incomplete data, metadata, or other documentation that diminishes the usability of the products. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179130885-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO CD-05 Understory Fuel Stick Moisture, km 67 Site, Para, Brazil: 1998-2000",
+    "description": "This data set contains moisture content measurements for fuel sticks located in the forest understory of the rainfall exclusion experimental site, Tapajos National Forest, Para, Brazil. The mean and standard errors are reported for control and treatment plot measurements. The measurements were taken on various dates and times of day between 1998 and 2000 during the dry season.The rainfall exclusion treatment began in late January 2000 and continued through December 2004. About 60% of throughfall (equivalent to approximately half the rainfall) was diverted from a 1-hectare plot (i.e., dry) using plastic panels installed in the understory. The comparable 1-hectare control plot (i.e., wet) was unaltered. The goal of this experiment was to observe the potential effects of severe water stress on a humid Amazonian forest (Nepstad et al., 2002). There is one comma-separated (.csv) data file with this data set.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179130865-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO CD-06 Soil Classification Map, Ji-Parana River Basin, Rondonia, Brazil",
+    "description": "This data set provides a digital map of soil orders for the Ji-Parana River Basin, in the state of Rondonia, Brazil (Western Amazonia). Soil orders were manually digitized from a 1:500,000 map from EMBRAPA originally published in 1983. Oxisols and Ultisols are the predominant soil types in the basin, encompassing 47% and 24% of the total drainage area, respectively. Entisols cover 14%, Alfisols 13% and Eptisols 2% of the basin (Ballester et al., 2003). One data file is provided in ESRI ArcGIS Shapefile format compressed into a single zip file (*.zip).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003495-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Fertilizer and Manure, Version 1: Nitrogen Fertilizer Application",
+    "description": "The Nitrogen Fertilizer Application data set of the Global Fertilizer and Manure, Version 1 Data Collection represents the amount of nitrogen fertilizer nutrients applied to croplands. The national-level nitrogen fertilizer application rates for crops are from the International Fertilizer Industry Association (IFA) \"Fertilizer Use by Crop 2002\" statistics database that is available by request from the Food and Agriculture Organization (FAO). The number of crop-specific fertilizer application rates reported for each country ranged from 2 crops (Guinea) to over 50 crops (United States), and the years for which the data are reported range from 1994 to 2001. Spatially explicit fertilizer inputs of Nitrogen (N) were computed by fusing national-level statistics on fertilizer use with global maps of harvested area for 175 crops. The data were compiled by Potter  et al. (2010) and are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000020-SEDAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Fertilizer and Manure, Version 1: Nitrogen in Manure Production",
+    "description": "The Nitrogen in Manure Production data set of the Global Fertilizer and Manure, Version 1 Data Collection represents the amount of nitrogen manure produced and present on the landscape. The manure production at grid cell level was computed based on livestock population and nutrient excretion rates. The livestock population per grid cell was computed by multiplying the density values from FAO Gridded Livestock of the World by the area of grid cell. Spatially explicit manure produced and present on landscape is derived by combining the number of livestock heads and the nutrient excretion rate. The data were compiled by Potter et al. (2010) and are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000001-SEDAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Fertilizer and Manure, Version 1: Phosphorus Fertilizer Application",
+    "description": "The Phosphorus Fertilizer Application data set of the Global Fertilizer and Manure, Version 1 Data Collection represents the amount of phosphorus fertilizer nutrients applied to croplands.  The national-level phosphorus fertilizer application rates for crops are from the International Fertilizer Industry Association (IFA) \"Fertilizer Use by Crop 2002\" statistics database that is available by request from the Food and Agriculture Organization (FAO).The number of crop-specific fertilizer application rates reported for each country ranged from 2 crops (Guinea) to over 50 crops (United States), and the years for which the data are reported range from 1994 to 2001. Spatially explicit fertilizer inputs of Nitrogen (N) were computed by fusing national-level statistics on fertilizer use with global maps of harvested area for 175 crops. The data were compiled by  Potter et al. (2010) and are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000040-SEDAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Pesticide Grids (PEST-CHEMGRIDS), Version 1.01",
+    "description": "The Global Pesticide Grids (PEST-CHEMGRIDS), Version 1.01 data set contains 20 of the most-used pesticide active ingredients on 6 dominant crops and 4 aggregated crop classes at 5 arc-minute resolution (about 10 km at the equator), estimated in year 2015, and then projected to 2020 and 2025. To estimate the global application rates of specific active ingredients, spatial statistical methods were used to re-analyze the U.S. Geological Survey Pesticide National Synthesis Project (USGS/PNSP) and the Food and Agriculture Organization Corporate Statistical Database (FAOSTAT) pesticide databases, along with other public inventories including globally gridded data of soil physical properties, hydro-climatic variables, agricultural quantities, and socioeconomic indices. The application rate (APR) of each active ingredient on each crop is in kilogram per hectare per year (kg/ha-year), and the harvest area of each crop is in hectare (ha). The data set also includes 200 data quality index maps corresponding to each active ingredient on each crop, as well as maps of the 10 dominant crops and 4 aggregated crop classes. Version 1.01 includes data in GeoTIFF and netCDF formats.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1947982144-SEDAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Fertilizer and Manure, Version 1: Phosphorus in Manure Production",
+    "description": "The Phosphorus in Manure Production data set of the Global Fertilizer and Manure, Version 1 Data Collection represents the amount of phosphorous in manure produced and present on the landscape. The manure production at grid cell level was computed based on livestock population and nutrient excretion rates. The livestock population per grid cell was computed by multiplying the density values from FAO Gridded Livestock of the World by the area of grid cell. Spatially explicit manure produced and present on landscape is derived by combining the number of livestock heads and the nutrient excretion rate. The data were compiled by Potter et al. (2010) and are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000002-SEDAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "CMS: Carbon Fluxes from Global Agricultural Production and Consumption, 2005-2011",
+    "description": "This data set provides global estimates of carbon fluxes associate with annual crop net primary production (NPP) and harvested biomass, annual uptake and release by humans and livestock, and the total annual estimate of net carbon exchange (NCE) derived from these carbon fluxes. NCE estimates are for the combined crop plant harvest and consumption/expiration of fodder by livestock and of food by humans. Estimation of carbon uptake and release from global agricultural production and consumption required compilation and analysis of inventory data from various sources for the years 2005-2011. The flux estimates were spatially distributed to a global 0.05-degree resolution grid using MODIS land cover data. The quantities of carbon flux in each gridcell are represented in two ways: (1) where the quantities of carbon distributed to each gridcell were divided by the total gridcell area, resulting in average carbon fluxes per unit of total area (g C/m2/yr), and (2), where annual carbon fluxes associated with a source were summed over all types for the gridcell (Mg C/yr). The total surface area of the grid cells is provided.There are eight data files in netCDF format (.nc4) with this data set -- two files (per area and per gridcell) for each of the four flux source types. Data for all years are in each *.nc4 file.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2395542240-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Radarsat-2 Scenes, Natural Resources Canada",
+    "description": "The collection represents browse images and metadata for systematically georeferenced Radarsat-2 Synthetic Aperture Radar(SAR) satellite scenes. The browse scenes are not geometrically enhanced using ground control points, but are systematically corrected using sensor parameters. Full resolution precision geocoded scenes(corrected using ground control points) which correspond to the browse images can be ordered from MacDonald Dettwiler and Associates Ltd., Vancouver, Canada. Metadata discovery is achieved using the online catalog http://neodf.nrcan.gc.ca OR by using the CWIC OGC CSW service URL : http://cwic.csiss.gmu.edu/cwicv1/discovery. The imaging frequency is C Band SAR : 5405.0000 MHz. RADARSAT-2 is in a polar, sun-synchronous orbit with a period of approximately 101 minutes. The RADARSAT-2 orbit\nwill be maintained at +\\/- 1 km in across track direction. This orbit maintenance is suitable for InSAR data collection. The geo-location accuracy of RADARSAT-2 products varies with product type. It is currently estimated at +\\/- 30 m for Standard beam products.  The revisit period for RADARSAT-2 depends on the beam mode, incidence angle and geographic location of\nthe area of interest. In general, revisit is more frequent at the poles than the equator and the wider swath modes have higher revisit than t\nhe narrow swath modes.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2204659831-CCMEO",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "RCM (Radarsat Constellation Mission ) Products, Natural Resources Canada",
+    "description": "The collection represents products and metadata for georeferenced Radarsat Constellation Mission ( RCM ) satellite scenes. Metadata discovery and product ordering is achieved using the online catalog https://www.eodms-sgdot.nrcan-rncan.gc.ca/index-en.html OR by using the CWIC OpenSearch OSDD : http://cwic.csiss.gmu.edu/cwicv1/discovery. \n\n              ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2204659595-CCMEO",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Radarsat-1 Scenes, Natural Resources Canada",
+    "description": "The collection represents browse images and metadata for systematically georeferenced Radarsat-1 Synthetic Aperture Radar(SAR) satellite scenes. The browse scenes are not geometrically enhanced using ground control points, but are systematically corrected using sensor parameters. Full resolution precision geocoded scenes(corrected using ground control points) which correspond to the browse images can be ordered from MacDonald Dettwiler and Associates Ltd., Vancouver, Canada. Metadata discovery is achieved using the online catalog https://neodf.nrcan.gc.ca/neodf_cat3 OR by using the CWIC OGC CSW service URL : http://cwic.csiss.gmu.edu/cwicv1/discovery. \nRadarsat-1 operates at 5.3 GHz. (C-Band). It is in a sun-synchronous orbit. Image resolution is in the range 8-100 meters.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2204658925-CCMEO",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Aerial Photographs (from AMES Pilot Land Data System); USGS EDC, Sioux Falls",
+    "description": "The aerial photography inventoried by the Pilot Land Data System \n(PLDS) at NASA AMES Research Center has been transferred to the USGS\nEROS  Data Center.  The photos were obtained from cameras mounted on\nhigh and  medium altitude aircraft based at the NASA Ames Research\nCenter.  Several  cameras with varying focal lengths, lenses and film\nformats are used, but  the Wild RC-10 camera with a focal length of 152\nmillimeters and a 9 by 9  inch film format is most common.  The positive\ntransparencies are typically  used for ancillary ground checks in\nconjunctions with digital processing for  the same sites.  The aircraft\nflights, specifically requested by scientists  performing approved\nresearch, often simultaneously collect data using other  sensors on       \nboard (e.g. Thematic Mapper Simulators (TMS) and Thermal Infrared \nMultispectral Scanners).  High altitude color infrared photography is\nused  regularly by government agencies for such applications as crop\nyield forecasting,  timber inventory and defoliation assessment, water\nresource management,  land use surveys, water pollution monitoring, and\nnatural disaster  assessment.\n\nTo order, specify the latitude and longitude of interest.  You will  then be\ngiven a list of photos available for that location.  In some cases,  \"flight\nbooks\" are available at EDC that describe the nature of the mission  during\nwhich the photos were taken and other attribute information.  The  customer\nservice personnel have access to these books for those photo sets  for which\nthe books exist.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220566371-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS High Resolution Orthoimagery",
+    "description": "High resolution orthorectified images combine the image characteristics of an aerial photograph with the geometric qualities of a map. An orthoimage is a uniform-scale image where corrections have been made for feature displacement such as building tilt and for scale variations caused by terrain relief, sensor geometry, and camera tilt. A mathematical equation based on ground control points, sensor calibration information, and a digital elevation model is applied to each pixel to rectify the image to obtain the geometric qualities of a map.\n\nA digital orthoimage may be created from several photographs mosaicked to form the final image. The source imagery may be black-and-white, natural color, or color infrared with a pixel resolution of 1-meter or finer. With orthoimagery, the resolution refers to the distance on the ground represented by each pixel.\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567548-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "NACP Regional: Gridded 1-deg Observation Data and Biosphere and Inverse Model Outputs",
+    "description": "This data set contains standardized gridded observation data, terrestrial biosphere model output data, and inverse model simulations of carbon flux parameters that were used in the North American Carbon Program (NACP) Regional Synthesis activities. The data set provides five observation data files (MODIS GPP, MODIS NPP, FIA forest biomass/forest area, NASS crop NPP, and NASS agricultural land fraction) and simulation results from 18 terrestrial biosphere models (TBM) (28 variables; 114 files) and seven inverse models (IM) (two variables; 8 files). To produce this data set, the NACP Modeling and Synthesis Thematic Data Center (MAST-DC) resampled original model simulation results and observation measurement data to 1-degree spatial resolution for North American region, interpolated into monthly or yearly temporal resolution, and reformatted into Climate and Forecast (CF) convention compatible netCDF format. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2555119330-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "NACP Regional: Supplemental Gridded Observations, Biosphere and Inverse Model Outputs",
+    "description": "This data set contains standardized gridded observation data, terrestrial biospheric model output, and inverse model simulations that were compiled but not used in the North American Carbon Program (NACP) Regional Synthesis activities, thus the supplemental designation. The data set provides six (6) observation data packages (9 variables - MODIS LAI, MODIS FPAR, MODIS NDVI, MODIS EVI, FIA forest biomass, forest area, GPP Anomaly, NEE Anomaly, Reco Anomaly; 8 data files), output results from three terrestrial biosphere models (TBM) (14 variables; 214 files), and simulations from one inverse model (IM) (one variable; 1 file). To produce this data set, the NACP Modeling and Synthesis Thematic Data Center (MAST-DC) original data files were resampled to 1-degree spatial resolution for North American region (except for FIA Forest Biomass which was resampled to 0.5-degree resolution), interpolated into monthly or yearly temporal resolution, and reformatted into Climate and Forecast (CF) convention compatible netCDF format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2552200592-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "NACP North American Forest Dynamics Project: Forest Disturbance and Regrowth Data",
+    "description": "This data set provides the results of time-series analyses of Landsat imagery for 55 selected forested sites across the conterminous U.S.A. The output is a pair of disturbance data products for each site, one showing the first year of disturbance in the time series, the other showing the last year of disturbance. Each data pixel is labeled as either a static land class (persistent non-forest, persistent forest, or persistent water) or with the year of change for disturbed forest pixels. The time period analyzed is approximately 1984-2009.These forest disturbance data are distributed as a single band GeoTiff, with appropriate projection information defined within the file. The analyses were performed in three phases: 5 sites during the Prototype/Focal phase; 23 sites in Phase I; and 27 sites in Phase II. The spatial resolution of the Prototype/Focal and Phase I data is 28.5 meters. The spatial resolution of the Phase II data is 30 meters. The temporal resolution is nominally biennial. The mapped area for each forested site is approximately 185 km x 185 km. There are a total of 110 GeoTiff files - a first year and a last year disturbance file for each of the 55 sites.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2631224569-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "National Agriculture Imagery Program (NAIP)",
+    "description": "The National Agriculture Imagery Program (NAIP) acquires aerial imagery during the agricultural growing seasons in the continental U.S. A primary goal of the NAIP program is to make digital ortho photography available to governmental agencies and the public within a year of acquisition.\n \nNAIP is administered by the USDA's Farm Service Agency (FSA) through the Aerial Photography Field Office in Salt Lake City. This \"leaf-on\" imagery is used as a base layer for GIS programs in FSA's County Service Centers, and is used to maintain the Common Land Unit (CLU) boundaries.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567672-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "NARSTO SOS99NASH DOE G-1 Air Chemistry Data",
+    "description": "NARSTO_SOS99NASH_G-1_AIR_CHEMISTRY_DATA is the North American Research Strategy for Tropospheric Ozone (NARSTO) SOS99 Nashville Department of Energy (DOE) G-1 Air Chemistry Data product. Data was collected via the G-1 aircraft deployed during the 1999 campaign to make measurements within the Nashville urban plume. These in situ, semi-Lagrangian measurements, in conjunction with surface-based observations independently made at the Polk Building and at the Cornelia Fort site, allowed quantification of the following:\r\na) ozone production/loss rates, \r\nb) ozone production efficiency and \r\nc) NOx loss rates within this plume. \r\nMechanical problems with the G-1 aircraft precluded making additional measurements. \r\n\r\nNorth American Research Strategy for Tropospheric Ozone (NARSTO), which has since disbanded, was a public/private partnership, whose membership spanned across government, utilities, industry, and academe throughout Mexico, the United States, and Canada. The primary mission was to coordinate and enhance policy-relevant scientific research and assessment of tropospheric pollution behavior; activities provide input for science-based decision-making and determination of workable, efficient, and effective strategies for local and regional air-pollution management. Data products from local, regional, and international monitoring and research programs are still available.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2355663875-LARC_ASDC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "NACP Forest Age Maps at 1-km Resolution for Canada (2004) and the U.S.A. (2006)",
+    "description": "This data set provides forest age map products at 1-km resolution for Canada and the United States (U.S.A.). These continental forest age maps were compiled from forest inventory data, historical fire data, optical satellite data, and the images from the NASA Landsat Ecosystem Disturbance Adaptive Processing System (LEDAPS) project. These input data products have various sources and creation dates as described in the source paper by Pan et al. (2011). Canadian maps were produced with data available through 2004 and U.S.A. maps with data available through 2006. A supplementary map of the standard deviations for age estimates was developed for quantifying uncertainty.Note that the Pan et al. (2011) paper is included as a companion file with this data set and was the source of descriptions in the guide.Forest age, implicitly reflecting the past disturbance legacy, is a simple and direct surrogate for the time since disturbance and may be used in various forest carbon analyses that concern the impact of disturbances. By combining geographic information about forest age with estimated carbon dynamics by forest type, it is possible to conduct a simple but powerful analysis of the net CO2 uptake by forests, and the potential for increasing (or decreasing) this rate as a result of direct human intervention in the disturbance/age status.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2556019064-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO ND-02 Agricultural and Secondary Forest Soil Trace Gas Flux, Para: 2001-2004",
+    "description": "This data set reports the results of a study to measure soil emissions of the carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O), and nitric oxide (NO) throughout an entire cropping cycle in (1) slash-and-burn and (2) chop-and-mulch prepared agricultural fields from 2001-2004.  An adjacent 15-year-old fallow field with secondary forest vegetation served as the control.  The study site is within the municipality of Igarape Acu, Para, Brazil, at the Experimental Farm of the Federal Rural University of Amazonia. Flux data are reported in one comma-separated file.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2777777771-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO ND-02 CO2 Flux from Soils in Forests and Pastures, Acre, Brazil: 1999-2001",
+    "description": "This data set reports soil CO2 flux and results of physical and chemical characterization of soils from pastures, secondary forests, and mature forests near Rio Branco, Acre, Brazil. CO2 flux measurements were made in the field on a monthly basis at 16 sites from June of 1999 to January 2001. In addition, a set of diel CO2 flux measurements were made at 1-hour intervals at selected pasture, mature and secondary forest sites in June and July 2000. Litter was collected monthly from 2001-2002 at each of the mature forest sites and at four of the secondary forest sites, and mean litter mass is reported. Soil samples were collected and analyzed from several land cover types at two sites during this same time period. There are six comma-delimited ASCII data files with this data set.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003348-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO ND-11 Soil Water Pressure and Flow Measurements under Tree Crops",
+    "description": "This data set contains information that can be used to examine water fluxes in soils beneath tree crops in an Amazonian agroforest. The data consists of repeated measurements of soil matrix pressure and soil moisture content at several depths. The study was carried out at the Empresa Brasileira de Pesquisa Agropecuaria (Embrapa)-Amazonia Ocidental, 29 km North of Manaus, Brazil (3d 8m S, 59d 52m W, 40 - 50 m above sea level), in 1998 and 1999.Microaggregated tropical soils have shown high water conductivity even under unsaturated conditions in laboratory experiments. It is not clear, however, what depth the infiltrating soil water reaches during storm events under humid tropical conditions. Dynamics and fluxes of water were determined with high temporal resolution to a depth of 5 m in a Xanthic Hapludox of central Amazonia, Brazil. The soil water percolated to a depth of 0.9 m within 2 h of a rainfall event of 48 mm. Water fluxes were significantly slower below 0.9 m (17% of infiltration at 0 - 0.9 m) due to higher bulk densities. Percolation not only started rapidly after a rainfall event when soil water suction reached a certain threshold (ca. 20 - 30 hPa) but was also reduced to background levels less than 1 h after the rain had ended. The demonstrated extremely short-term dynamics of water fluxes have implications for measurement design of water availability and solute leaching in microaggregated tropical soil that require correct time integrals of solution concentrations and soil water dynamics. Measurement intervals of 30 min or less were necessary in our study. Rapid water flows may explain the observed high nutrient losses from the topsoil of microaggregated tropical soil and the large accumulation of nutrients in the deep soil (&gt; 5 m).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2777338780-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO ND-11 Pre-harvest Forest Tree and Liana Biomass, NW Mato Grosso, Brazil: 2003",
+    "description": "Tree and liana (vine) measurements were collected in a logging concession at the Fazenda Rohsamar in the municipality of Jurena in northwestern Mato Grosso. Tree identification and diameter measurements were collected between July 31, 2003 and October 14, 2003 on 10-m x 1000-m transects and the liana measurements were collected between August 5, 2003 and October 14, 2003 on 10 2-m x 1000-m transects within a 1400 ha logging block ( Feldpauschh et al. 2006). Liana transects were nested within tree census transects to relate total species data to the tree inventory. The biomass of lianas was calculated using two different allometric equations derived for lianas in Amazonian forests ( Gerwing and Farias, 2000; Gerwing et al. 2004). Comma-separated data files of measurements of (1) tree species (diameter &gt;10 cm), and forest characteristics, (2) measurements of liana diameter, forest characteristics, and calculated biomass, and (3) georeference points for the liana sampling transects are provided.Selective logging has become a dominant land-use in Brazilian Amazonia. Published data on forest biomass in southern Amazonia is sparse. As part of a larger study to evaluate the effect of reduced impact logging on carbon dynamics and nutrient stocks, forest structure, and forest regeneration potential, we conducted a pre-harvest campaign to estimate tree and liana biomass in a parcel of managed forest in northwestern Mato Grosso. Prior to logging in 2003, a scientific inventory was conducted in Block 5 of the logging concession(Figure 1). Tree characteristics for all trees and palms &gt; 10 cm DBH was measured by stratified sampling across the block to account for differences in tree densities (trees/ha). Transects were located using a commercial timber inventory to identify tree trunks approximately 10 cm DBH, lower and upper canopy height, species, and location of all individuals to the nearest 10 cm on an x-y grid. Diameter of all liana stems were included if their ultimate rooting point before ascending into the canopy fell within the transect. Lianas that had been cut due to reduced impact logging practices were also measured. Distance along the transect was recorded for each stem.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2777749892-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Natural and Anthropogenic Methane Sources, New England, USA, 1990-1994",
+    "description": "This data set contains an inventory of natural and anthropogenic methane emissions for all counties in the six New England states of Connecticut, Rhode Island, Massachusetts, Vermont, New Hampshire, and Maine. The inventory represents a snapshot in time (circa 1990-1994) and provides emission estimates for multiple sources including wetlands, landfills, ruminant animals, residential wood combustion, fossil fuel combustion and use, animal manure, wastewater treatment, and natural gas transmission pipelines. Also included is the uptake or sink of methane in relatively well-drained upland soils.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2773260044-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Meteorology (OTTER)",
+    "description": "Meteorology data collected on an hourly basis from stations located near the OTTER sites in 1990 and summarized to monthly data--see also: Canopy Chemistry (OTTER)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003059-ORNL_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Smoke/Sulfates, Clouds and Radiation Experiment in Brazil (SCAR-B) Data Set Version 5.5",
+    "description": "SCAR_B_G8_FIRE data are Smoke/Sulfates, Clouds and Radiation Experiment in Brazil, GOES-8 ABBA Diurnal Fire Product (1995 Fire Season) data.Smoke/Sulfates, Clouds and Radiation - Brazil (SCAR-B) data include physical and chemical components of the Earth's surface, the atmosphere and the radiation field collected in Brazil with an emphasis in biomass burning. SCAR-B, the third SCAR experiment, was completed in September 1995, studied the effects of biomass burning on atmospheric processes and aids in the preparation of new techniques for remote sensing of these processes from space.The objectives for the SCAR mission are: to advance our knowledge of how the physical, chemical and radiative processes in our atmosphere are affected by sulfate aerosol and smoke from biomass burning; to improve our expertise at remotely sensing smoke, water vapor, clouds, vegetation and fires; and to assess the effects of deforestation and biomass burning on tropical landscapes.The Cooperative Institute for Meteorological Satellite Studies (CIMSS) at the University of Wisconsin-Madison has produced diurnal GOES-8 derived fire products for the 1995 fire season (June-October 1995) with version 5.5 of the GOES-8 Automated Biomass Burning Algorithm (ABBA). The diurnal fire products were produced for 1145, 1445, 1745, and 2045 UTC coinciding with peak burning hours.The GOES-8 Automated Biomass Burning Algorithm (ABBA) fire products are derived from Geostationary Operational Environmental Satellite (GOES)-8 imager radiances from bands 1 (visible), 2 (3.9 micron), and 4 (11 micron).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1337195037-LARC_ASDC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_DUAL_POL_GRD_FULL_RES",
+    "description": "Sentinel-1A Dual-pol ground range detected full resolution images",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214471197-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "SENTINEL-1A_DUAL_POL_METADATA_GRD_FULL_RES",
+    "description": "Sentinel-1A Dual-pol ground range detected full resolution metadata",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1214471960-ASF",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Algeria",
+    "description": "The objective of GEO is to fulfil a vision of a world where decisions and actions are informed by coordinated, comprehensive and sustained Earth Observation (EO). This is being pursued mainly through the added value of co-ordinating existing institutions, organised communities, space agencies, in-situ monitoring agencies, scientific institutions, research centres, universities, modelling centres, technology developers and other groups that deal with one or more aspects of EO. To reach this overarching goal, GEO focuses on capacity development in three dimensions: infrastructure, individuals and institutions. In the field of agriculture, the general goal is to promote the utilization of Earth observations for advancing sustainable agriculture, aquaculture and fisheries. Key issues include early warning, risk assessment, food security, market efficiency and combating desertification. \n\n(Source: http://www.research-europe.com/index.php/2011/08/joao-soares-secretariat-expert-for-agriculture-group-on-earth-observations/)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567881-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Argentina",
+    "description": "The objective of GEO is to fulfil a vision of a world where decisions and actions are informed by coordinated, comprehensive and sustained Earth Observation (EO). This is being pursued mainly through the added value of co-ordinating existing institutions, organised communities, space agencies, in-situ monitoring agencies, scientific institutions, research centres, universities, modelling centres, technology developers and other groups that deal with one or more aspects of EO. To reach this overarching goal, GEO focuses on capacity development in three dimensions: infrastructure, individuals and institutions. In the field of agriculture, the general goal is to promote the utilization of Earth observations for advancing sustainable agriculture, aquaculture and fisheries. Key issues include early warning, risk assessment, food security, market efficiency and combating desertification. \n\n(Source: http://www.research-europe.com/index.php/2011/08/joao-soares-secretariat-expert-for-agriculture-group-on-earth-observations/)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567882-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Australia",
+    "description": "The objective of GEO is to fulfil a vision of a world where decisions and actions are informed by coordinated, comprehensive and sustained Earth Observation (EO). This is being pursued mainly through the added value of co-ordinating existing institutions, organised communities, space agencies, in-situ monitoring agencies, scientific institutions, research centres, universities, modelling centres, technology developers and other groups that deal with one or more aspects of EO. To reach this overarching goal, GEO focuses on capacity development in three dimensions: infrastructure, individuals and institutions. In the field of agriculture, the general goal is to promote the utilization of Earth observations for advancing sustainable agriculture, aquaculture and fisheries. Key issues include early warning, risk assessment, food security, market efficiency and combating desertification. \n\n(Source: http://www.research-europe.com/index.php/2011/08/joao-soares-secretariat-expert-for-agriculture-group-on-earth-observations/)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567948-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Ethiopia",
+    "description": "The objective of GEO is to fulfil a vision of a world where decisions and actions are informed by coordinated, comprehensive and sustained Earth Observation (EO). This is being pursued mainly through the added value of co-ordinating existing institutions, organised communities, space agencies, in-situ monitoring agencies, scientific institutions, research centres, universities, modelling centres, technology developers and other groups that deal with one or more aspects of EO. To reach this overarching goal, GEO focuses on capacity development in three dimensions: infrastructure, individuals and institutions. In the field of agriculture, the general goal is to promote the utilization of Earth observations for advancing sustainable agriculture, aquaculture and fisheries. Key issues include early warning, risk assessment, food security, market efficiency and combating desertification.\n \n(Source: http://www.research-europe.com/index.php/2011/08/joao-soares-secretariat-expert-for-agriculture-group-on-earth-observations/)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567949-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Pakistan",
+    "description": "The objective of GEO is to fulfil a vision of a world where decisions and actions are informed by coordinated, comprehensive and sustained Earth Observation (EO). This is being pursued mainly through the added value of co-ordinating existing institutions, organised communities, space agencies, in-situ monitoring agencies, scientific institutions, research centres, universities, modelling centres, technology developers and other groups that deal with one or more aspects of EO. To reach this overarching goal, GEO focuses on capacity development in three dimensions: infrastructure, individuals and institutions. In the field of agriculture, the general goal is to promote the utilization of Earth observations for advancing sustainable agriculture, aquaculture and fisheries. Key issues include early warning, risk assessment, food security, market efficiency and combating desertification. \n\n(Source: http://www.research-europe.com/index.php/2011/08/joao-soares-secretariat-expert-for-agriculture-group-on-earth-observations/)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567883-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Russia",
+    "description": "The objective of GEO is to fulfil a vision of a world where decisions and actions are informed by coordinated, comprehensive and sustained Earth Observation (EO). This is being pursued mainly through the added value of co-ordinating existing institutions, organized communities, space agencies, in-situ monitoring agencies, scientific institutions, research centres, universities, modelling centres, technology developers and other groups that deal with one or more aspects of EO. To reach this over arching goal, GEO focuses on capacity development in three dimensions: infrastructure, individuals and institutions. In the field of agriculture, the general goal is to promote the utilisation of Earth observations for advancing sustainable agriculture, aquaculture and fisheries. Key issues include early warning, risk assessment, food security, market efficiency and combating desertification.\n\n(Source: http://www.research-europe.com/index.php/2011/08/joao-soares-secretariat-expert-for-agriculture-group-on-earth-observations/)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567947-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Uganda",
+    "description": "The objective of GEO is to fulfil a vision of a world where decisions and actions are informed by coordinated, comprehensive and sustained Earth Observation (EO). This is being pursued mainly through the added value of co-ordinating existing institutions, organised communities, space agencies, in-situ monitoring agencies, scientific institutions, research centres, universities, modelling centres, technology developers and other groups that deal with one or more aspects of EO. To reach this over arching goal, GEO focuses on capacity development in three dimensions: infrastructure, individuals and institutions. In the field of agriculture, the general goal is to promote the utilisation of Earth observations for advancing sustainable agriculture, aquaculture and fisheries. Key issues include early warning, risk assessment, food security, market efficiency and combating desertification.\n\n(Source: http://www.research-europe.com/index.php/2011/08/joao-soares-secretariat-expert-for-agriculture-group-on-earth-observations/)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567946-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Ukraine",
+    "description": "The objective of GEO is to fulfill a vision of a world where decisions and actions are informed by coordinated, comprehensive and sustained Earth Observation (EO). This is being pursued mainly through the added value of coordinating existing institutions, organized communities, space agencies, insitu monitoring agencies, scientific institutions, research centres, universities, modelling centres, technology developers and other groups that deal with one or more aspects of EO. To reach this overarching goal, GEO focuses on capacity development in three dimensions: infrastructure, individuals and institutions. In the field of agriculture, the general goal is to promote the utilization of Earth observations for advancing sustainable agriculture, aquaculture and fisheries. Key issues include early warning, risk assessment, food security, market efficiency and combating desertification. \n\n(Source: http://www.research-europe.com/index.php/2011/08/joao-soares-secretariat-expert-for-agriculture-group-on-earth-observations/)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567930-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Argentina",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567928-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Bangladesh",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567987-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Belize",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567944-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Bolivia",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567931-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Borneo Island",
+    "description": "The Forest Carbon Tracking Task (GEO FCT) has been established to support countries wanting to establish national forest-change, carbon estimation and reporting systems. It will facilitate access to long-term satellite, airborne and in situ data, provide the associated analysis and prediction tools, and create the appropriate framework and technical standards for a global network of national forest carbon tracking systems. The task follows the guidelines set out by the United Nations Framework Convention on Climate Change (UNFCCC). Its outputs will be available to support interested countries in their efforts to implement the Convention. The task is being carried out by a partnership of GEO member governments, key UN bodies, space agencies, the science community and the private sector.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567147-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Brazil",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567190-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Burma",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567941-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Cambodia",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567223-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Cameroon",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567235-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Colombia",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring sy\nstems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567290-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Costa Rica",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567918-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Democratic Republic of Congo",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567259-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Ecuador",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567919-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Forest Observations Initiative (GFOI) - Fiji",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567933-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Gabon",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567970-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Guatemala",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567926-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Guyana",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567360-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Honduras",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567945-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Laos",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567940-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Malawi",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567927-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Mexico",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567361-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Nepal",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567328-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Nicaragua",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567925-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Panama",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567923-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Peru",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567331-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Philippines",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567943-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) REPUBLIC OF THE CONGO",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567894-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Sumatra",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567375-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Tanzania",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567433-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Tasmania Island",
+    "description": "The Forest Carbon Tracking Task (GEO FCT) has been established to support countries wanting to establish national forest-change, carbon estimation and reporting systems. It will facilitate access to long-term satellite, airborne and in situ data, provide the associated analysis and prediction tools, and create the appropriate framework and technical standards for a global network of national forest carbon tracking systems. The task follows the guidelines set out by the United Nations Framework Convention on Climate Change (UNFCCC). Its outputs will be available to support interested countries in their efforts to implement the Convention. The task is being carried out by a partnership of GEO member governments, key UN bodies, space agencies, the science community and the private sector.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567416-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Thailand",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilizing observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567498-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Vietnam",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567924-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS Global Forest Observations Initiative (GFOI) Zambia",
+    "description": "The Global Forest Observations Initiative (GFOI) is an initiative of the inter-governmental Group on Earth Observations (GEO) that aims to:\n\nfoster the sustained availability of observations for national forest monitoring systems; support governments that are establishing national systems by providing a platform for coordinating observations, providing assistance and guidance on utilising observations, developing accepted methods and protocols, and promoting ongoing research and development; and work with national governments that report into international forest assessments (such as the global Forest Resources Assessment (FRA) of the Food and Agriculture Organization, FAO) and the national greenhouse gas inventories reported to the UN Framework Convention on Climate Change (UNFCCC) using methods of the Intergovernmental Panel on Climate Change (IPCC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567929-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS JECAM Canada South Nation",
+    "description": "Joint Experiment for Crop Assessment and Monitoring\n\nThe overarching goal of JECAM is to reach a convergence of approaches, develop monitoring and reporting protocols and best practices for a variety of global agricultural systems. JECAM will enable the global agricultural monitoring community to compare results based on disparate sources of data, using various methods, over a variety of global cropping systems. It is intended that the JECAM experiments will facilitate international standards for data products and reporting, eventually supporting the development of a global system of systems for agricultural crop assessment and monitoring. The JECAM initiative is developed in the framework of GEO Global Agricultural Monitoring (GEOSS Task AG0703 a) and Agricultural Risk Management (GEOSS Task AG0703 b).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567544-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "eMODIS",
+    "description": "eMODIS products respond to specific land remote sensing community need for the benefits of MODIS data without the standard NASA packaging.  eMODIS offers regionally based NDVI products in near-real time and historically using GeoTIFF format, non-sinusoidal map projections, and variable compositing periods.  eMODIS currently (2011) produces NDVI over the continental U.S., Alaska, Central America/Caribbean, Africa and Madagascar, and Central Asia.  Additional geographic and geophysical options are planned based on user requirements.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220566698-USGS_LTA",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global N Cycle: Fluxes and N2O Mixing Ratios Originating from Human Activity",
+    "description": "Nitrogen is a major nutrient in terrestrial ecosystems and an important catalyst in tropospheric photochemistry. Over the last century human activities have dramatically increased inputs of reactive nitrogen (Nr, the combination of oxidized, reduced and organically bound nitrogen) to the Earth system. Nitrogen cycle perturbations have compromised air quality and human health, acidified ecosystems, and degraded and eutrophied  lakes and coastal estuaries [Vitousek et al., 1997a, 1997b; Rabalais, 2002; Howarth et al., 2003; Townsend et al., 2003; Galloway et al., 2004]. To begin to quantify the changes to the global N cycle, we have assembled key flux data and N2O mixing ratios from various sources.  The data assembled from different sources includes fertilizer production from 1920-2004;  manure production from 1860-2004; crop N fixation estimated for three time points, 1860, 1900, 1995; tropospheric N2O mixing ratios from ice core and firn measurements, and tropospheric concentrations to cover the time period from 1756-2004.  The changing N2O concentrations provide an independent index of changes to the global N cycle, in much the same way that changing carbon dioxide concentrations provide an important constraint on the global carbon cycle.  The changes to the global N cycle are driven by industrialization, as indicated by fossil fuel NOx emission, and by the intensification of agriculture, as indicted by fertilizer and manure production and crop N2 fixation. The data set and the science it reflects are by nature interdisciplinary.  Making the data set available through the ORNL DAAC is an attempt to make the data set available to the considerable interdisciplinary community studying the N cycle.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2776893351-ORNL_CLOUD",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "GPM Ground Validation USDA ARS Soil Moisture IFloodS V1",
+    "description": "The GPM Ground Validation United States Department of Agriculture (USDA) Agricultural Research Service (ARS) Soil Moisture IFloodS dataset was collected during the Iowa Flood Studies (IFloodS) ground measurement campaign from April 17, 2013 to June 4, 2013. The goals of the campaign were to collect detailed measurements of precipitation at the Earth’s surface using ground instruments and advanced weather radars and to simultaneously collect data from satellites passing overhead.  A total of 15 stations were deployed near the South Fork River in North Central Iowa. The soil moisture probes measure hourly instantaneous measurements of the real dielectric permittivity, soil temperature, bulk electrical conductivity, and volumetric soil moisture.  This dataset also consists of precipitation amount, air temperature, relative humidity, vapor pressure, wind speed, wind direction, and solar radiation measurements. The data files are available in ASCII-csv and Excel file formats.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1979128995-GHRC_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "GPM GROUND VALIDATION OKLAHOMA CLIMATOLOGICAL SURVEY MESONET MC3E V1",
+    "description": "The GPM Ground Validation Oklahoma Climatological Survey Mesonet MC3E data were collected during the Midlatitude Continental Convective Clouds Experiment (MC3E) in central Oklahoma during the April-June 2011 period. The overarching goal was to provide the most complete characterization of convective cloud systems, precipitation, and the environment that has ever been obtained, providing constraints for model cumulus parameterizations and space-based rainfall retrieval algorithms over land that had never before been available. Collected by a network of weather stations, this dataset is composed of 15 minute and 5 minute files with one file per site per day in mts format. Data can be read as ASCII text. Multiple parameters found in this dataset include relative humidity, air temperature, wind speed and direction, precipitation and calibrated soil moisture. More information on the contents and data format can be found at http://www.mesonet.org/index.php/site/about/mdf_mts_files.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1982849730-GHRC_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) PASSIVE MICROWAVE RADIOMETER AND SOIL MOISTURE-TEMPERATURE DATA GCPEX V1",
+    "description": "The GPM Ground Validation Environment Canada (EC) Passive Microwave Radiometer and Soil Moisture-Temperature Data GCPEx dataset is consisted of data during the GPM Cold-season Precipitation Experiment (GCPEx) at the Centre for Atmospheric Research Experiments (CARE) site in Ontario, Canada during the winter season 2011-2012. GCPEx addressed shortcomings in the GPM snowfall retrieval algorithm by collecting microphysical properties, associated remote sensing observations, and coordinated model simulations of precipitating snow. Data collected includes microwave brightness temperatures, snow and soil/snow-air interface (ground surface temperatures), soil surface temperatures, and soil volumetric water content. These data were acquired by multiple instruments: a passive microwave radiometer, a water content reflectometer, thermistors, soil moisture probe.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1979695109-GHRC_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  },
+  {
+    "title": "GPM Ground Validation Environment Canada (EC) Weather Station XET C3VP V1",
+    "description": "The GPM Ground Validation Environment Canada (EC) Weather Station XET C3VP dataset consists of surface meteorological data collected at the Environment Canada (EC) XET station at the Centre for Atmospheric Research Experiments (CARE) during the Canadian CloudSat/CALIPSO Validation Project (C3VP) field campaign. The campaign took place in southern Canada in support of multiple science missions, including the NASA GPM mission, in order to improve the modeling and remote sensing of winter precipitation. The XET C3VP dataset file includes temperature, pressure, wind speed and direction, relative humidity, solar radiation, grass temperature, soil temperature, snow depth, sunshine, and precipitation measurements from October 4, 2006 through March 31, 2007 in ASCII-csv format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1998274501-GHRC_DAAC",
+    "category": "Agriculture",
+    "tags": ["api"]
+  }
+]

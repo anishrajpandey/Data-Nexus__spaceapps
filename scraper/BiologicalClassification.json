@@ -1,0 +1,254 @@
+[
+  {
+    "title": "NASA Ocean Biogeochemical Model assimilating satellite chlorophyll data global monthly VR2017 (NOBM_MON) at GES DISC",
+    "description": "This is the assimilated monthly data from NASA Ocean Biogeochemical Model (NOBM). The NOBM is a comprehensive, interactive ocean biogeochemical model coupled with a circulation and radiative model in the global oceans (Gregg and Casey, 2007). It spans the domain from -84 to 72 degree latitude in increments of 1.25 degree longitude by 2/3 degree latitude, including only open ocean areas where bottom depth &gt;200m. NOBM contains 4 phytoplankton groups, 4 nutrient groups, a single herbivore group, and 3 detrital pools, and the major ocean carbon components, dissolved organic and inorganic carbon (DOC and DIC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1404080681-GES_DISC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "NASA Ocean Biogeochemical Model assimilating satellite chlorophyll data global daily VR2017 (NOBM_DAY) at GES DISC",
+    "description": "This is the assimilated daily data from NASA Ocean Biogeochemical Model (NOBM).  The NOBM is a comprehensive, interactive ocean biogeochemical model coupled with a circulation and radiative model in the global oceans (Gregg and Casey, 2007). It spans the domain from -84 to 72 degree latitude in increments of 1.25 degree longitude by 2/3 degree latitude, including only open ocean areas where bottom depth &gt; 200m. NOBM contains 4 phytoplankton groups, 4 nutrient groups, a single herbivore group, and 3 detrital pools, and the major ocean carbon components, dissolved organic and inorganic carbon (DOC and DIC).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1404080675-GES_DISC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Dall Sheep Response to Snow and Landscape Covariates,  Alaska, 2005-2008",
+    "description": "This dataset provides daily estimates of snow depth and snow density for the study area in Lake Clark National Park and Preserve (LCNPP), Alaska. The data were generated using SnowModel and used as snow covariates along with landscape covariates in modeling efforts to study Dall sheep movements in response to dynamic snow conditions. Thirty adult Dall sheep (12 male, 18 female) were captured and outfitted with global positioning system (GPS) collars programmed to acquire locations every seven hours. Given the individual sheep locations, their distances to land cover (e.g., shrub, forest, glacier), landscape characteristics (e.g., elevation, terrain ruggedness index (TRI), vector ruggedness measure (VRM), slope, and aspect), snow depth and density, MODIS normalized difference snow index (NDSI), and other covariates were determined and are provided in the environmental data file. The snow density and depth data are provided at 25-m, 100-m, 500-m, 2000-m, and 10000-m grid resolutions, at 1-day increments, and cover the period September 1, 2005 through August 31, 2008. The sheep, snow, and landscape data cover the years 2006, 2007, and 2008.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2170971503-ORNL_CLOUD",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Lichen Forage Cover over Fortymile Caribou Range, Alaska and Yukon, 2000-2015",
+    "description": "This dataset provides modeled estimates of lichen ground cover at 30 m resolution across the Fortymile study area in interior eastern Alaska, U.S., and the Yukon Territory, Canada, for the nominal year 2015. The mapped lichens are important winter forage for the nine resident caribou (Rangifer tarandus) herds in the region. A random forest modeling approach with vegetation inputs and environmental and spectral predictors was used to estimate lichen cover for 2015. Input data for the model were aggregated from historical in-situ vegetation plots, visual aerial surveys, and recent unmanned aerial system (UAS) imagery to align with 30 m resolution Landsat pixels over the 583,200 km2 study area. The model was also used to estimate lichen cover for the year 2000 by applying the trained model to historical Landsat imagery. An estimate of lichen volume in 2015, based on a published algorithm, is also provided. In addition, site-level presence-absence maps at &lt;1 m resolution and site-level lichen cover maps at both 2 m and 30 resolution are provided. Site-level data were derived from high-resolution RGB imagery collected in summer 2017 from UASs at 22 forested and alpine sites across interior Alaska and western Yukon. Due to the use of two unique UAS imagers at 7 sites, there are 29 data collections across the 22 sites. Each UAS data collection is associated with three data files. These landscape-scale maps could be useful for understanding trends in lichen abundance and distribution, as well as for caribou research, management, and conservation.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143401709-ORNL_CLOUD",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Environmental Conditions During Fall Moose Hunting Seasons, Alaska, 2000-2016",
+    "description": "This dataset provides daily and annual air temperature, river water level, and leaf drop dates coincident with the moose (Alces alces) hunting season (September) for the area surrounding the rural communities of Nulato, Koyukuk, Kaltag, Galena, Ruby, Huslia, and Hughes in interior Alaska, USA, over the period 2000-2016. The main objective of the study was to assess how the environmental conditions impacted the success of hunters who rely on moose as a subsistence resource.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143402663-ORNL_CLOUD",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Wolf Denning Phenology and Reproductive Success, Alaska and Canada, 2000-2017",
+    "description": "This dataset provides annual gray wolf (Canis lupus) denning spatial information and timing, associated climatic and phenologic metrics, and reproductive success (i.e., pup survival) in wolf populations across areas of western Canada and Alaska within the NASA ABoVE Core Domain. The study encompasses 18 years between the period 2000-2017. Wolves were captured from eight populations following standard animal care protocols and released with Global Positioning System (GPS) collars. Data from 388 wolves were used to estimate den initiation dates (n=227 dens of 106 packs) and reproductive success in the eight populations. Each population was monitored from 1 to 12 years between 2000 and 2017. Denning parturition phenology was measured each year as the number of calendar days from January 1st to the initiation date of each documented denning event. Reproductive success was determined as to whether pups survived through the end of August following a reproductive event. To evaluate the effect of climate factors on reproductive phenology, aggregated seasonal climate metrics for temperature, precipitation, and snow water equivalent based on three biological seasons for seasonal wolf home ranges were produced. Normalized Difference Vegetation Index (NDVI) time-series data were used to estimate phenological metrics such as the start of the growing season (SOS), length of the growing season (LOS), and time-integrated NDVI (tiNDVI), and were summarized for the populations' home range.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143401778-ORNL_CLOUD",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Lund-Potsdam-Jena Wetland Hydrology and Methane DGV Model (LPJ-WHyMe v1.3.1)",
+    "description": "This model product provides the Fortran 77 source code for the Lund-Potsdam-Jena (LPJ) Wetland Hydrology and Methane Dynamic Global Vegetation Model (LPJ-WHyMe v1.3.1), auxiliary C++ routines, ASCII and NetCDF input data, and NetCDF example output data. LPJ-WHyMe v1.3.1 simulates peatland hydrology, permafrost dynamics, peatland vegetation, and methane emissions.The model processes can be simulated on an area-averaged 0.5 or 1.0 degree grid cell basis at global, regional, or site scales and on a daily, monthly, or annual time step as appropriate. Input driver data are monthly mean air temperature, total precipitation, percentage of full sunshine, annual atmospheric CO2 concentration, and soil texture class. The simulation for each grid cell begins from \"bare ground\", requiring a \"spin up\" (under non-transient climate) of ca. 1,000 years to develop equilibrium vegetation, carbon, and soil structure. Model simulations compare favorably, with some exceptions, to field observations collected from peatland sites (e.g., Degero, Sweden; Lakkasuo, Finland; BOREAS Northern Study Area, Canada; and others) and non-peatland sites (e.g., Point Barrow, Alaska, and Spasskaya, Siberia). LPJ-WHyMe is a further development of LPJ-WHy, which dealt with the introduction of permafrost and peatlands into LPJ. Implementing peatlands in LPJ required the addition of two new plant functional types (PFTs) (flood tolerant C3 graminoids and Sphagnum mosses) to the already existing ten PFTs, the introduction of inundation stress for non-peatland PFTs, a slow-down in decomposition under inundation, and the addition of a root exudates pool. LPJ-WHyMe v1.3.1 adds a methane model subroutine. This model product has one compressed data file (*.zip) and seven companion files.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002979-ORNL_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Forest Preservation Ranking and Vertebrate Species Richness, Western USA, 2020-2099",
+    "description": "This dataset provides related gridded outputs of future modeled forest carbon sequestration priority and related species richness and habitat suitability for the western United States. The primary dataset is of the ranking of forest lands in the western U.S. for preservation based on the ability of these lands to sequester carbon over the coming century. The preservation ranking was derived from the results of simulations of future potential forest net ecosystem productivity (NEP) and vulnerability to drought and wildfire, as modeled from 2020 to 2099 at 4 km x 4 km resolution using a modified version of the Community Land Model (CLM 4.5). In addition, data files of potential forest NEP ranking and the forest vulnerability ranking are also provided. Co-located data of species richness for amphibians, birds, mammals, and reptiles are included to illustrate habitat suitability in relation to forest carbon preservation rankings. There are two files for each vertebrate class, one reflecting all western U.S. species included in the USGS GAP Analysis Project and a second for the subset of species listed as threatened or endangered by the U.S. Fish and Wildlife Service. Establishing this forest carbon preservation priority ranking for forest lands in the western U.S. will help guide the conservation of land for climate change mitigation activities and improved harvest management in the region.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2517278605-ORNL_CLOUD",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Mapped Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment.The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW is a times series containing 10 years of MERIS (2002-2012) and OLCI from both Sentinel-3a (2016-present) and Sentinel-3b (2018-present). ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2455074940-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Sentinel-3B OLCI   Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies  across the contiguous United States (CONUS) and Alaska. ILW significantly  reduces the processing effort required by end users and is a standardized  community resource for lake and reservoir algorithm development and  performance assessment. The data is provided for 15,450 CONUS waterbodies with  a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes  greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW  was developed in collaboration with the Cyanobacteria Assessment Network (CyAN).  Additional inland water details and resources, including maps of resolvable lakes  and additional inland water products, such as true color imagery, are available  at the CyAN site.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2455074983-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Vegetation Composition across Fire History Gradients on the Y-K Delta, Alaska",
+    "description": "This dataset provides ecological field data that were collected during July 2017 and July 2018 from 43 plots spanning gradients of fire history in the upland tundra of the Yukon-Kuskokwim (Y-K) Delta, Alaska. Plot-level data include vegetation species composition and structure, leaf area index (LAI), topography, thaw-depth, and soil characteristics collected at plots burned in 1971-1972, 1985, 2006-2007, 2015, or unburned controls. Vegetation species were sampled along transects using the vegetation point-intercept (VPI) sampling approach and summarized by three metrics of vegetation cover: (1) top-hit cover, (2) any-hit cover, and (3) multi-hit cover. Each metric is the total number of hits for a species divided by the total number of sample points. The VPI any-hit cover metric data were combined with Landsat imagery to develop fractional maps of any-hit cover for four aggregated plant functional types (PFTs); bryophytes, herbs, lichen, and shrubs for the upland tundra area. Photographs of vegetation transects and soil pits are included as companion files.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143402545-ORNL_CLOUD",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Binned Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment.The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW is a times series containing 10 years of MERIS (2002-2012) and OLCI from both Sentinel-3a (2016-present) and Sentinel-3b (2018-present). ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2455074927-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ENVISAT MERIS Global Mapped Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment. The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW was developed in collaboration with the Cyanobacteria Assessment Network (CyAN). Additional inland water details and resources, including maps of resolvable lakes and additional inland water products, such as true color imagery, are available at the CyAN site.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2455074914-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Sentinel-3A OLCI   Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment. The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW was developed in collaboration with the Cyanobacteria Assessment Network (CyAN). Additional inland water details and resources, including maps of resolvable lakes and additional inland water products, such as true color imagery, are available at the CyAN site.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2455074951-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Sentinel-3B OLCI Global Mapped Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment. The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW was developed in collaboration with the Cyanobacteria Assessment Network (CyAN). Additional inland water details and resources, including maps of resolvable lakes and additional inland water products, such as true color imagery, are available at the CyAN site.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2455075013-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS TE-22 Allometric Forest Survey Data",
+    "description": "The BOREAS TE-22 team collected data sets in support of its efforts to characterize and interpret information on the forest structure of boreal vegetation in the SSA and NSA during the 1994 growing season.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003646-ORNL_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Gridded Species Distribution: Global Amphibian Richness Grids, 2015 Release",
+    "description": "The 2015 Release of the Global Amphibian Richness Grids data set of the Gridded Species Distribution collection are aggregations of the presence grids data for the entire class, individual  families, and International Union for the Conservation of Nature (IUCN) Red List status categories.  The data are available in 30 arc-second (~1 km) resolutions. The grid cell values represent the number of species in a particular class, family or IUCN threatened category. The input vector layers are based on the IUCN Red List and the grids are compiled by the Columbia University Center for International Earth Science Information Network (CIESIN). The data from IUCN were downloaded in April 2013.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1399952905-SEDAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Gridded Species Distribution: Global Mammal Richness Grids, 2015 Release",
+    "description": "The 2015 Release of the Global Mammal Richness Grids data set of the Gridded Species Distribution collection are aggregations of the presence grids data for the entire class, individual  families, and International Union for the Conservation of Nature (IUCN) Red List status categories.  The data are available in 30 arc-second (~1 km) resolutions. The grid cell values represent the number of species in a particular class, family or IUCN threatened category. The input vector layers are based on the IUCN Red List and the grids are compiled by the Columbia University Center for International Earth Science Information Network (CIESIN). The data from IUCN were downloaded in April 2013.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1399957348-SEDAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "West Africa Coastal Vulnerability Mapping: Subset of Global Mammal and Amphibian Richness Grids, 2015 Release",
+    "description": "The West Africa Coastal Vulnerability Mapping: Subset of Global Mammal and Amphibian Richness Grids, 2015 Release was extracted from the NASA Socioeconomic Data and Applications Center (SEDAC) Gridded Species Distribution collection created from vector data files acquired from the International Union for Conservation of Nature (IUCN) Red List collection. Threatened species include any species classified as vulnerable, endangered, or critically endangered. The data represent the density of threatened mammals and amphibians within 200 kilometers of the coast at a one kilometer resolution.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1577568049-SEDAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Dall Sheep Lamb Recruitment and Climate Data, Alaska and NW Canada, 2000-2015",
+    "description": "This dataset contains estimated annual average Dall sheep (Ovis dalli dalli) lamb-to-ewe ratios for each year from 2000-2015 across the full species range in Alaska and Northwestern Canada. Sheep population data are from surveys conducted over the 14 major mountain ranges encompassing the range of Dall sheep. For this study, the mountain ranges were divided into 24 mountain units due to differing climate gradients. Estimated covariate environmental and climate data used to examine the relationship between environmental conditions and Dall sheep population performance (per mountain unit) are also provided and include precipitation, temperature, snow cover, elevation, and distance to the center of the range.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2162145802-ORNL_CLOUD",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Binned CyAN Project, True Color (TC) Data, version 5.0",
+    "description": "Cyanobacteria Assessment Network (CyAN) is a multi-agency project among EPA, the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), and the United States Geological Survey (USGS) to support the environmental management and public use of U.S. lakes and estuaries by providing a capability of detecting and quantifying cyanobacteria algal blooms. The sensor spatial resolution is 300m. The CONUS images use a 50m land mask, while the Alaska product uses a less refined 500m land mask. The temporal resolution depends on the sensor and date with best coverage since 2018, as images utilize sensors on two Sentinel-3 satellites.  ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2585741154-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Mapped Cyanobacteria Index (CI) Data, version 5.0",
+    "description": "Cyanobacteria Assessment Network (CyAN) is a multi-agency project among EPA, the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), and the United States Geological Survey (USGS) to support the environmental management and public use of U.S. lakes and estuaries by providing a capability of detecting and quantifying cyanobacteria algal blooms. The sensor spatial resolution is 300m. The CONUS images use a 50m land mask, while the Alaska product uses a less refined 500m land mask. The temporal resolution depends on the sensor and date with best coverage since 2018, as images utilize sensors on two Sentinel-3 satellites. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2561580585-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Mapped CyAN Project, True Color (TC) Data, version 5.0",
+    "description": "Cyanobacteria Assessment Network (CyAN) is a multi-agency project among EPA, the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), and the United States Geological Survey (USGS) to support the environmental management and public use of U.S. lakes and estuaries by providing a capability of detecting and quantifying cyanobacteria algal blooms. The sensor spatial resolution is 300m. The CONUS images use a 50m land mask, while the Alaska product uses a less refined 500m land mask. The temporal resolution depends on the sensor and date with best coverage since 2018, as images utilize sensors on two Sentinel-3 satellites. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2585741169-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ENVISAT MERIS Regional  Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment. The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW was developed in collaboration with the Cyanobacteria Assessment Network (CyAN). Additional inland water details and resources, including maps of resolvable lakes and additional inland water products, such as true color imagery, are available at the CyAN site. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2455074887-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ENVISAT MERIS Global Binned Cyanobacteria Index (CI) Data, version 5.0",
+    "description": "Cyanobacteria Assessment Network (CyAN) is a multi-agency project among EPA, the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), and the United States Geological Survey (USGS) to support the environmental management and public use of U.S. lakes and estuaries by providing a capability of detecting and quantifying cyanobacteria algal blooms. This effort has resulted in the production of satellite remote sensing products using the cyanobacteria index (CI) algorithm to estimate cyanobacteria concentrations (CI_cyano) in lakes across the contiguous United States (CONUS) and Alaska. The Merged S3 product combines Sentinel-3A and Sentinel-3B OLCI data. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2561580568-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ENVISAT MERIS Global Binned CyAN Project, True Color (TC) Data, version 5.0",
+    "description": "Cyanobacteria Assessment Network (CyAN) is a multi-agency project among EPA, the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), and the United States Geological Survey (USGS) to support the environmental management and public use of U.S. lakes and estuaries by providing a capability of detecting and quantifying cyanobacteria algal blooms. This effort has resulted in the production of satellite remote sensing products using the cyanobacteria index (CI) algorithm to estimate cyanobacteria concentrations (CI_cyano) in lakes across the contiguous United States (CONUS) and Alaska. The Merged S3 product combines Sentinel-3A and Sentinel-3B OLCI data. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2561580570-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ENVISAT MERIS Global Binned Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment. The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW was developed in collaboration with the Cyanobacteria Assessment Network (CyAN). Additional inland water details and resources, including maps of resolvable lakes and additional inland water products, such as true color imagery, are available at the CyAN site.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2455074900-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ENVISAT MERIS Global Mapped Cyanobacteria Index (CI) Data, version 5.0",
+    "description": "Cyanobacteria Assessment Network (CyAN) is a multi-agency project among EPA, the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), and the United States Geological Survey (USGS) to support the environmental management and public use of U.S. lakes and estuaries by providing a capability of detecting and quantifying cyanobacteria algal blooms. This effort has resulted in the production of satellite remote sensing products using the cyanobacteria index (CI) algorithm to estimate cyanobacteria concentrations (CI_cyano) in lakes across the contiguous United States (CONUS) and Alaska. The Merged S3 product combines Sentinel-3A and Sentinel-3B OLCI data. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2561580575-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ENVISAT MERIS Global Mapped CyAN Project, True Color (TC) Data, version 5.0",
+    "description": "Cyanobacteria Assessment Network (CyAN) is a multi-agency project among EPA, the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), and the United States Geological Survey (USGS) to support the environmental management and public use of U.S. lakes and estuaries by providing a capability of detecting and quantifying cyanobacteria algal blooms. This effort has resulted in the production of satellite remote sensing products using the cyanobacteria index (CI) algorithm to estimate cyanobacteria concentrations (CI_cyano) in lakes across the contiguous United States (CONUS) and Alaska. The Merged S3 product combines Sentinel-3A and Sentinel-3B OLCI data. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2561580577-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Sentinel-3A OLCI Global Binned Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment. The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW was developed in collaboration with the Cyanobacteria Assessment Network (CyAN). Additional inland water details and resources, including maps of resolvable lakes and additional inland water products, such as true color imagery, are available at the CyAN site.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2561580596-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Sentinel-3A OLCI Global Mapped Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment. The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW was developed in collaboration with the Cyanobacteria Assessment Network (CyAN). Additional inland water details and resources, including maps of resolvable lakes and additional inland water products, such as true color imagery, are available at the CyAN site.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2561580604-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Sentinel-3B OLCI Global Binned Inland Waters (ILW) Data, version 3",
+    "description": "The Inland Waters dataset (ILW) provides data for lakes and other water bodies across the contiguous United States (CONUS) and Alaska. ILW significantly reduces the processing effort required by end users and is a standardized community resource for lake and reservoir algorithm development and performance assessment. The data is provided for 15,450 CONUS waterbodies with a size of at least one 300 m pixel and over 2,300 resolvable lakes with sizes greater than three 300 m pixels. Alaska has 5,874 lakes resolvable lakes. ILW was developed in collaboration with the Cyanobacteria Assessment Network (CyAN). Additional inland water details and resources, including maps of resolvable lakes and additional inland water products, such as true color imagery, are available at the CyAN site.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2455074999-OB_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "Snow Properties and Wildlife Tracks in Washington and Alaska",
+    "description": "This dataset contains three field seasons of snow-wildlife observations conducted at 707 sites from January 2021 to March 2023 in Washington and Alaska, spanning a broad range of snow conditions. Relatively fresh tracks (usually &lt;24 h) of common large mammal predators (bobcats, coyotes, cougars, and wolves) and their ungulate prey (caribou, Dall sheep, moose, mule deer, and white-tailed deer) were investigated to determine how snow affects predator-prey interactions. The track sink depth and dimensions (width and length) of three consecutive footprints were measured from one individual. Age class was recorded for moose based either on visual confirmation of an individual creating snow tracks or based on track dimensions. The ability to differentiate age classes for smaller ungulates was more uncertain, so age classes for deer, caribou, or sheep were not specified. Animal gait was identified using a simple classification scheme. Data also include animal species, snow density, hardness, total ice, surface temperature, and vegetation type. To best capture snow hardness, surface penetrability and hand-hardness were measured throughout the snowpack. The data are provided in comma-separated values (CSV) format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2772851281-ORNL_CLOUD",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Dall Sheep Track Sinking Depths, Snow Depth, Hardness, and Density, 2017",
+    "description": "This dataset contains Dall sheep (Ovis dalli dalli) hoof sinking depths in snow tracks, and snow depth, hardness, and density measurements in snow pits adjacent to the tracks. Snow measurements were collected between March 19-22, 2017 at sites on Jaeger Mesa in the Wrangell Mountains (WRST), Alaska. Estimated sheep age classes and track site coordinates are also provided.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2162140002-ORNL_CLOUD",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS Follow-On DSP-09 Moss Cover Classification at Three Area Scales",
+    "description": "BOREAS follow-on group DSP-9 mapped surface moss type at three scales (1 km, 30 m, and 10 m) based on observed associations between moss cover and land cover type.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002780-ORNL_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS Follow-On DSP-10 Regridded Moss Cover Maps for 1994",
+    "description": "Existing 1-km moss cover classifications were reprocessed and are now available at multiple resolutions (2 km, 10x5 min, and 0.5 degree).  These data were regridded for use by the BOREAS Follow-on Carbon and Hydro-Meteorological modeling groups to have a number of data sets available in common grid projections and scales for intercomparison studies.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002743-ORNL_DAAC",
+    "category": "bilogical Classification",
+    "tags": ["api"]
+  }
+]

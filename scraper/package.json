@@ -1,0 +1,8 @@
+{
+  "name": "scraper",
+  "type": "module",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "puppeteer": "^21.3.8"
+  }
+}

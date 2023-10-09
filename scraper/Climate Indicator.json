@@ -1,0 +1,723 @@
+[
+  {
+    "title": "TOMS/N7 MS SO2 Vertical Column 1-Orbit L2 Swath 50x50 km V3 (TOMSN7SO2) at GES DISC",
+    "description": "Version 3 is the current version of the data set. Older versions will no longer be available and have been superseded by Version 3.\nThe goal of this data set is to create and archive a Level 2 SO2 Earth Science Data Record (ESDR)  from backscatter Ultraviolet (BUV) measurements from Total Ozone Mapping Spectrometer (TOMS) flown on NASA's Nimbus - 7 satellite in 1978-1993. We apply TOMS ozone team  calibration techniques and consistent MEaSUREs SO2 (MS_SO2) algorithm, to obtain the best measurement-based ESDR of volcanic and anthropogenic SO2 masses and emissions. \n\nAs part of the NASA's Making Earth System Data Records for Use in Research Environments (MEaSUREs) program, the Goddard Earth Science (GES) Data and Information Data Center (DISC) has released a new SO2 Earth System Data Record (ESDR), TOMSN7SO2, re-processed using new 4 UV wavelength bands MS_SO2 algorithm that spans the full Nimbus 7 data period. TOMSN7SO2 is a Level 2 orbital swath product, which will be used to study the fifteen-year SO2 record from the Nimbus-7 TOMS and to expand the historical database of known volcanic eruptions.\n\n Sulfur Dioxide (SO2) is a short-lived gas primarily produced by volcanoes, power plants, refineries, metal smelting and burning of fossil fuels. Where SO2 remains near the Earth s surface, it is toxic, causes acid rain, and degrades air quality. Where SO2 is lofted into the free troposphere, it forms aerosols that can alter cloud reflectivity and precipitation. In the stratosphere, volcanic SO2 forms sulfate aerosols that can result in climate change.\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1615905582-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "OMPS/NPP PCA SO2 Total Column 1-Orbit L2 Swath 50x50km V2 (OMPS_NPP_NMSO2_PCA_L2) at GES DISC",
+    "description": "The OMPS_NPP_NMSO2_PCA_L2 product is part of the MEaSUREs (Making Earth Science Data Records for Use in Research Environments) suite of products.\n\nIt is retrieved from the NASA/NOAA Suomi National Polar-orbiting Partnership (SNPP) Ozone Mapping and Profiler Suite (OMPS) Nadir Mapper (NM) spectrometer and provides contiguous daily global monitoring of anthropogenic and volcanic sulfur dioxide (SO2), an important pollutant and aerosol precursor that affects both air quality and the climate. The product is based on the NASA Goddard Space Flight Center principal component analysis (PCA) spectral fitting algorithm (Li et al., 2013, 2017), and continues (Zhang et al., 2017) NASA's Earth Observing System (EOS) standard Aura/Ozone Monitoring Instrument SO2 product (OMSO2). \n\nThe latest OMPS_NPP_NMSO2_PCA_L2 V2 product uses new Jacobian lookup tables and more realistic model based a priori profiles in anthropogenic SO2 retrievals. This helps to more accurately account for the pixel-to-pixel variation in SO2 sensitivity due to different factors such as the vertical distribution of SO2, solar and viewing angles, surface reflectivity, and cloudiness. As compared with the previous OMPS_NPP_NMSO2_PCA_L2 V1.2 product that assumes the same SO2 sensitivity for all OMPS pixels, the new V2 anthropogenic SO2 retrievals have reduced retrieval biases especially over background regions (see Figure 1 for an example). The same updated PCA SO2 retrieval algorithm (Li et al., 2020) is also used to produce the recently released OMSO2 V2 product (doi:10.5067/Aura/OMI/DATA2022). The new OMPS_NPP_NMSO2_PCA_L2 V2 product thus offers enhanced consistency between the NASA EOS standard (OMI) and continuity (OMPS) SO2 data records\n\nSulfur Dioxide (SO2) is a short-lived gas primarily produced by volcanoes, power plants, refineries, metal smelting and burning of fossil fuels. Where SO2 remains near the Earth's surface, it is toxic, causes acid rain, and degrades air quality. Where SO2 is lofted into the free troposphere, it forms aerosols that can alter cloud reflectivity and precipitation. In the stratosphere, volcanic SO2 forms sulfate aerosols that can result in climate change.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1917909223-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Tellus Level-4 Antarctica Mass Anomaly Time Series from JPL GRACE/GRACE-FO Mascon CRI Filtered Release 06.1 version 03",
+    "description": "This dataset is a time series of mass variability averaged over all of the global ocean. It provides the non-steric or mass only sea level changes over time. The mass variability are derived from JPL GRACE Mascon Ocean, Ice, and Hydrology Equivalent Water Height CRI Filtered RL061Mv03 dataset, which can be found at https://podaac.jpl.nasa.gov/dataset/TELLUS_GRAC-GRFO_MASCON_CRI_GRID_RL06.1_V3. A more detailed description on the Mascon solution, including the mathematical derivation, implementation of geophysical constraints, and solution validation, please see Watkins et al., 2015, doi: 10.1002/2014JB011547. The mass variability are provided as an ASCII table.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2537006834-POCLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Groundwater and Soil Moisture Conditions from GRACE and GRACE-FO Data Assimilation L4 7-days 0.25 x 0.25 degree Global V3.0 (GRACEDADM_CLSM025GL_7D) at GES DISC",
+    "description": "Scientists at NASA Goddard Space Flight Center generate groundwater and soil moisture drought indicators each week. They are based on terrestrial water storage observations derived from GRACE-FO satellite data and integrated with other observations, using a sophisticated numerical model of land surface water and energy processes.\n\nThis data product is GRACE Data Assimilation for Drought Monitoring (GRACE-DA-DM) Global Version 3.0 from a global GRACE and GRACE-FO data assimilation and drought indicator product generation (Li et al., 2019). It varies from the other GRACE-DA-DM products which are from the U.S. GRACE-based drought indicator product generation (Houborg et al., 2012).\nThe GRACE-DA-DM Global V3.0 is similar to the GRACE-DA-DM U.S. V4.0 product. Both products are based on the Catchment Land Surface Model (CLSM) Fortuna 2.5 version simulation that was created within the Land Information System data assimilation framework (Kumar et al., 2016). GRACE-DA-DM Global V3.0 drought indicator maps are derived from the GLDAS_CLSM025_DA1_D product, at 0.25 degree resolution, forced by ECMWF meteorological data, and assimilated RL06 GRACE and GRACE-FO data from the University of Texas at Austin (Save et al., 2016; Save, 2020). The  GRACE-DA-DM U.S. V4.0 is at 0.125 degree, which is based on a model simulation (not published at GES DISC) forced by NLDAS-2 meteorological data and assimilated with RL06 GRACE/GRACE-FO data.   \nMore information on GRACE-DA-DM U.S. V4.0 and previous versions of the data can be found in the README.\n\nThe GRACE-DA-DM Global V3.0 data product contains three drought indicators: Groundwater Percentile, Root Zone Soil Moisture Percentile, and Surface Soil Moisture Percentile. These drought indicators express wet or dry conditions as a percentile, indicating the probability of occurrence within the period of record from 1948 to 2014. The drought indicator data are daily, but available only one day (Monday) per week.  The data have a spatial resolution of 0.25 x 0.25 degree with global coverage (60S, 180W, 90N, 180E), and a temporal range from February 2003 to present (with a 3-6 month latency). The data are archived in NetCDF format.\n\nThe GRACE-DA-DM is an operational project which produces groundwater and soil moisture drought indicators each week.  The operational data is available weekly with a 2-9 day latency from the NASA GRACE project home page found under the Documentation tab.  The GRACE-DA-DM data distributed here at GESDISC is the final archive version, which is generated after the latest GRACE-FO data are available.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2283200566-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "MERRA-2 statM_2d_edi_Nx: 2d, Single-Level, Monthly Extremes Detection Indices V1 (M2SMNXEDI) at GES DISC",
+    "description": "The Modern Era Retrospective analysis for Research and Applications, Version 2 (MERRA-2) contains a wealth of information that can be used for weather and climate studies. By combining the assimilation of observations with a frozen version of the Goddard Earth Observing System (GEOS), a global analysis is produced at an hourly temporal resolution spanning from January 1980 through present (Gelaro et al., 2017). It can be difficult to parse through a multidecadal dataset such as MERRA-2 to evaluate the interannual variability of weather that occurs on a daily timescale, let alone determine the occurrence of an extreme weather event. This data collection provides climate statistics compute using MERRA-2 to assist in the analysis of extreme temperature and precipitation events and the accompanying the large scale meteorological patterns across a time period of over four decades. \n\nFind the product File Specific, Readme, References, and data tools under \"Documentation\" tab.\n\nSign up for the MERRA-2 mailing list to receive announcements on the latest data information, tools and services that become available, data announcements from GMAO MERRA-2 project and more! Contact the GES DISC User Services (gsfc-dl-help-disc@mail.nasa.gov) to be added to the list.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1949649168-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "MERRA-2 statM_2d_edi_Nx: 2d, Single-Level, Monthly Extremes Detection Indices based on 1991-2020 V2 (M2SMNXEDI) at GES DISC",
+    "description": "M2SMNXEDI (or statM_2d_edi_Nx) is a 2-dimensional monthly data collection for extreme detection indices derived from daily Modern-Era Retrospective analysis for Research and Applications version 2 (MERRA-2) datasets within each month. V2 of this extreme detection indices data collection is computed based on the 1991-2020 climatology, covering the time period from January 1980 to present. In contrast, V1, the original version, is computed based on an earlier 30-year climatology (1981-2010).  \n\nThis collection consists of indices used to identify or characterize extreme weather events associated with temperature, such as heatwaves and cold spells (e.g., their frequency, duration, and intensity), as well as events associated with precipitation, such as dry days and wet days (e.g., their frequency, duration, and intensity).\n\nMERRA-2 is the latest version of global atmospheric reanalysis for the satellite era produced by the NASA Global Modeling and Assimilation Office (GMAO) using the Goddard Earth Observing System Model (GEOS) version 5.12.4. The dataset covers the period of 1980-present, with a  latency of ~3 weeks after the end of the previous month.\n\nData Reprocessing: Please check “Records of MERRA-2 Data Reprocessing and Service Changes”,  linked from the “Documentation” tab on this page. Note that a reprocessed data filename is different from the original filename.\n\nMERRA-2 Mailing List: Sign up to receive information on reprocessing of data, changes to tools and services, as well as data announcements from GMAO. Contact the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov) to be added to the list.\n\nQuestions: If you have a question, please read the \"MERRA-2 File Specification Document'', “MERRA-2 Data Access – Quick Start Guide”, and FAQs linked from the ”Documentation” tab on this page for more information. If these documents  do not answer your question, you may email the question on data access to the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov), or the question on science to the MERRA-2 science team (merra-questions@lists.nasa.gov)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2531963170-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Tellus Level-4 Greenland Mass Anomaly Time Series from JPL GRACE/GRACE-FO Mascon CRI Filtered Release 06.1 version 03",
+    "description": "This dataset is a time series of mass variability averaged over all of the global ocean. It provides the non-steric or mass only sea level changes over time. The mass variability are derived from JPL GRACE Mascon Ocean, Ice, and Hydrology Equivalent Water Height CRI Filtered RL06.1Mv03 dataset, which can be found at https://podaac.jpl.nasa.gov/dataset/TELLUS_GRAC-GRFO_MASCON_CRI_GRID_RL06.1_V3. A more detailed description on the Mascon solution, including the mathematical derivation, implementation of geophysical constraints, and solution validation, please see Watkins et al., 2015, doi: 10.1002/2014JB011547. The mass variability is provided as an ASCII table.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2537009236-POCLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Groundwater and Soil Moisture Conditions from GRACE and GRACE-FO Data Assimilation L4 7-days 0.125 x 0.125 degree U.S. V4.0 (GRACEDADM_CLSM0125US_7D) at GES DISC",
+    "description": "Scientists at NASA Goddard Space Flight Center generate groundwater and soil moisture drought indicators each week. They are based on terrestrial water storage observations derived from GRACE satellite data and integrated with other observations, using a sophisticated numerical model of land surface water and energy processes.\n\nThis data product is GRACE Data Assimilation for Drought Monitoring (GRACE-DA-DM) U.S. Version 4.0 data product and supersedes the GRACE-DA-DM Version 2.0. \n\nThe GRACE-DA-DM U.S. V4.0 is based on the Catchment Land Surface Model (CLSM) Fortuna 2.5 version simulation that was created within the Land Information System data assimilation framework (Kumar et al., 2016). This simulation used the latest GRACE RL06 (GRACE; 2002-2017) and GRACE Follow On (GRACE-FO; 2018-present) Mascon solutions version 2, at 0.25 degree resolution, from the University of Texas at Austin (Save et al., 2016; Save, 2020). The CLSM soil parameters were updated to address a soil moisture dry limit issue found near Zapata, Texas. Because the root zone soil moisture frequently reaches the dry limit there, drought conditions are often “normal” when the area should be in drought. The new soil parameters resolved the issue, and the root zone soil moisture now matches closely the in-situ observation near Zapata. In the data assimilation, the baseline for Terrestrial Water Storage anomaly computation was updated to the 2003-2019 mean, whereas previous simulations used the 2003-2016 mean. The percentile computation was switched to a 7-day moving average climatology, instead of monthly, to improve the temporal transition of drought/wetness conditions.\n\nThe GRACE-DA-DM V1.0 was created by the stand alone CLSM (an older version) using the GRACE-Tellus 1 degree data from the Center for Space Research at University of Texas. The GRACE data assimilation (DA) is executed on a grid-to-grid basis in V2.0, while a basin scale average was used in V1.0 (Zaitchik et al. 2008). The V2.0 data were reprocessed (on June 14, 2017), using the GRACE RL05 Mascon solutions version 1 data set from UT CSR, for the entire period from April 1, 2002 to June 5, 2017. The reprocessing included fixes in the DA and increased the bedrock depth by 3 meters to enhance the drought indicator calculations. \n\nThe GRACE-DA-DM U.S. V4.0 uses the same configuration as the V2.0 for the DA scheme and increased bedrock depth, with the updates previously mentioned, thus supersedes the previous versions. \n\nThe GRACE-DA-DM U.S. V4.0 data product contains three drought indicators: Groundwater Percentile, Root Zone Soil Moisture Percentile, and Surface Soil Moisture Percentile. These drought indicators express wet or dry conditions as a percentile, indicating the probability of occurrence within the period of record from 1948 to 2014. The drought indicator data are daily, but available only one day (Monday) per week.  The data have  a spatial resolution of 0.125 x 0.125 degree over North America and range from April 1, 2002 to present (with a 3-6 months latency).  The data are archived in NetCDF format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1993409520-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Land Cover Mapping and Estimation Yearly 30 m V001",
+    "description": "NASA’s Making Earth System Data Records for Use in Research Environments (MEaSUREs) Global Land Cover Mapping and Estimation (GLanCE) annual 30 meter (m) Version 1 data product provides global land cover and land cover change data derived from Landsat 5 Thematic Mapper (TM), Landsat 7 Enhanced Thematic Mapper Plus (ETM+), and Landsat 8 Operational Land Imager (OLI). These maps provide the user community with land cover type, land cover change, metrics characterizing the magnitude and seasonality of greenness of each pixel, and the magnitude of change. GLanCE data products will be provided using a set of seven continental grids that use Lambert Azimuthal Equal Area projections parameterized to minimize distortion for each continent. Currently, the North American and European continents are available. This dataset is useful for a wide range of applications, including ecosystem, climate, and hydrologic modeling; monitoring the response of terrestrial ecosystems to climate change; carbon accounting; and land management. \r\n\r\nThe GLanCE data product provides seven layers: the land cover class, the estimated day of year of change, integer identifier for class in previous year, median and amplitude of the Enhanced Vegetation Index (EVI2) in the year, rate of change in EVI2, and the change in EVI2 median from previous year to current year. A low-resolution browse image representing EVI2 amplitude is also available for each granule.\r\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2527691623-LPDAAC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Vegetation Index and Phenology (VIP) Phenology NDVI Yearly Global 0.05Deg CMG V004",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Vegetation Index and Phenology (VIP) global datasets were created using surface reflectance data from the Advanced Very High Resolution Radiometer (AVHRR) N07, N09, N11, and N14 datasets (1981 – 1999) and Moderate Resolution Imaging Spectroradiometer (MODIS)/Terra MOD09 surface reflectance data (2000 - 2014).  The VIP Vegetation Index (VI) product was developed to provide consistent measurements of the Normalized Difference Vegetation Index (NDVI) and modified Enhanced Vegetation Index (EVI2) spanning more than 30 years of data from multiple sensors. The EVI2 is a backward extension of AVHRR. Vegetation indices such as NDVI and EVI2 are useful for assessing the biophysical properties of the land surface, and are used to characterize vegetation phenology. Phenology tracks the seasonal life cycle of vegetation, and provides information on the biotic response to environmental changes. \r\n\r\nThe VIPPHEN data product is provided globally at 0.05 degree (5600 meter) spatial resolution in geographic (Lat/Lon) grid format. The data are stored in Hierarchical Data Format-Earth Observing System (HDF-EOS) file format. The VIPPHEN phenology product contains 26 Science Datasets (SDS) which include phenological metrics such as the start, peak, and end of season as well as the rate of greening and senescence. The product also provides the maximum, average, and background calculated VIs. The VIPPHEN SDS are based on the daily VIP product series and are calculated using a 3-year moving window average to smooth out noise in the data. A reliability SDS is included to provide context on the quality of the input data. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1328419564-LPDAAC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "MEaSUREs BedMachine Antarctica V003",
+    "description": "This data set, part of the NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) program, contains a bed topography/bathymetry map of Antarctica based on mass conservation, streamline diffusion, and other methods. The data set also includes ice thickness, surface elevation, an ice/ocean/land mask, ice thickness estimation errors, and a map showing where each method was utilized.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2509060594-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "MERRA-2 statM_2d_pct_Nx: 2d, Single-Level, Monthly Percentiles V1 (M2SMNXPCT) at GES DISC",
+    "description": "The Modern Era Retrospective analysis for Research and Applications, Version 2 (MERRA-2) contains a wealth of information that can be used for weather and climate studies. By combining the assimilation of observations with a frozen version of the Goddard Earth Observing System (GEOS), a global analysis is produced at an hourly temporal resolution spanning from January 1980 through present (Gelaro et al., 2017). It can be difficult to parse through a multidecadal dataset such as MERRA-2 to evaluate the interannual variability of weather that occurs on a daily timescale, let alone determine the occurrence of an extreme weather event. This data collection provides climate statistics compute using MERRA-2 to assist in the analysis of extreme temperature and precipitation events and the accompanying the large scale meteorological patterns across a time period of over four decades. \n\nFind the product File Specific, Readme, References, and data tools under \"Documentation\" tab.\n\nSign up for the MERRA-2 mailing list to receive announcements on the latest data information, tools and services that become available, data announcements from GMAO MERRA-2 project and more! Contact the GES DISC User Services (gsfc-dl-help-disc@mail.nasa.gov) to be added to the list.\n",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1949649171-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "MODIS/Terra+Aqua BRDF Model Parameters Daily L3 Global 1km SIN Grid V061",
+    "description": "The MCD19A3D Version 6.1 data product is a Moderate Resolution Imaging Spectroradiometer (MODIS) Terra and Aqua combined Bidirectional Reflectance Distribution Function (BRDF) Model Parameters gridded Level 3 product. Output daily at 1 kilometer (km) resolution, the Multi-angle Implementation of Atmospheric Correction (MAIAC) MCD19A3D product provides three coefficients (weights) of the RossThick/Li-Sparse (RTLS) BRDF model that can be used to describe the anisotropy of each pixel. The retrievals represent cloud-free and low aerosol conditions.\n\nWhen snow is detected, gap-filled snow grain size and sub-pixel snow fraction are computed. The gap-filling process retains the parameter in MAIAC’s memory for each grid cell until updated with the latest cloud-free observation. The number of days since the last update is provided in a separate layer.\n\nOver snow-free land, MAIAC also reports gap-filled Normalized Difference Vegetation Index (NDVI) at 1 km resolution and gap-filled Nadir BRDF-Adjusted Reflectance (NBAR) at 250 m resolution in the red and near-infrared (NIR) bands.\n\nThe MCD19A3 BRDF Model Parameters product contains the following Science Dataset (SDS) layers: RTLS isotropic kernel parameter (Kiso) for bands 1-8, the RTLS volumetric kernel parameter (Kvol) for bands 1-8, RTLS geometric kernel parameter (Kgeo) for bands 1-8, three snow parameters, NDVI, NBAR, and three separate layers for the number of days since last update to current day. \n\nValidation at stage 1 (https://landweb.modaps.eosdis.nasa.gov/cgi-bin/QA_WWW/newPage.cgi?fileName=maturity) has been achieved for the MCD19A3 data product. Further details regarding MODIS land product validation for MCD19 data products are available from the MODIS Land Team Validation site (https://modis-land.gsfc.nasa.gov/ValStatus.php?ProductID=MOD19).\n\nImprovements/Changes from Previous Versions\n* The Version 6.1 Level-1B (L1B) products have been improved by undergoing various calibration changes that include: changes to the response-versus-scan angle (RVS) approach that affects reflectance bands for Aqua and Terra MODIS, corrections to adjust for the optical crosstalk in Terra MODIS infrared (IR) bands, and corrections to the Terra MODIS forward look-up table (LUT) update for the period 2012 - 2017.\n* A polarization correction has been applied to the L1B Reflective Solar Bands (RSB).\n* The MCD19 Version 6.1 products have added 250 m resolution bands.\n* The previous BRDF product (MCD19A3) was reported once every eight days and the new MCD19A3D is a daily product.\n* MCD19A3D introduces gap-filled NDVI and gap-filled 250 m NBAR. \n* Snow Fraction, Snow Fit, and Snow Grain size layers were moved from MCD19A1 to the MCD19A3D.\n* There are four additional Climate Modeling Grid (CMG) products: MCD19A1CMGL, MCD19A1GO, MCD19A2CMG, and MCD19A3CMG.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2484086411-LPCLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "IceBridge BedMachine Greenland V005",
+    "description": "This data set contains a bed topography/bathymetry map of Greenland based on mass conservation, multi-beam data, and other techniques. It also includes surface elevation and ice thickness data, as well as an ice/ocean/land mask.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2420522159-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "MERRA-2 statM_2d_pct_Nx: 2d, Single-Level, Monthly Percentiles based on 1991-2020 V2 (M2SMNXPCT) at GES DISC",
+    "description": "M2SMNXPCT (or statM_2d_pct_Nx) is a 2-dimensional monthly data collection for percentile statistics derived from monthly Modern-Era Retrospective analysis for Research and Applications version 2 (MERRA-2) datasets. V2 of this percentile data collection is computed based on the 1991-2020 climatology, covering the time period from January 1980 to present. In contrast, V1, the original version, is computed based on an earlier 30-year climatology (1981-2010).  \n\nThis collection consists of percentiles used to identify or characterize extreme weather events associated with temperature (maximum, mean, and minimum 2-m air temperature), as well as with precipitation (total precipitation).\n\nMERRA-2 is the latest version of global atmospheric reanalysis for the satellite era produced by the NASA Global Modeling and Assimilation Office (GMAO) using the Goddard Earth Observing System Model (GEOS) version 5.12.4. The dataset covers the period of 1980-present, with a  latency of ~3 weeks after the end of the previous month.\n\nData Reprocessing: Please check “Records of MERRA-2 Data Reprocessing and Service Changes”,  linked from the “Documentation” tab on this page. Note that a reprocessed data filename is different from the original filename.\n\nMERRA-2 Mailing List: Sign up to receive information on reprocessing of data, changes to tools and services, as well as data announcements from GMAO. Contact the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov) to be added to the list.\n\nQuestions: If you have a question, please read the \"MERRA-2 File Specification Document'', “MERRA-2 Data Access – Quick Start Guide”, and FAQs linked from the ”Documentation” tab on this page for more information. If these documents  do not answer your question, you may email the question on data access to the GES DISC Help Desk (gsfc-dl-help-disc@mail.nasa.gov), or the question on science to the MERRA-2 science team (merra-questions@lists.nasa.gov)",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2531963252-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "OMI/Aura Surface UV Irradiance 1-orbit L2 Swath 13x24 km V003 (OMUVB) at GES DISC",
+    "description": "The Aura Ozone Monitoring Instrument (OMI) Version 003 Surface UV Irradiance Product (OMUVB) is now available from the NASA Goddard Earth Sciences Data and Information Services Center (GES DISC) for the public access. The shortname for this Level-2 OMI Surface UVB product is OMUVB. The algorithm scientists for this product are: Dr. Jari Hovila, Dr. Antii Arola and Dr. Johanna Taminnen. The OMUVB product contains erythemally weighted daily dose and dose rate, and spectral irradiances at 305, 310, 324, and 380 nm. It also contains quality flags, cloud optical depth, Lambertian Equivalent Reflectivity, Total Column Ozone amount, and other ancillary information.\n\nThe OMUVB files are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5). Each file contains data from the day lit portion of an  orbit (~53 minutes). There are approximately 14 orbits per day. The  maximum file size for the OMUVB data product is about 10 Mbytes.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1239966859-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Vegetation Index and Phenology (VIP) Vegetation Indices Daily Global 0.05Deg CMG V004",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Vegetation Index and Phenology (VIP) global datasets were created using Advanced Very High Resolution Radiometer (AVHRR) N07, N09, N11, and N14 datasets (1981 - 1999) and Moderate Resolution Imaging Spectroradiometer (MODIS)/Terra MOD09 surface reflectance data (2000 - 2014). The VIP Vegetation Index (VI) product was developed to provide consistent measurements of the Normalized Difference Vegetation Index (NDVI) and modified Enhanced Vegetation Index (EVI2) spanning more than 30 years of data from multiple sensors. The EVI2 is a backward extension of AVHRR. Vegetation indices such as NDVI and EVI2 are useful for assessing the biophysical properties of the land surface, and are used to characterize vegetation phenology. Phenology tracks the seasonal life cycle of vegetation, and provides information on the biotic response to environmental changes. \r\n\r\nThe VIP01 VI data product is a daily global file at 0.05 degree (5600 meter (m)) spatial resolution in geographic (Lat/Lon) grid format. The data are stored in Hierarchical Data Format-Earth Observing System (HDF-EOS) file format. The VIP01 VI product contains 11 Science Datasets (SDS), which includes the calculated VIs (NDVI and EVI2) as well as information on the quality assurance/pixel reliability, the input Visible/Near Infrared (VNIR) surface reflectance data, and viewing geometry. The Blue and Middle Infrared (MIR) surface reflectance data are only available for the MODIS era (2000 - 2014). Gaps in the daily product are filled using long term mean VI records derived from the more than 30 year time series of data, and are indicated as gap-filled in the Pixel Reliability SDS. A low resolution browse image showing NDVI as a color map is also available.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1328403374-LPDAAC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ISLSCP II Global Sea Ice Concentration",
+    "description": "This International Satellite Land Surface Climatology Project (ISLSCP) Initiative II data set, ISLSCP II Global Sea Ice Concentration, is based on the Goddard Space Flight Center (GSFC) Sea Ice Concentrations from Nimbus-7 Scanning Multichannel Microwave Radiometer (SMMR) and the Defense Meteorological Satellites Program (DMSP) Special Sensor Microwave/Imager (SSM/I) Passive Microwave Data. This data set contains four zip files which includes sea ice concentration (in percentage of ocean area covered by sea ice), table data and map data.  These original data were re-gridded by the National Snow and Ice Data Center (NSIDC) from their original 25-km spatial resolution and EASE-Grid into equal angle Earth grids with quarter, half and one degree spatial resolutions in latitude/longitude. The ISLSCP II staff have taken the one degree resolution original data provided by the Principal Investigator and created global maps of monthly sea ice concentration on a global one degree grid using the latitude and longitude coordinates that were provided. Individual monthly files were created and written to the ASCII format. The re-gridded one degree original data were also adjusted to match the one degree ISLSCP II land/water mask. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179003621-ORNL_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Vegetation Index and Phenology (VIP) Phenology EVI-2 Yearly Global 0.05Deg CMG V004",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Vegetation Index and Phenology (VIP) global datasets were created using Advanced Very High Resolution Radiometer (AVHRR) N07, N09, N11, and N14 datasets (1981 - 1999) and Moderate Resolution Imaging Spectroradiometer (MODIS)/Terra MOD09 surface reflectance data (2000 - 2014). The VIP Vegetation Index (VI) product was developed to provide consistent measurements of the Normalized Difference Vegetation Index (NDVI) and modified Enhanced Vegetation Index (EVI2) spanning more than 30 years of data from multiple sensors. The EVI2 is a backward extension of AVHRR. Vegetation indices such as NDVI and EVI2 are useful for assessing the biophysical properties of the land surface, and are used to characterize vegetation phenology. Phenology tracks the seasonal life cycle of vegetation, and provides information on the biotic response to environmental changes. \r\n\r\nThe VIP30 VI data product is provided monthly at 0.05 degree (5600 meter (m)) spatial resolution in geographic (Lat/Lon) grid format. The data are stored in Hierarchical Data Format-Earth Observing System (HDF-EOS) file format. The VIP30 VI product contains 12 Science Datasets (SDS), which include the calculated VIs (NDVI and EVI2) as well as quality assurance/pixel reliability, the input Visible/Near Infrared (VNIR) surface reflectance data, and viewing geometry. The Blue and Middle Infrared (MIR) surface reflectance data are only available for the MODIS era (2000 - 2014). Gaps in the product are filled using long term mean VI records derived from the more than 30 year time series of data, and are indicated as gap-filled in the Pixel Reliability SDS.\r\n\r\nThe VIP30 dataset consists of 12 monthly composites annually representing each calendar month of the year.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1328419561-LPDAAC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "NCA-LDAS Noah-3.3 Land Surface Model L4 Trends 0.125 x 0.125 degree V2.0 (NCALDAS_NOAH0125_Trends) at GES DISC",
+    "description": "The National Climate Assessment - Land Data Assimilation System, or NCA-LDAS, is a terrestrial water reanalysis in support of the United States Global Change Research Program's NCA activities. NCA-LDAS features high resolution, gridded, daily time series data products of terrestrial water and energy balance stores, states, and fluxes over the continental U.S., derived from land surface hydrologic modeling with multivariate assimilation of satellite Environmental Data Records (EDRs). The overall goal is to provide the highest quality terrestrial hydrology products that enable improved scientific understanding, adaptation, and management of water and related energy resources during a changing climate.\n\nThis dataset consists of a suite of historical trends in terrestrial hydrology over the conterminous United States estimated for the water years of 1980-2015 using the NCA-LDAS daily reanalysis. NCA-LDAS provides gridded daily outputs from the uncoupled Noah version 3.3 land surface model (LSM) at 1/8th degree resolution forced with NLDAS-2 meteorology (Xia et al., 2012), rescaled Climate Prediction Center precipitation, and assimilated satellite-based soil moisture, snow depth, and irrigation products (Jasinski et al., 2019; Kumar et al., 2019).\n\nTrends in annual hydrologic indicators are reported using the nonparametric Mann-Kendall test at p &lt; 0.1 significance. An additional precipitation trend field (annual total), with no significance test applied, is included for comparison purposes. Collectively, these fields represent the bulk of the results presented in Jasinski et al. (2019).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1646132439-GES_DISC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Vegetation Index and Phenology (VIP) Vegetation Indices Monthly Global 0.05Deg CMG V004",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Vegetation Index and Phenology (VIP) global datasets were created using Advanced Very High Resolution Radiometer (AVHRR) N07, N09, N11, and N14 datasets (1981 - 1999) and Moderate Resolution Imaging Spectroradiometer (MODIS)/Terra MOD09 surface reflectance data (2000 - 2014). The VIP Vegetation Index (VI) product was developed to provide consistent measurements of the Normalized Difference Vegetation Index (NDVI) and modified Enhanced Vegetation Index (EVI2) spanning more than 30 years of data from multiple sensors. The EVI2 is a backward extension of AVHRR. Vegetation indices such as NDVI and EVI2 are useful for assessing the biophysical properties of the land surface, and are used to characterize vegetation phenology. Phenology tracks the seasonal life cycle of vegetation, and provides information on the biotic response to environmental changes. \r\n\r\nThe VIP30 VI data product is provided monthly at 0.05 degree (5600 meter (m)) spatial resolution in geographic (Lat/Lon) grid format. The data are stored in Hierarchical Data Format-Earth Observing System (HDF-EOS) file format. The VIP30 VI product contains 12 Science Datasets (SDS), which include the calculated VIs (NDVI and EVI2) as well as quality assurance/pixel reliability, the input Visible/Near Infrared (VNIR) surface reflectance data, and viewing geometry. The Blue and Middle Infrared (MIR) surface reflectance data are only available for the MODIS era (2000 - 2014). Gaps in the product are filled using long term mean VI records derived from the more than 30 year time series of data, and are indicated as gap-filled in the Pixel Reliability SDS.\r\n\r\nThe VIP30 dataset consists of 12 monthly composites annually representing each calendar month of the year.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1328419475-LPDAAC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Tellus Level-4 Ocean Mass Anomaly Time Series from JPL GRACE/GRACE-FO Mascon CRI Filtered Release 06.1 version 03",
+    "description": "This dataset is a time series of mass variability averaged over all of the global ocean. It provides the non-steric or mass only sea level changes over time. The mass variability are derived from JPL GRACE Mascon Ocean, Ice, and Hydrology Equivalent Water Height CRI Filtered RL06.1Mv03 dataset, which can be found at https://podaac.jpl.nasa.gov/dataset/TELLUS_GRAC-GRFO_MASCON_CRI_GRID_RL06.1_V3. A more detailed description on the Mascon solution, including the mathematical derivation, implementation of geophysical constraints, and solution validation, please see Watkins et al., 2015, doi: 10.1002/2014JB011547. The mass variability is provided as an ASCII table.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2537004985-POCLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "GRACE/GRACE-FO Level-4 Monthly Global Ocean Mass Anomaly version 01 from NASA MEaSUREs HOMaGE project",
+    "description": "This data set contains the monthly Global Ocean Mass Anomalies (goma) since 04/2002, as measured by the GRACE and GRACE Follow-On (G/GFO) satellite missions. The data are averaged over the global ocean domain, at monthly intervals (note: data gaps exist). This file contains the goma time series based on the spherical harmonic gravity fields provided by the G/GFO SDS centers: JPL, CSR, GFZ. The data are frequently updated as new monthly observations are acquired by the GFO mission. The processing of the spherical harmonics gravity field coefficients is as follows: (1) GAD + GSM: the monthly de-aliasing product GAD is added back to the GSM L2 gravity fields; (2) [GSM + GAD] coefficients are averaged over the global ocean with a coastal buffer of 300 km (to avoid land-ocean leakage); (3) the spatial mean of atmospheric loading of the entire global ocean domain is removed (via the GAA L2 data product). A GIA correction using the ICE-6GD model (Peltier et al., 2018) is applied.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2263336836-POCLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "AirMOSS: L4 Modeled Volumetric Root Zone Soil Moisture, 2012-2015",
+    "description": "This data set provides hourly gridded soil moisture estimates derived from hydrologic modeling at nine AirMOSS sites across North America. The AirMOSS L4 RZSM product represents a temporal interpolation of intermittent AirMOSS L2/3 RZSM retrievals into a temporally-continuous, multi-layer, hourly soil moisture product. The L4 RZSM data have the same spatial resolution (3-arcsecs or ~100 m), and the same temporal coverage (generally Fall 2012 through Fall 2015), as the underlying L2/3 RZSM data. The L4 RZSM data were produced by the integration of the Level 2/3 product and other ancillary information into the Penn State Integrated Hydrologic Model (PIHM). Many key applications for AirMOSS data products, including the calculation of net ecosystem exchange (NEE), require temporally continuous RZSM estimates such as those provided here.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2258632707-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Vegetation Index and Phenology (VIP) Vegetation Indices 7Days Global 0.05Deg CMG V004",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Vegetation Index and Phenology (VIP) global datasets were created using Advanced Very High Resolution Radiometer (AVHRR) N07, N09, N11, and N14 datasets (1981 - 1999) and Moderate Resolution Imaging Spectroradiometer (MODIS)/Terra MOD09 surface reflectance data (2000 - 2014). The VIP Vegetation Index (VI) product was developed to provide consistent measurements of the Normalized Difference Vegetation Index (NDVI) and modified Enhanced Vegetation Index (EVI2) spanning more than 30 years of data from multiple sensors. The EVI2 is a backward extension of AVHRR. Vegetation indices such as NDVI and EVI2 are useful for assessing the biophysical properties of the land surface, and are used to characterize vegetation phenology. Phenology tracks the seasonal life cycle of vegetation, and provides information on the biotic response to environmental changes. \r\n\r\nThe VIP07 VI data product is a composite of seven daily images with 0.05 degree (5600 meter (m)) spatial resolution in geographic (Lat/Lon) grid format. The data are stored in Hierarchical Data Format-Earth Observing System (HDF-EOS) file format. The VIP07 VI product contains 12 Science Datasets (SDS), which include the calculated VIs (NDVI and EVI2) as well as quality assurance/pixel reliability, the input Visible/Near Infrared (VNIR) surface reflectance data, and viewing geometry. The Blue and Middle Infrared (MIR) surface reflectance data are only available for the MODIS era (2000 - 2014). Gaps in the daily product are filled using long term mean VI records derived from the more than 30 year time series of data, and are indicated as gap-filled in the Pixel Reliability SDS. A low resolution browse image showing NDVI as a color map is also available.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1328419183-LPDAAC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "IceBridge ATM L2 Icessn Elevation, Slope, and Roughness V002",
+    "description": "This data set contains resampled and smoothed elevation measurements of Arctic and Antarctic sea ice, and Greenland, Antarctic Peninsula, and West Antarctic region land ice surface acquired using the NASA Airborne Topographic Mapper (ATM) instrumentation. The data were collected as part of Operation IceBridge funded aircraft survey campaigns.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000001540-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "SASSIE Arctic Field Campaign Shipboard Meteorology Data Fall 2022",
+    "description": "The Salinity and Stratification at the Sea Ice Edge (SASSIE) project is a NASA experiment that aims to understand how salinity anomalies in the upper ocean generated by melting sea ice affect sea surface temperature (SST), stratification, and subsequent sea-ice growth. SASSIE involved a field campaign that sampled the transition from summer melt to autumn ice advance in the Beaufort Sea during August-October 2022, making intensive in situ and remote sensing observations within ~200km of the sea ice edge. This dataset contains shipboard meteorology and air-sea flux measurements. Data are available in netCDF format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2675923537-POCLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Projections of Permafrost Thaw and Carbon Release for RCP 4.5 and 8.5, 1901-2299",
+    "description": "This dataset consists of an ensemble of model projections from 1901 to 2299 for the northern hemisphere permafrost domain. The model projections include monthly average values for a common set of diagnostic outputs at a spatial resolution of 0.5 x 0.5 degrees latitude and longitude. The model simulations resulted from a synthesis effort organized by the Permafrost Carbon Network to evaluate the impacts of climate change on the carbon cycle in permafrost regions in the high northern latitudes.  The model teams used different historical input weather data, but most used driver data developed by the Climate Research Unit - National Centers for Environmental Prediction (CRUNCEP) as modified for the Multiscale Terrestrial Model Intercomparison Project (MsTMIP).  The teams scaled the driver data for the projections using output from global climate models from the fifth Coupled Model Intercomparison Project (CMIP5). The synthesis evaluated the terrestrial carbon cycle in the modern era and projected future emissions of carbon under two climate warming scenarios: Representative Concentration Pathways 4.5 and 8.5 (RCP45 and RCP85) from CMIP5. RCP45 represents emissions resulting in a global climate close to the target climate in the Paris Accord. RCP85 represents unconstrained greenhouse gas emissions.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2254686682-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "SiB4 Modeled Global 0.5-Degree Daily Carbon Fluxes and Pools, 2000-2018",
+    "description": "This dataset provides global daily output predicted by the Simple Biosphere Model, Version 4.2 (SiB4), at a 0.5-degree spatial resolution covering the time period 2000 through 2018. SiB4 is a mechanistic land surface model that integrates heterogeneous land cover, environmentally responsive phenology, dynamic carbon allocation, and cascading carbon pools from live biomass to surface litter to soil organic matter. Daily output includes carbon, carbonyl sulfide, and energy fluxes; solar-induced fluorescence; carbon pools; soil moisture and temperatures in the top three layers; total column soil water and plant available water; and environmental potentials used to scale photosynthesis. The SiB4 output is per plant functional type (PFT) within each 0.5-degree grid cell. SiB4 partitions variable output to 15 PFTs in each grid cell that are indexed by the \"npft\" dimension (01-15) in each data file. The PFT three-character abbreviations (\"pft_names\" variable) are listed in the same order as the \"npft\" dimension. To combine the PFT-specific output into grid cell totals, users must compute the area-weighted mean across the vector of PFT-specific values for each cell. Fractional areal coverages are given in the \"pft_area\" variable for each cell.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2390248773-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "IceBridge ATM L1B Elevation and Return Strength V002",
+    "description": "This data set contains spot elevation measurements of Arctic and Antarctic sea ice, and Greenland, Antarctic Peninsula, and West Antarctic region ice surface acquired using the NASA Airborne Topographic Mapper (ATM) instrumentation. The data were collected as part of Operation IceBridge funded aircraft survey campaigns.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000062-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Vegetation Index and Phenology (VIP) Vegetation Indices 15Days Global 0.05Deg CMG V004",
+    "description": "The NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) (https://earthdata.nasa.gov/community/community-data-system-programs/measures-projects) Vegetation Index and Phenology (VIP) global datasets were created using Advanced Very High Resolution Radiometer (AVHRR) N07, N09, N11, and N14 datasets (1981 - 1999) and Moderate Resolution Imaging Spectroradiometer (MODIS)/Terra MOD09 surface reflectance data (2000 - 2014). The VIP Vegetation Index (VI) product was developed to provide consistent measurements of the Normalized Difference Vegetation Index (NDVI) and modified Enhanced Vegetation Index (EVI2) spanning more than 30 years of data from multiple sensors. The EVI2 is a backward extension of AVHRR. Vegetation indices such as NDVI and EVI2 are useful for assessing the biophysical properties of the land surface, and are used to characterize vegetation phenology. Phenology tracks the seasonal life cycle of vegetation, and provides information on the biotic response to environmental changes. \r\n\r\nThe VIP15 VI data product is provided twice monthly at 0.05 degree (5600 meter (m)) spatial resolution in geographic (Lat/Lon) grid format. The data are stored in Hierarchical Data Format-Earth Observing System (HDF-EOS) file format. The VIP15 VI product contains 12 Science Datasets (SDS) which include the calculated VIs (NDVI and EVI2) as well as quality assurance/pixel reliability, the input Visible/Near Infrared (VNIR) surface reflectance data, and viewing geometry. The Blue and Middle Infrared (MIR) surface reflectance data are only available for the MODIS era (2000 - 2014). Gaps in the daily product are filled using long term mean VI records derived from the more than 30 year time series of data, and are indicated as gap-filled in the Pixel Reliability SDS. A low resolution browse image showing NDVI as a color map is also available.\r\n\r\nThe VIP15 dataset includes two composites per month. The first composite is generated from day 1 to 15, and the second composite includes the remaining days of the month. This dataset consists of 24 files per year.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1328419482-LPDAAC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Level-4 WRF-STILT Footprint Files for Circumpolar Receptors, 2016-2019",
+    "description": "This dataset provides Weather Research and Forecasting (WRF) Stochastic Time-Inverted Lagrangian Transport (STILT) Footprint data products for receptors (observations) located at positions along flight paths and at various fixed observing sites at circumpolar locations at northern latitudes during 2016-2019. Each aircraft and station position is treated as an independent receptor in the WRF-STILT model in order to simulate the land surface influence on observed atmospheric constituents. The footprints are independent of chemical species and can be applied to different flux models and incorporated into formal inversion frameworks. The particle trajectories that determine the footprint field are constrained only by the outer edges of the WRF modeling domain. The measurements included in this data set are crucial for understanding changes in Arctic carbon cycling and the potential threats posed by the thawing of Arctic permafrost.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2181255288-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "SiB4 Modeled Global 0.5-Degree Hourly Carbon Fluxes and Productivity, 2000-2018",
+    "description": "This dataset provides global hourly output predicted from the Simple Biosphere Model, Version 4.2 (SiB4), at a 0.5-degree spatial resolution covering the time period 2000 through 2018. SiB4 is a mechanistic land surface model that integrates heterogeneous land cover, environmentally responsive phenology, dynamic carbon allocation, and cascading carbon pools from live biomass to surface litter to soil organic matter. Hourly output includes carbon fluxes, carbonyl sulfide (COS) fluxes, gross primary production, ecosystem respiration, solar-induced fluorescence (SIF), top-layer soil temperature and moisture, vegetation stress, photosynthetically active radiation (PAR), leaf and canopy-level carbon-dioxide partial pressures, and canopy conductance. The SiB4 output is per plant functional type (PFT) within each 0.5-degree grid cell. SiB4 partitions variable output to 15 PFTs in each grid cell that are indexed by the \"npft\" dimension (01-15) in each data file. The PFT three-character abbreviations (\"pft_names\" variable) are listed in the same order as the \"npft\" dimension. To combine the PFT-specific output into grid cell totals, users must compute the area-weighted mean across the vector of PFT-specific values for each cell. Fractional areal coverages are given in the \"pft_area\" variable for each cell.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2392085682-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Coastal Wetland Elevation and Carbon Flux Inventory with Uncertainty, USA, 2006-2011",
+    "description": "This dataset provides maps of coastal wetland carbon and methane fluxes and coastal wetland surface elevation from 2006 to 2011 at 30 m resolution for coastal wetlands of the conterminous United States. Total coastal wetland carbon flux per year per pixel was calculated by combining maps of wetland type and change with soil, biomass, and methane flux data from a literature review. Uncertainty in carbon flux was estimated from 10,000 iterations of a Monte Carlo analysis. In addition to the uncertainty analysis, this dataset also provides a probabilistic map of the extent of tidal elevation, as well as the geospatial files used to create that surface, and a land cover and land cover change map of the coastal zone from 2006 to 2011 with accompanying estimated median soil, biomass, methane, and total CO2 equivalent annual fluxes, each with reported 95% confidence intervals, at 30 m resolution. Land cover was quantified using the Coastal Change Analysis Program (C-CAP), a Landsat-based land cover mapping product.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2389101052-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Resilience of Coastal Wetlands to Sea Level Rise, CONUS, 1996-2100",
+    "description": "This dataset provides information about the resilience of tidal wetlands to sea-level rise under three scenarios of global change. With rising seas, regularly inundated tidal wetlands may persist by vertical accretion of sediments (vertical resilience) and/or by migrating inland (lateral resilience), but local and regional conditions constrain these options. This dataset provides a vertical resilience index (VR) for coastal wetlands at 30 m resolution across the continental US predicted for 2100. The VR index was computed for current sea levels, local tidal dynamics, and coastal topography. It was also calculated for future sea levels predicted for 2100 by three IPCC Realized Concentration Pathway (RCP) scenarios: 2.5, 4.5, and 8.5. Moreover, the VR index incorporates estimated rates of sediment accretion. Relevant to lateral resiliency, the data include current and future tidal areas identified by mapping mean higher high water spring tide locations under the RCP scenarios. A shapefile outlining watershed units with tidal wetlands is included along with land cover classes for these areas for 1996 and 2011.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2345893268-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Environmental Conditions During Fall Moose Hunting Seasons, Alaska, 2000-2016",
+    "description": "This dataset provides daily and annual air temperature, river water level, and leaf drop dates coincident with the moose (Alces alces) hunting season (September) for the area surrounding the rural communities of Nulato, Koyukuk, Kaltag, Galena, Ruby, Huslia, and Hughes in interior Alaska, USA, over the period 2000-2016. The main objective of the study was to assess how the environmental conditions impacted the success of hunters who rely on moose as a subsistence resource.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143402663-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "IceBridge Radar L3 Tomographic Ice Thickness V002",
+    "description": "This data set contains Level-3 tomographic ice thickness measurements and ice thickness errors over areas of Greenland and Antarctica. Two of the data files additionally provide bed elevation measurements. The data were derived from measurements taken by the Center for Remote Sensing of Ice Sheets (CReSIS) Multichannel Coherent Radar Depth Sounder (MCoRDS) instrument and were collected as part of NASA Operation IceBridge funded campaigns.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1586132466-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Last Day of Spring Snow, Alaska, USA, and Yukon Territory, Canada, 2000-2016",
+    "description": "This dataset provides the last day of spring snow cover for most of Alaska and the Yukon Territory for 2000 through 2016. The data are based on the MODIS daily snow cover fraction product (MODSCAG) and are provided at 500-m resolution. Pixels in the daily snow cover fraction grids from April 1 through July 31 were flagged as \"Snow\" if the snow fraction exceeded 0.15, resulting in a time series of binary daily snow cover grids for each year. The annual last day of spring snow for each pixel was identified by day of the year ranging from 91 (April 1) to 183 (July 2).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2162119017-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Wolf Denning Phenology and Reproductive Success, Alaska and Canada, 2000-2017",
+    "description": "This dataset provides annual gray wolf (Canis lupus) denning spatial information and timing, associated climatic and phenologic metrics, and reproductive success (i.e., pup survival) in wolf populations across areas of western Canada and Alaska within the NASA ABoVE Core Domain. The study encompasses 18 years between the period 2000-2017. Wolves were captured from eight populations following standard animal care protocols and released with Global Positioning System (GPS) collars. Data from 388 wolves were used to estimate den initiation dates (n=227 dens of 106 packs) and reproductive success in the eight populations. Each population was monitored from 1 to 12 years between 2000 and 2017. Denning parturition phenology was measured each year as the number of calendar days from January 1st to the initiation date of each documented denning event. Reproductive success was determined as to whether pups survived through the end of August following a reproductive event. To evaluate the effect of climate factors on reproductive phenology, aggregated seasonal climate metrics for temperature, precipitation, and snow water equivalent based on three biological seasons for seasonal wolf home ranges were produced. Normalized Difference Vegetation Index (NDVI) time-series data were used to estimate phenological metrics such as the start of the growing season (SOS), length of the growing season (LOS), and time-integrated NDVI (tiNDVI), and were summarized for the populations' home range.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143401778-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Soil Moisture Active Passive (SMAP) L1-L3 Ancillary GEOS Data V001",
+    "description": "This ancillary SMAP product contains three dynamic GMAO GEOS-5 modeled data sets. Each data set contains surface and atmospheric parameters pertinent to SMAP provided in 1) hourly, 2) 3-hour, and 3) averaged over 3-hour intervals.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1539078443-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "SMAPVEX16 Iowa Permanent Soil Moisture Network V001",
+    "description": "These data consist of soil moisture, soil temperature and precipitation measurements recorded in 2016 by the permanent soil moisture network; SMAPVEX16-Iowa. The sites were spread out over the experiment domain of about 30km by 40 km located about 30 km north of Ames, Iowa, USA.\n\nThe data file contains the soil moisture, soil temperature and&nbsp;precipitation measurements for each station located at the site.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2011917772-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "SeaFlux Data Products V1",
+    "description": "The SeaFlux Data Products dataset consists of estimates of ocean surface latent and sensible heat fluxes, 2m and 10m wind speed, 2m and 10m air temperature, 2m and 10m air humidity, and skin sea surface temperature. This data product was created by using the SeaFlux V3 model. These data are available globally from January 1, 1988 through December 31, 2018 in netCDF-4 format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1995869798-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Export and Leaching of Carbon and Nitrogen from Mississippi River Basin, 1901-2099",
+    "description": "This dataset provides estimates for export and leaching of dissolved inorganic carbon (DIC), dissolved organic carbon (DOC), total organic carbon (TOC), particulate organic carbon (POC), ammonium (NH4+), nitrate (NO3-), and total organic nitrogen (TON) from the Mississippi River Basin (MRB) to the Gulf of Mexico. The estimates are provided for a historical period of 1901-2014, and a future period of 2010-2099 (carbon estimates only) under two scenarios of high and low levels of population growth, economy, and energy consumption, respectively. The estimates are from the Dynamic Land Ecosystem Model 2.0 (DLEM 2.0). These data are applicable to studying how changes in multiple environmental factors (e.g., fertilizer application, land-use changes, climate variability, atmospheric CO2, and N deposition) affect the dynamics of leaching and export to the Gulf of Mexico.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2389021952-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Lund-Potsdam-Jena Wetland Hydrology and Methane DGV Model (LPJ-WHyMe v1.3.1)",
+    "description": "This model product provides the Fortran 77 source code for the Lund-Potsdam-Jena (LPJ) Wetland Hydrology and Methane Dynamic Global Vegetation Model (LPJ-WHyMe v1.3.1), auxiliary C++ routines, ASCII and NetCDF input data, and NetCDF example output data. LPJ-WHyMe v1.3.1 simulates peatland hydrology, permafrost dynamics, peatland vegetation, and methane emissions.The model processes can be simulated on an area-averaged 0.5 or 1.0 degree grid cell basis at global, regional, or site scales and on a daily, monthly, or annual time step as appropriate. Input driver data are monthly mean air temperature, total precipitation, percentage of full sunshine, annual atmospheric CO2 concentration, and soil texture class. The simulation for each grid cell begins from \"bare ground\", requiring a \"spin up\" (under non-transient climate) of ca. 1,000 years to develop equilibrium vegetation, carbon, and soil structure. Model simulations compare favorably, with some exceptions, to field observations collected from peatland sites (e.g., Degero, Sweden; Lakkasuo, Finland; BOREAS Northern Study Area, Canada; and others) and non-peatland sites (e.g., Point Barrow, Alaska, and Spasskaya, Siberia). LPJ-WHyMe is a further development of LPJ-WHy, which dealt with the introduction of permafrost and peatlands into LPJ. Implementing peatlands in LPJ required the addition of two new plant functional types (PFTs) (flood tolerant C3 graminoids and Sphagnum mosses) to the already existing ten PFTs, the introduction of inundation stress for non-peatland PFTs, a slow-down in decomposition under inundation, and the addition of a root exudates pool. LPJ-WHyMe v1.3.1 adds a methane model subroutine. This model product has one compressed data file (*.zip) and seven companion files.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179002979-ORNL_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "AMSR-E/Aqua Weekly L3 Global Ascending/Descending .25x.25 deg Ocean Grids V002",
+    "description": "The Level-3 daily product (AE_DyOcn), weekly product (AE_WkOcn), and monthly product (AE_MoOcn) include SST, near-surface wind speed, columnar water vapor, and columnar cloud liquid water over oceans in a 0.25 degree by 0.25 degree grid, generated from AE_Ocean.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179014694-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Annual wildland fire emissions (WFEIS v0.5) for Conterminous US and Alaska, 2001-2013",
+    "description": "This data set contains annual modeled estimates of wildland fire emissions at 0.01 degree (~1-km) spatial resolution from the Wildland Fire Emissions Information System (WFEIS v0.5) for the conterminous U.S. (CONUS) and Alaska for 2001 through 2013. WFEIS is a web-based tool that provides resources to quantify emissions from past fires and output results as spatial data files (French et al., 2014). The data set includes emissions estimates of carbon (C), carbon monoxide (CO), carbon dioxide (CO2), methane (CH4), other non-methane hydrocarbons (NMHC), and particulate matter (PM) as well as estimates of above-ground biomass, total fuel availability, and consumption estimates.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2389082906-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "High Mountain Asia TRMM-derived 3B42 Extreme Precipitation Indices V001",
+    "description": "This data set features seven standard annual mean extreme precipitation indices: Rx1day, Rx5day, CWD, R10mm, R20mm, R95pTOT, and R99pTOT. They were selected on the basis of potential relevance to landslide activity from the 27 indices established by the joint CCl/CLIVAR/JCOMM Expert Team (ET) on Climate Change Detection and Indices (ETCCDI). The seven indices were calculated from 3B42 version 7 daily satellite precipitation estimates.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1575810182-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "MEaSUREs Greenland Monthly Image Mosaics from MODIS V001",
+    "description": "This data set, part of the NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) program, consists of monthly image mosaics of the Greenland coastline and ice sheet periphery constructed from composited MODIS imagery.\n\nSee &lt;a href=\"http://nsidc.org/data/measures/gimp\"&gt;Greenland Ice Mapping Project (GIMP)&lt;/a&gt; for related data.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1524053173-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Aerial Photographs of Frozen Lakes near Fairbanks, Alaska, October 2014",
+    "description": "This dataset includes high resolution orthophotographs of 21 lakes in the region of Fairbanks, Alaska, USA. Aerial photographs were taken on October 8, 2014, three days after lake-ice formation. These photographs were used to identify open holes in lake ice that indicate the location of hotspot seeps associated with the releases of methane from thawing permafrost. Aerial photography can be used to measure changes in lake areas and to observe patterns in the formation of lake ice and other early winter lake conditions.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143401765-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Passive Microwave-derived Annual Snow Melt Duration Date Maps, 1988-2018",
+    "description": "This dataset provides the annual period of snowpack melting (i.e., snow melt duration, SMD) across northwest Canada; Alaska, U.S.; and parts of far eastern Russia at 6.25 km resolution for the period 1988-2018. SMD is the number of days between the main melt onset date (MMOD) and the last day of seasonal snow cover when the melting of snow is complete. These dates were derived from the Making Earth Science Data Records for Use in Research Environments (MEaSUREs) Calibrated Enhanced-Resolution Passive Microwave (PMW) EASE-Grid Brightness Temperature (Tb) Earth System Data Record (ESDR). This dataset documents variability in SMD across space and the 31-year temporal period. The data from 1988-2016 included a coastal mask removing coastal pixels due to potential water contamination from coarse brightness temperature observations (Dersken et al., 2012). There is not a coastal mask for the 2017-2018 data. The full data are included, and data users should be aware that coastal values can be adversely affected by adjacent water bodies.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2223093928-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Light-Curve Modelling of Gridded GPP Using MODIS MAIAC and Flux Tower Data",
+    "description": "This dataset contains gridded estimations of daily ecosystem Gross Primary Production (GPP) in grams of carbon per day at a 1 km2 spatial resolution over Alaska and Canada from 2000-01-01 to 2018-01-01. Daily estimates of GPP were derived from a light-curve model that was fitted and validated over a network of ABoVE domain Ameriflux flux towers then upscaled using MODIS Multi-Angle Implementation of Atmospheric Correction (MAIAC) data to span the extended ABoVE domain. In general, the methods involved three steps; the first step involved collecting and processing mainly carbon-flux site-level data, the second step involved the analysis and correction of site-level MAIAC data, and the final step developed a framework to produce large-scale estimates of GPP. The light-curve parameter model was generated by upscaling from flux tower sub-daily temporal resolution by deconvolving the GPP variable into 3 components: the absorbed photosynthetically active radiation (aPAR), the maximum GPP or maximum photosynthetic capacity (GPPmax), and the photosynthetic limitation or amount of light needed to reach maximum capacity (PPFDmax). GPPmax and PPFDmax were related to satellite reflectance measurements sampled at the daily scale. GPP over the extended ABoVE domain was estimated at a daily resolution from the light-curve parameter model using MODIS MAIAC daily reflectance as input. This framework allows large-scale estimates of phenology and evaluation of ecosystem sensitivity to climate change.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2445456434-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "New York State Mesonet IMPACTS V1",
+    "description": "The New York State Mesonet IMPACTS dataset is a browse-only dataset and consists of temperature, wind, wind direction, mean sea level pressure, precipitation, and snow depth measurements, as well as profiler Doppler LiDAR and Microwave Radiometer (MWR) measurements from the New York State Mesonet network during the Investigation of Microphysics and Precipitation for Atlantic Coast-Threatening Snowstorms (IMPACTS) field campaign, a three-year sequence of winter season deployments conducted to study snowstorms over the U.S. Atlantic coast. IMPACTS aimed to (1) Provide observations critical to understanding the mechanisms of snowband formation, organization, and evolution; (2) Examine how the microphysical characteristics and likely growth mechanisms of snow particles vary across snowbands;  and (3) Improve snowfall remote sensing interpretation and modeling to significantly advance prediction capabilities. The Mesonet network consists of ground weather stations, LiDAR profilers, and microwave radiometer (MWR) profilers. These browse files are available from January 3 through March 1, 2020 in PNG format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1995873777-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Angular-corrected MODIS MAIAC Reflectance across Alaska and Canada, 2000-2017",
+    "description": "This dataset provides angular corrections of MODIS Multi-Angle Implementation of Atmospheric Correction algorithm (MAIAC) surface reflectances across the ABoVE domain in Alaska and western Canada from 2000 to 2017. Using random forests (RF), a machine-learning approach, the original MAIAC reflectance data were corrected to consistent view and illumination angles (0 degree view zenith angle and 45 degree of sun zenith angle) to reduce artifacts and variability due to angular effects. The original MAIAC data's sub-daily temporal resolution and 1 km spatial resolution with seven land bands (bands 1-7) and five ocean bands (bands 8-12) were preserved. The resulting surface reflectance data are suitable for long-term studies on patterns, processes, and dynamics of surface phenomena. The data cover 11 different Terra and Aqua satellite MODIS MAIAC tiles.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2192631093-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ATom: Cloud and Coarse Aerosol Measurements from CAPS Instrument, 2016-2018",
+    "description": "This dataset contains cloud type and coarse aerosol contents measured by the University of Vienna's second-generation Cloud Aerosol and Precipitation Spectrometer (CAPS) instrument mounted to the NASA DC-8 aircraft during the four ATom campaigns that occurred from 2016 to 2018. CAPS measures particle size distributions in a size range between nominally 0.5 micrometers and 960 micrometers. The sizes range between approximately 0.5 and 50 micrometers is covered by the optical particle counter component of CAPS-the Cloud and Aerosol Spectrometer with Depolarization Detection (CAS-DPOL). The sizes range from 15 to 930 micrometers is measured with the optical array probe called Cloud imaging Probe (CIP). Cloud types are determined using an algorithm developed to detect and classify clouds using measurements of CAPS. Relative humidity and temperature are considered by the algorithm. The cloud indicator provides a classification on a 1 Hz basis and separates data in cloud-free, aerosol-cloud transition regime (ACTR), liquid clouds, clouds in the mixed-phase temperature regime (MPTR), and cirrus clouds. The coarse aerosol product provides cloud and aerosol particle number concentrations at standard pressure (1013.25 hPa) and standard temperature (273.15 K) in selected size ranges. Particle sizes refer to ammonium sulfate optical equivalent diameter (m=1.52 + 0.0i).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2674726358-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Year-Round Soil CO2 Efflux in Alaskan Ecosystems, Version 2",
+    "description": "This dataset provides soil-surface carbon dioxide (CO2) efflux derived from measurements of soil respiration with forced diffusion (FD) chambers. Soil Respiration Stations (SRS) were installed at 11 boreal and tundra sites along a broad S-N transect starting from near Fairbanks in interior Alaska and extending to Atqasuk in northern Alaska. Each SRS measures soil respiration and ambient atmospheric CO2 concentrations with a forced diffusion (FD) chamber to derive soil CO2 flux. The SRS also measures soil CO2 concentrations and temperatures using instrumented chambers buried at 5, 10, and 15 cm depths in the soil profile. At the highest measurement frequency, data is collected hourly, and during the lowest winter frequency, every 48 hours. The data include flux values and running median filtered values from the two or three FD chambers at each site. Soil CO2 and temperature profile data (beginning June 2017) were collected beginning 2016-08-18 through 2018-09-12. As of this publication, sampling is continuing and new data will be added as available.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143811850-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "CMS: Fire Weather Indices for Interior Alaska, 2001-2010",
+    "description": "This dataset provides daily fire weather indices for interior Alaska during the active fire seasons from 2001 to 2010. Data are gridded at 60-m resolution. The active fire season is defined as May 24-September 18 (days of the year 144-261) in this dataset. Fire weather is the use of meteorological parameters such as relative humidity, wind speed and direction, cloud cover, mixing heights, and soil moisture to determine whether conditions are favorable for fire growth and smoke dispersion. The six indices provided in this dataset are defined and produced following the methodology of the Canadian Forest Fire Weather Index System: Fine Fuel Moisture Code, Duff Moisture Code, Drought Code, Initial Spread Index, Buildup Index, Fire Weather Index. The dataset was developed following point source data interpolation from weather station observations.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2391444072-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "CMS: MODIS GPP, fPAR, and SST, and ENSO Index, Baja California, Mexico, 2000-2013",
+    "description": "This data set provides data for MODIS-derived (1) gross primary productivity (GPP) for the years 2000-2010, (2) fraction of photosynthetically active radiation (fPAR) for the years 2003-2013, (3) sea surface temperature (SST) for the years 2003-2013, and (4) the NOAA-source Multivariate ENSO Index (MEI) data for the years 2003-2013 (as a measure of the El Nino/Southern Oscillation). The study areas were three transects on the Baja California Peninsula, Mexico, and the adjacent Pacific Ocean. The terrestrial transects, in order from North to South, West to East included Punta Colonet (three sites-PC1, PC2, PC3), Punta Abreojos (two sites-PA1, PA2), and Magdalena Bay (three sites-MB1, MB2, MB3).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2343141032-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Environmental Conditions and Subsistence Resource Access, Alaska, 2016-2017",
+    "description": "This dataset provides descriptions and photos of environmental conditions that impacted availability to subsistence resources by residents in nine rural communities within the Yukon River basin of Interior Alaska. The data (photos) were collected by citizens (harvesters) residing in the communities while engaged in subsistence harvesting activities. The data include descriptions of the environmental condition captured in the photo, photo date, an explanation of how the condition influenced travel and access to resources, the subsistence activity when the photo was taken, effects of the environmental condition on the participant's safety, and the participant's observations regarding frequency and extent of the condition. A sensitivity metric was derived that incorporated the adaptive capacity of the participants to environmental conditions. The observations are for the period February 2016 - June 2017.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143403416-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Methane Ebullition Hotspots in Frozen Lakes near Fairbanks, Alaska, Oct 2014",
+    "description": "This dataset includes maps of the locations and number of methane ebullition hotspots in 15 frozen lakes in the southern portion of the Goldstream Valley and the surrounding landscape just north of Fairbanks, Alaska, USA. Hotspots were identified from early winter high resolution aerial photographs acquired three days after lake-ice formation in October 2014. Hotspot ebullition seeps are defined as point-sources of high ebullition that release methane from lake sediments year-round. High rates of bubbling impede ice formation. In early winter, bubbling leads to dark, round open holes in lake ice which were visible in the aerial photos. This project investigated the role of theromkarst lakes in thawing of permafrost and mobilization of organic carbon in frozen soils.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143401746-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Passive Microwave-derived Annual Snowoff Date Maps, 1988-2018",
+    "description": "This dataset provides annual maps of the snowoff (SO) date from 1988-2018 across Alaska and parts of Far East Russia and northwest Canada at a resolution of 6.25 km. SO date is defined as the last day of persistent snow and was derived from the MEaSUREs Calibrated Enhanced-Resolution Passive Microwave (PMW) EASE-Grid Brightness Temperature (Tb) Earth System Data Record (ESDR) product. The spatial domain was intended to match MODIS Alaska Snow Metrics and extend its temporal fidelity beyond the MODIS era. SO date estimates were compared to snow depth measurements collected at SNOTEL stations across Alaska and to three SO datasets derived from MODIS, Landsat, and the Interactive Multisensor Snow and Ice Mapping System (IMS). The data from 1988-2016 included a coastal mask removing coastal pixels due to potential water contamination from coarse brightness temperature observations (Dersken et al., 2012). There is not a coastal mask for the 2017-2018 data. The full data are included, and data users should be aware that coastal values can be adversely affected by adjacent water bodies.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2221862177-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Soil Moisture Active Passive (SMAP) L4 Soil Moisture Ancillary Restart Files V001",
+    "description": "This ancillary SMAP product contains static restart files for the Land Data Assimilation Systems (LDAS) Catchment model. This product includes prognostic variables for both the catchment model and perturbations model.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1539068951-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Climate Drivers of Pan-Arctic Tundra Vegetation Productivity, 1982-2015",
+    "description": "This dataset provides a summary of potential climate drivers of Arctic tundra vegetation productivity that have been compiled for growing seasons from 1982 to 2015. The scale of interest is the entire pan-arctic non-alpine tundra and the continental subdivisions of the North American and the Eurasian Arctic North of 70 degrees. These climate drivers include (1) maximum normalized difference vegetation index (MaxNDVI) and time-integrated NDVI (TI-NDVI), (2) summer sea ice concentrations, (3) oceanic heat content, (4) land surface temperature, and (5) summer warmth index (SWI). Data are provided variously as timeseries and weekly and bi-weekly averages over selected time ranges and study regions with calculated trends and trend significance. Data collected over 33 years were compiled to observe seasonal trends of vegetation productivity and to detect dynamics between arctic vegetation and climate drivers.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2162145436-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "GPM Ground Validation Airborne Snow Observatory (ASO) OLYMPEX V1",
+    "description": "The GPM Ground Validation Airborne Snow Observatory (ASO) OLYMPEX dataset consists of snow depth, bare earth surface, land surface classification and a Red, Green, Blue (RGB) composite  image, provided at 3 m spatial resolution during the GPM Ground Validation Olympic Mountains Experiment (OLYMPEX) field campaign held in the Pacific Northwest. These data were collected by a Riegl Q1560 scanning LiDAR and an ITRES CASI-1500 imaging spectrometer , both part of the NASA Airborne Snow Observatory (ASO), during two separate periods, February 8-9, 2016 and March 29-30, 2016.  A previous September 2014 flight was used to obtain no-snow measurements used for deriving snow depth. The data are provided in GeoTIFF format. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1979129209-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Lake Growing Season Green Surface Reflectance Trends, AK and Canada, 1984-2019",
+    "description": "This dataset provides an annual time series of Landsat green surface reflectance and the derived annual trend during the growing season (June and July) for 472,890 lakes across the ABoVE Extended Study Domain from 1984 to 2019. The reflectance data are from Landsat-5, Landsat-7, and Landsat-8 sensors for the green band (center wavelength 560 nm). Over 270,000 Landsat scenes were evaluated and quality assured to be cloud-free and over water. Lakes were selected from HydroLAKES, a global database of lakes of at least 10 ha. Lake surface reflectance was extracted from a 3-by-3-pixel area centered on each lake centroid from the selected Landsat scenes determined from lake polygons. This dataset demonstrates changes in lake color over time in the arctic and boreal regions of North America. Color is relevant for understanding physical, ecological, and biogeochemical processes in some of the world&amp;rsquo;s highest concentrations of lakes where climate change may have significant impacts.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143401725-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Level-4 WRF-STILT Particle Trajectories for Circumpolar Receptors, 2016-2019",
+    "description": "This dataset provides Weather Research and Forecasting (WRF) Stochastic Time-Inverted Lagrangian Transport (STILT) particle trajectory files for receptors located at positions along flight paths and at various fixed observing sites at circumpolar locations above 45 degrees North during 2016-2019. The particle files describe the motion of particles released backward in time over a 10-day period. The particle files are separated into archives by platform type (some platforms are combined) and can be characterized as either low resolution or high resolution depending on whether the subsequent footprint fields were generated on a circumpolar 0.5-degree grid (low-resolution) or both 0.5-degree and 0.1-degree grids (high-resolution). The platforms include flux towers at fixed sites, laboratory measurements of whole air samples collected by Programmable Flask Packages (PFP) onboard aircraft, and observations by NASA's Orbiting Carbon Observatory-2 satellite. These particle files were thinned to retain particle location information only when the particles have non-zero contributions to the corresponding footprint field. These particle files are used to compute the footprint fields available in a companion dataset. The particle trajectories that determine the footprint field are constrained only by the outer edges of the WRF modeling domain. Likewise, the companion footprint files are provided on a regular latitude-longitude grid. This dataset extends previous research on the atmospheric transport of land-surface emissions of greenhouse gases by the Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE) project. In particular, the content of the low-resolution particle files is similar to those for the CARVE dataset.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2180373101-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "CARVE: L1 In-situ Carbon and CH4 Flux and Meteorology at EC Towers, Alaska, 2011-2015",
+    "description": "This data set provides ground in situ flux and meteorological science data from fixed instruments at three eddy covariance tower sites located in the Alaskan Arctic tundra. Real and gap-filled observations of carbon dioxide, methane, water vapor, and latent energy flux in addition to standard meteorological and environmental variables are reported at half-hourly intervals between 2011 and 2015 for sites at Atqasuk, Barrow, and Ivotuk, Alaska. The three sites form a 300-km north-south transect on the North Slope of Alaska, each site representing distinct Arctic vegetation communities. These tower measurements create a long-term record of one of the largest, most volatile carbon stocks on the planet. Observations from these towers are being used to determine the seasonal and inter-annual patterns of CO2 and CH4 flux, and their relationship to changes in environmental factors.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2236316255-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Methane Fluxes from Shorelines and Differing Surfaces, Big Trail Lake, Alaska, 2019",
+    "description": "This dataset provides methane fluxes from hot-spot and non-hot spot differing surfaces at Big Trail Lake (BTL) in the Goldstream Valley near Fairbanks, AK, USA. Measurements were taken at a remotely-sensed methane hotspot on the shoreline of a pond, adjacent to BTL with a Los Gatos Ultra-Portable Greenhouse Gas Analyzer (UGGA), and from various non-hotspot surfaces representative of the broader thermokarst lake ecosystem with bucket chambers. All data were collected between 2019-07-04 and 2019-12-04 during the daytime hours of 09:35-17:32 local time. A ground-based CH4 enhancement survey was performed on 2019-07-06 between 13:25-17:15 Alaska Daylight Time (AKDT), approximately two hours following an AVIRIS-NG overflight and hotspot detection at the Eastside Pond. Methane flux is reported in units of both mmol CH4 m-2 hr-1 and mg CH4 m-2 d-1. Flux errors are quantified for each",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2192619099-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Passive Microwave-derived Annual Snowpack Main Melt Onset Date Maps, 1988-2018",
+    "description": "This dataset provides the annual date of snowpack seasonal beginning melt (i.e., main melt onset date, MMOD) across northwest Canada; Alaska, U.S.; and parts of far eastern Russia at 6.25 km resolution for the period 1988-2018. MMOD was derived from the daily 19V (K-band) and 37V (Ka-band) GHz bands from the Making Earth Science Data Records for Use in Research Environments (MEaSUREs) Calibrated Enhanced-Resolution Passive Microwave (PMW) EASE-Grid Brightness Temperature (Tb) Earth System Data Record (ESDR). The PMW MMOD dataset was validated using the transition date from Freeze Degree Days (FDD) to Thaw Degree Days (TDD) from in situ air temperature observations from 31 SNOw TELemetry network (SNOTEL) observations, and compared to the established Freeze-Thaw ESDR (FT-ESDR) spring onset date. The resulting MMOD data record is suitable for documenting the spatial-temporal impacts of MMOD variability in ecosystem services, wildlife movements, and hydrologic processes across the ABoVE domain. The data from 1988-2016 included a coastal mask removing coastal pixels due to potential water contamination from coarse brightness temperature observations (Dersken et al., 2012). There is not a coastal mask for the 2017-2018 data. The full data are included, and data users should be aware that coastal values can be adversely affected by adjacent water bodies.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143401742-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Peatland Carbon Balance and Land Use Change CO2 Emissions Through the Holocene",
+    "description": "This data set provides a time series of global peatland carbon balance and carbon dioxide emissions from land use change throughout the Holocene (the past 11,000 yrs). Global peatland carbon balance was quantified using a) a continuous net carbon balance history throughout the Holocene derived from a data set of 64 dated peat cores, and b) global model simulations with the LPX-Bern model hindcasting the dynamics of past peatland distribution and carbon balance. CO2 emissions from land-use change are based on published scenarios for anthropogenic land use change (HYDE 3.1, HYDE 3.2, KK10) covering the last 10,000 years. This combination of model estimates with CO2 budget constraints narrows the range of past anthropogenic land use change emissions and their contribution to past carbon cycle changes.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2216864221-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Pre-Delta-X: Water Levels across Wax Lake Outlet, Atchafalaya Basin, LA, USA, 2016",
+    "description": "This dataset provides absolute water level elevations derived for 10 locations across the Wax Lake Delta, Atchafalaya Basin, in Southern Louisiana, USA, within the Mississippi River Delta (MRD) floodplain. Field measurements were made during the Pre-Delta-X campaign on October 13-20, 2016. Relative water level measurements were recorded every five minutes during a one-week period using in situ pressure transducers (Solinst) to measure water surface elevation change with millimeter accuracy. The Solinst system combines a total pressure transducer (TPT) and a temperature detector. Once underwater, the TPT measures the sum of the atmosphere and water pressure above the sensor. Atmospheric pressure fluctuations must be accounted for to obtain the height of the water column above the TPT. An absolute elevation correction was applied to the water level data using an iterative approach with the USGS Calumet Station water level height and Airborne Snow Observatory (ASO) lidar water level profiles. These Pre-Delta-X water level measurements served to calibrate and validate the campaign's remote sensing observations and hydrodynamic models.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2025123345-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: River Ice Breakup and Freeze-up Stages, Yukon River Basin, Alaska, 1972-2016",
+    "description": "This dataset provides estimates of river ice breakup and freeze-up stages along selected reaches of the Yukon and Tanana Rivers in the Yukon River Basin in interior Alaska from 1972-2016. Time series of Landsat satellite images were visually interpreted to identify the day of year and characteristics of the different stages of river ice seasonality. The stages of breakup or freeze-up were distinguished from one another based on the spatial extent and patterns of open water and ice cover. Images were displayed as false color composites, with the shortwave infrared (SWIR), near infrared (NIR), and green bands represented by red, green, and blue.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2143403517-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Geoecology: County-Level Environmental Data for the United States, 1941-1981",
+    "description": "The Geoecology database is a compilation of environmental data for the period 1941 to 1981. The Geoecology database contains selected data on terrain and soils, water resources, forestry, vegetation, agriculture, land use, wildlife, air quality, climate, natural areas, and endangered species. Data on selected human population characteristics are also included to complement the environmental files. Data represent the conterminous United States at the county level. These historical data are provided as a source of 1970s baseline environmental conditions for the United States.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2761762895-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "GPM Ground Validation Snow Depth Monitoring System OLYMPEX V1",
+    "description": "The GPM Ground Validation Snow Depth Monitoring System OLYMPEX dataset consists of snow depth, temperature, and relative humidity measurements which were collected using snow depth poles, time lapse cameras, temperature/relative humidity sensors, and manual snow surveys.  This dataset was collected during the GPM Ground Validation Olympic Mountain Experiment (OLYMPEX) held on the Olympic Peninsula in the Pacific Northwest of the United States. The analyzed data files are available in netCDF-3 data format.  The dataset includes the individual camera photos of snow poles taken hourly during the field campaign, provided as JPG images.  There are up to 3 cameras/poles per study site location.  In addition, a Microsoft Excel data file contains results of a manual snow survey taken on the specific days of the Airborne Snow Observatory OLYMPEX overflights.  In total, measurements contained in this dataset extend from September 5, 2014 through August 20, 2016, but the primary field campaign data were collected during the fall 2015 to spring 2016 time period.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1979732987-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Active Layer Thickness from Airborne L- and P- band SAR, Alaska, 2017, Ver. 3",
+    "description": "This dataset provides estimates of seasonal subsidence, active layer thickness (ALT), the vertical soil moisture profile, and uncertainties at a 30 m resolution for 51 sites across the ABoVE domain, including 39 sites in Alaska and 12 sites in Northwest Canada. The ALT and soil moisture profile retrievals simultaneously use L- and P-band synthetic aperture radar (SAR) data acquired by the NASA/JPL Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) instruments during the 2017 Arctic Boreal Vulnerability Experiment (ABoVE) airborne campaign. The data are provided in NetCDF Version 4 format along with a python script for estimating soil volumetric water content from data.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2432584227-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Landsat Vegetation Greenness Trends, Boreal Forest Biome, 1985-2019",
+    "description": "This dataset provides information on interannual trends in annual maximum vegetation greenness from 1985 to 2019 for recently undisturbed areas in the boreal forest biome. Multi-decadal changes in remotely sensed vegetation greenness provide evidence of an emerging boreal biome shift driven by climate warming. Annual maximum vegetation greenness was assessed at about 100,000 random sample locations using an ensemble of spectral vegetation indices (NDVI, EVI2, kNDVI, and NIRv) derived from Landsat products. The dataset provides raster data summarizing vegetation greenness trends for sample locations stratified by Ecological Land Unit in GeoTIFF format. These raster data span the circum-hemispheric boreal forest biome between 45 to 70 degrees north at 300 m resolution. Estimates of uncertainty were generated using Monte Carlo simulations. Interannual trends in annual maximum vegetation greenness from 1985 to 2019 and 2000 to 2019 are provided for sample locations with adequate data for time series analysis; these data are in comma-separated values (CSV) format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2262495772-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "CARVE: Daily Thaw State of Boreal and Arctic Alaska from AMSR-E and SSM/I, 2003-2014",
+    "description": "This data set provides daily 10 km resolution maps of the Alaskan and Arctic Boreal land surface state as either frozen, melting, or thawed. These data are generated from passive microwave radiometer observations made from 2003 through 2014 by the Advanced Microwave Scanning Radiometer (AMSR-E) and the Special Sensor Microwave Imager (SSM/I). Data products overlap with science data collections carried out during the Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2236282870-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO CD-05 Soil VWC and Meteorology, Rainfall Exclusion, Tapajos National Forest",
+    "description": "This data set reports soil moisture expressed as volumetric water content (VWC), daily precipitation, air temperature, relative humidity, and dew point measurements conducted at the Seca Floresta site, km 67, Tapajos National Forest, Brazil. The measurements were part of the Rainfall Exclusion Experiment (REE) established to study the response of a humid Amazonian forest to severe drought.VWC was measured with continuous high-resolution frequency-domain reflectometry to 11-m depth in two 1-ha plots from 1999 to 2007. One plot was subjected to ~75 percent throughfall exclusion during the rainy season (exclusion) and another monitored under normal conditions (control). Daily precipitation was measured in the control plot and in a nearby clearing between 1999 and 2006 using wedge rain gauges. Air temperature, relative humidity, and dew point were measured along the vertical forest profile of the control and dry plots of the site between 2000 and 2003.There are three comma-delimited data files (.csv) with this data set.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C179124925-ORNL_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Compendium of Environmental Sustainability Indicator Collections: 2004 Environmental Vulnerability Index (EVI)",
+    "description": "The 2004 Environmental Vulnerability Index (EVI) portion of the Compendium of Environmental Sustainability Indicator Collections contains 111 variables for 235 countries and territories. This index is designed to be used with economic and social vulnerability indices to provide insights into the processes that can negatively influence the sustainable development of countries. It was developed through consultation and collaborations with countries, institutions and experts across the globe by the South Pacific Applied Geoscience Commission (SOPAC), the United Nations Environment Programme (UNEP) and their partners. The data are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1418622315-SEDAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Groundswell Africa Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050",
+    "description": "The Groundswell Africa Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050 data set provides a baseline population distribution for 2010 and projections from 2020 to 2050, in five-year increments, of population distribution and internal climate-related and other migration for West Africa and the Lake Victoria Basin. The projections are produced using the NCAR-CIDR Spatial Population Downscaling Model developed by the CUNY Institute for Demographic Research (CIDR) and the National Center for Atmospheric Research (NCAR). The model incorporates assumptions based on future development scenarios (Shared Socioeconomic Pathways or SSPs) and emissions trajectories (Representative Concentration Pathways or RCPs). The SSPs include SSP2, representing a middle-of-the road future, and SSP4, representing an unequal development future. Climate models using low and high emissions scenarios, RCP2.6 and RCP8.5, then drive climate impact models on water availability, crop productivity, and pasturelands (where cropping does not occur), as well as flood impacts, from the Inter-Sectoral Impacts Model Intercomparison Project (ISIMIP). Sea-level rise impacts in the coastal zone are estimated to be 1 meter under RCP2.6 and 2 meters under RCP8.5, to account for potential storm surge or coastal flooding. Four scenarios are generated, a pessimistic reference scenario combining SSP4 and RCP8.5, a more climate-friendly scenario combining SSP4 and RCP2.6, a more inclusive development scenario combining SSP2 and RCP8.5, and an optimistic scenario combining SSP2 and RCP2.6. Each scenario provides an ensemble average of four model runs combining different climate impact models as well as confidence intervals to better capture uncertainties. The modeling work was funded and developed jointly with The World Bank.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2738394378-SEDAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050",
+    "description": "The Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050, data set provides a baseline population distribution for 2010 and projections from 2020 to 2050, in ten-year increments, of population distribution and internal climate-related and other migration. The projections are produced using the NCAR-CIDR Spatial Population Downscaling Model developed by the CUNY Institute for Demographic Research (CIDR) and the National Center for Atmospheric Research (NCAR). The model incorporates assumptions based on future development scenarios (Shared Socioeconomic Pathways or SSPs) and emissions trajectories (Representative Concentration Pathways or RCPs). The SSPs include SSP2, representing a middle-of-the road future, and SSP4, representing an unequal development future. Climate models using low and high emissions scenarios, RCP2.6 and RCP8.5, then drive climate impact models on crop productivity and water availability from the Inter-Sectoral Impacts Model Intercomparison Project (ISIMIP). Sea-level rise impacts in the coastal zone are estimated to be 1 meter under RCP2.6 and 2 meters under RCP8.5, to account for potential storm surge or coastal flooding. Three scenarios are generated, a pessimistic reference scenario combining SSP4 and RCP8.5, a more climate-friendly scenario combining SSP4 and RCP2.6, and a more inclusive development scenario combining SSP2 and RCP8.5, and each scenario represents an ensemble of four model runs combining different climate impact models. The modeling work was funded and developed jointly with The World Bank, and covers most World Bank client countries, with reports released in 2018 and 2021 that address different regions and provide full methodological details.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2338359154-SEDAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Sea Level Rise Impacts on Ramsar Wetlands of International Importance",
+    "description": "The Sea Level Rise Impacts on Ramsar Wetlands of International Importance data set represents the results of an analysis using the boundaries for Ramsar sites designated under the Ramsar Convention on Wetlands and intersecting them with different elevation zones in the coastal zone to assess area and percent area that would become inundated under 1 and 2 meter sea level rise scenarios. This data set provides results for 613 sites with defined boundaries that were found to intersect with the 0-5m above mean sea level coastal zone, defined by NASA Shuttle Radar Topography Mission (SRTM) elevation data. In addition to assessing the degree of risk of inundation, the data set provides population density and percent of land that is urban within the site and within 1km and 5km buffers surrounding the site. The data set also reports on infant mortality rates within 1km and 5km buffers around the site, as a measure of poverty levels that may affect adaptive capacity.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000260-SEDAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global Forest Aboveground Carbon Stocks and Fluxes from GEDI and ICESat-2, 2018-2021",
+    "description": "This dataset provides global gridded estimates of forest aboveground carbon stocks and potential fluxes at a 0.01-degree resolution. It was derived by initializing a newly developed global Ecosystem Demography model (ED v3.0) with novel remote sensing observations of tree canopy height collected by GEDI and ICESat-2, two NASA spaceborne lidar missions. A total of 3.77 billion lidar samples were used to generate gridded canopy height histograms that were then linked to ED simulations of canopy height and carbon dynamics during ecosystem succession. This process constrained representation of contemporary forest conditions and associated carbon stocks and fluxes in the model. Inputs that drove these simulations included meteorology, carbon dioxide levels, and soil properties. The data are provided in cloud-optimized GeoTIFF format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2756296671-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Climate Normals for Last Glacial Maximum and Modern (1975-2005), Alaska",
+    "description": "This dataset provides two 30-year climate normal data products for conditions during the last glacial maximum (LGM; ~18,000 years ago) and a modern time period (1975-2005) for the entire state of Alaska. The first set of products are monthly climate variable averages at 60 m resolution, including: minimum, maximum, and average temperatures, total precipitation, total surface radiation, rain, snow, potential evapotranspiration (PET), actual evapotranspiration (AET), and water deficit. The second set of products are annual summary climate variable averages for the same variables (excepting average temperature and rain) at 60m, 120m, 240m, 800m, 1km, 2km, 3km, 4km, 5km, 10km and 12km resolutions. The 30-year climate normal monthly averages were derived by topographically downscaling climate variables from existing coarse-resolution general circulation model outputs combined with local weather station data and digital surface models for Alaska for both the LGM and modern time periods at 60 m resolution. From this baseline, monthly averages for total surface radiation, rain, snow, potential evapotranspiration, actual evapotranspiration, and water deficit were also modeled. The annual averages are coarser resolution upsampled versions of the 60 m resolution monthly average data.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2764862016-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Ecosys Model-Estimated Cropland Carbon Fluxes, Illinois, Indiana, and Iowa, 2001-2018",
+    "description": "This dataset contains daily estimates of carbon fluxes in croplands derived from the \"ecosys\" model covering a portion of the Midwestern US (Illinois, Indiana, and Iowa) at county-level resolution from 2001-2018. Ecosys simulates water, energy, carbon, and nutrient cycles simultaneously for various ecosystems, including agricultural systems at up to hourly resolution. Estimates include: gross primary productivity (GPP), net primary productivity (NPP), autotrophic respiration (Ra), heterotrophic respiration (Rh), or net ecosystem exchange (NEE). Data were generated by the ecosys model constrained by observational data, including USDA crop yield from USDA National Agricultural Statistics Service, and a remote-sensing-based SLOPE GPP product. Model performance was evaluated using observations from AmeriFlux towers at agricultural sites within the study area. Agriculture in the US Midwest produces significant quantities of corn and soybeans, which are key elements to the global food supply. The data are provided in shapefile format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2732596448-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ABoVE: Dall Sheep Lamb Recruitment and Climate Data, Alaska and NW Canada, 2000-2015",
+    "description": "This dataset contains estimated annual average Dall sheep (Ovis dalli dalli) lamb-to-ewe ratios for each year from 2000-2015 across the full species range in Alaska and Northwestern Canada. Sheep population data are from surveys conducted over the 14 major mountain ranges encompassing the range of Dall sheep. For this study, the mountain ranges were divided into 24 mountain units due to differing climate gradients. Estimated covariate environmental and climate data used to examine the relationship between environmental conditions and Dall sheep population performance (per mountain unit) are also provided and include precipitation, temperature, snow cover, elevation, and distance to the center of the range.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2162145802-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ECCO Global Mean Sea Level - Daily Mean (Version 4 Release 4)",
+    "description": "This dataset provides daily-averaged global mean sea level from the ECCO Version 4 Release 4 (V4r4) ocean and sea-ice state estimate. Estimating the Circulation and Climate of the Ocean (ECCO) ocean and sea-ice state estimates are dynamically and kinematically-consistent reconstructions of the three-dimensional time-evolving ocean, sea-ice, and surface atmospheric states. ECCO V4r4 is a free-running solution of the 1-degree global configuration of the MIT general circulation model (MITgcm) that has been fit to observations in a least-squares sense. Observational data constraints used in V4r4 include sea surface height and model sea level anomaly (SSH) from satellite altimeters [ERS-1/2, TOPEX/Poseidon, GFO, ENVISAT, Jason-1,2,3, CryoSat-2, and SARAL/AltiKa]; sea surface temperature (SST) from satellite radiometers [AVHRR], sea surface salinity (SSS) from the Aquarius satellite radiometer/scatterometer, ocean bottom pressure (OBP) from the GRACE satellite gravimeter; sea ice concentration from satellite radiometers [SSM/I and SSMIS], and in-situ ocean temperature and salinity measured with conductivity-temperature-depth (CTD) sensors and expendable bathythermographs (XBTs) from several programs [e.g., WOCE, GO-SHIP, Argo, and others] and platforms [e.g., research vessels, gliders, moorings, ice-tethered profilers, and instrumented pinnipeds]. V4r4 covers the period 1992-01-01T12:00:00 to 2018-01-01T00:00:00.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1991543819-POCLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "ECCO Global Mean Sea Level - Monthly Mean (Version 4 Release 4)",
+    "description": "This dataset provides monthly-averaged global mean sea level from the ECCO Version 4 Release 4 (V4r4) ocean and sea-ice state estimate. Estimating the Circulation and Climate of the Ocean (ECCO) ocean and sea-ice state estimates are dynamically and kinematically-consistent reconstructions of the three-dimensional time-evolving ocean, sea-ice, and surface atmospheric states. ECCO V4r4 is a free-running solution of the 1-degree global configuration of the MIT general circulation model (MITgcm) that has been fit to observations in a least-squares sense. Observational data constraints used in V4r4 include sea surface height and model sea level anomaly (SSH) from satellite altimeters [ERS-1/2, TOPEX/Poseidon, GFO, ENVISAT, Jason-1,2,3, CryoSat-2, and SARAL/AltiKa]; sea surface temperature (SST) from satellite radiometers [AVHRR], sea surface salinity (SSS) from the Aquarius satellite radiometer/scatterometer, ocean bottom pressure (OBP) from the GRACE satellite gravimeter; sea ice concentration from satellite radiometers [SSM/I and SSMIS], and in-situ ocean temperature and salinity measured with conductivity-temperature-depth (CTD) sensors and expendable bathythermographs (XBTs) from several programs [e.g., WOCE, GO-SHIP, Argo, and others] and platforms [e.g., research vessels, gliders, moorings, ice-tethered profilers, and instrumented pinnipeds]. V4r4 covers the period 1992-01-01T12:00:00 to 2018-01-01T00:00:00.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1991543742-POCLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Global-Gridded Daily Methane Emissions Climatology from Lake Systems, 2003-2015",
+    "description": "This dataset provides global gridded information on lake surface area and open water CH4 emissions at a resolution of 0.25-degree x 0.25-degree for an annual climatology representative of the average conditions from 2003 to 2015. A compilation of flux data from 575 individual lake systems and 893 aggregated flux values were used, and each flux measurement was classified into one of seven ecoclimatic types. Ice-cover-regulated emission seasonality was derived from satellite microwave observations of ice cover phenology and freeze-thaw dynamics. Global lake area was determined from the merger of HydroLAKES and Climate Change Initiative Inland-Water (CCI-IW) remote-sensing data, and lakes were classified into ecoclimatic regions to facilitate linking these types with ecosystem-specific CH4 measurements in the flux compilation. Exploratory estimates of fluxes associated with ice melt and with spring and fall water-column turnover are also included. The data are provided in NetCDF format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2764746271-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "High Mountain Asia GFDL FLOR Modeled Extreme Precipitation Indices V001",
+    "description": "This data set features seven standard annual mean extreme precipitation indices: Rx1day, Rx5day, CWD, R10mm, R20mm, R95pTOT, and R99pTOT. They were selected on the basis of potential relevance to landslide activity from the 27 indices established by the joint CCl/CLIVAR/JCOMM Expert Team (ET) on Climate Change Detection and Indices (ETCCDI). The seven indices were simulated by the National Oceanic and Atmospheric Administration (NOAA) Geophysical Fluid Dynamics Laboratory (GFDL) Forecast-oriented Low Ocean Resolution version of CM2.5 (GFDL FLOR).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1575810085-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "IceBridge Narrow Swath ATM L1B Elevation and Return Strength V002",
+    "description": "This data set contains spot elevation measurements of Greenland, Arctic, and Antarctic sea ice acquired using the NASA Airborne Topographic Mapper (ATM) narrow-swath instrumentation. The data were collected as part of Operation IceBridge funded aircraft survey campaigns.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000060-NSIDC_ECS",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "LBA-ECO LC-14 Root Biomass and Phenology, km 67 Site, Para, Brazil: 2001",
+    "description": "This data set contains biomass estimates for coarse roots measured on the forest floor and measurements of fine root growth down to 2-m depth at the km 67 Rainfall Exclusion Experiment site, Tapajos National Forest, Brazil. The study site was part of a rainfall exclusion experiment that was conducted from 1999-2006 to develop an understanding of the physical processes driving the observed soil water dynamics at the site. All surface roots intersected along three 1000-m long x 1-m wide transects were identified to species, measured, and biomass calculated. The collections were made on January 26, 2001 during the experimental rain exclusion period.The fine root growth was measured from 0.5-m to 2-m depth with a rhizotron. The rhizotron tubes were inserted into deep soil pits in the control and treatment plots. Average root growth measurements are provided by depth interval on a monthly basis from July 25, 2000 to December 14, 2003. DATA QUALITY STATEMENT: The Data Center has determined that there are questions about the quality of the data reported in this data set. The data set has missing or incomplete data, metadata, or other documentation that diminishes the usability of the products. KNOWN PROBLEMS: There are discrepancies with the documentation, collection dates reported and collection method for fine roots utilizing rhizotrons. ",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1000000101-ORNL_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Phenology derived from Satellite Data and PhenoCam across CONUS and Alaska, 2019-2020",
+    "description": "This dataset provides a reference of land surface phenology (LSP) at 30-m pixels for 78 regions of 10 x 10 km2 across a wide range of ecological and climatic regions in North America during 2019 and 2020. The data were derived by fusing the Harmonized Landsat 8 and Sentinel-2 (HLS) observations with near- surface PhenoCam time series (hereafter called HP-LSP). The HP-LSP dataset consists of two parts: (1) the 3-day synthetic gap-free EVI2 (two-band Enhanced Vegetation Index) time series and (2) four key phenological transition dates that are greenup onset, maturity onset, senescence onset, and dormancy onset (accuracy less than or equal to five days). The PhenoCam network offers near-surface observations via the RGB (Red, Green, and Blue) imagery every 30 minutes. Each RGB imagery enables us to calculate as many as 100 Green Chromatic Coordinate (GCC) for generating a collection of localized vegetation dynamics. The HLS EVI2 time series with frequent gaps was fused with the most comparable PhenoCam GCC temporal shape selected from the GCC collection using the Spatiotemporal Shape Matching Model (SSMM) to create the synthetic gap-free HLS-PhenoCam EVI2 time series, which was used to establish the physically-based hybrid piecewise logistic model (HPLM) for detecting phenological transition dates (phenometrics).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2775078742-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Pre-ABoVE: Ground-penetrating Radar Measurements of ALT on the Alaska North Slope",
+    "description": "This data set includes estimates of permafrost Active Layer Thickness (ALT; cm), and calculated uncertainties, derived using a ground-penetrating radar (GPR) system in the field in August 2014 near Toolik Lake and Happy Valley on the North Slope of Alaska. GPR measurements were taken along 10 transects of varying length (approx. 1 to 7 km). Traditional ALT estimates from mechanical probing every 100 to 500 m along each transect are also included. These data are suitable for future studies of how ALT varies over relatively large geological features, such as hills and valleys, wetland areas, and drained lake basins.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2170968277-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "USGS JECAM Canada South Nation",
+    "description": "Joint Experiment for Crop Assessment and Monitoring\n\nThe overarching goal of JECAM is to reach a convergence of approaches, develop monitoring and reporting protocols and best practices for a variety of global agricultural systems. JECAM will enable the global agricultural monitoring community to compare results based on disparate sources of data, using various methods, over a variety of global cropping systems. It is intended that the JECAM experiments will facilitate international standards for data products and reporting, eventually supporting the development of a global system of systems for agricultural crop assessment and monitoring. The JECAM initiative is developed in the framework of GEO Global Agricultural Monitoring (GEOSS Task AG0703 a) and Agricultural Risk Management (GEOSS Task AG0703 b).",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1220567544-USGS_LTA",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Arctic Vegetation Plots in Willow Communities, North Slope, Alaska, 1997",
+    "description": "This data set provides environmental, soil, and vegetation data collected in July and August 1997 from 85 study plots in willow shrub communities located along a north-south transect from the Brooks Range to Prudhoe Bay on the North Slope of Alaska. Data includes the baseline plot information for vegetation, soils, and site factors for the study plots subjectively located in three broad habitat types across the glaciated landscape. Specific attributes include: dominant vegetation species, cover, indices, and biomass pools; soil chemistry, physical characteristics, moisture, and organic matter. This product brings together for easy reference all the available information collected from the plots that has been used for the classification, mapping, and analysis of geobotanical factors in the region and across Alaska.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2170969823-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Alaska's Changing YK Delta: Knowledge Exchange between Elders and Geoscientists, 2018",
+    "description": "This dataset provides a booklet documenting the discussions and outcomes from a knowledge-exchange meeting with Yup'ik elders from the Yukon-Kuskokwim Delta (YKD), western Alaska, community members, and natural scientist to discuss landscape and weather changes that have been observed in their homelands. The meeting was held during November 14-16, 2018. Yup'ik participants represented several YKD villages that occupy very different biophysical environments, and they have lifelong perspectives of environmental conditions and change that predate the era of Earth-observing satellites by many decades. Nearly 16 hours of discussion and testimonials from YKD elders were recorded during the meeting. The booklet is structured according to the environmental change processes that were discussed (e.g., coastal flooding, permafrost thaw, shrub expansion, climate change) and includes narrative summaries, quotations from participants, graphical illustrations, and examples of the field- and remote-sensing-based scientific findings, and map products developed as part of the larger ABoVE project.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2170972782-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "BOREAS AES Canadian Hourly and Daily Surface Meteorological Data, R1",
+    "description": "This data set contains hourly and daily meteorological data from 23 meteorological stations across Canada from January 1975 to January 1997. The surface meteorology parameters include: date, time, temperature, precipitation, snow, snow depth, sea level pressure, station pressure, dew point, wind direction, wind speed, dry and wet bulb temperature, relative humidity, cloud opacity and cloud amount.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C2759278030-ORNL_CLOUD",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "GPM GROUND VALIDATION OKLAHOMA CLIMATOLOGICAL SURVEY MESONET MC3E V1",
+    "description": "The GPM Ground Validation Oklahoma Climatological Survey Mesonet MC3E data were collected during the Midlatitude Continental Convective Clouds Experiment (MC3E) in central Oklahoma during the April-June 2011 period. The overarching goal was to provide the most complete characterization of convective cloud systems, precipitation, and the environment that has ever been obtained, providing constraints for model cumulus parameterizations and space-based rainfall retrieval algorithms over land that had never before been available. Collected by a network of weather stations, this dataset is composed of 15 minute and 5 minute files with one file per site per day in mts format. Data can be read as ASCII text. Multiple parameters found in this dataset include relative humidity, air temperature, wind speed and direction, precipitation and calibrated soil moisture. More information on the contents and data format can be found at http://www.mesonet.org/index.php/site/about/mdf_mts_files.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1982849730-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "GPM Ground Validation Environment Canada (EC) Weather Station XET C3VP V1",
+    "description": "The GPM Ground Validation Environment Canada (EC) Weather Station XET C3VP dataset consists of surface meteorological data collected at the Environment Canada (EC) XET station at the Centre for Atmospheric Research Experiments (CARE) during the Canadian CloudSat/CALIPSO Validation Project (C3VP) field campaign. The campaign took place in southern Canada in support of multiple science missions, including the NASA GPM mission, in order to improve the modeling and remote sensing of winter precipitation. The XET C3VP dataset file includes temperature, pressure, wind speed and direction, relative humidity, solar radiation, grass temperature, soil temperature, snow depth, sunshine, and precipitation measurements from October 4, 2006 through March 31, 2007 in ASCII-csv format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1998274501-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "REGIONAL AIR-SEA INTERACTION (RASI) GAP WIND AND COASTAL UPWELLING EVENTS CLIMATOLOGY GULF OF PANAMA, PANAMA V1",
+    "description": "The Regional Air-Sea Interactions (RASI) Gap Wind and Coastal Upwelling Events Climatology Gulf of Panama, Panama dataset was created using an automated intelligent algorithm which identified gap wind and coastal ocean upwelling events using two satellite-based microwave datasets. The Cross-Calibrated Multi-Platform (CCMP) ocean surface wind data product was used for wind data while the Optimally Interpolated Sea Surface Temperatures (OISST) data product provided by Remote Sensing Systems was used for sea surface temperatures. Data is available from January 1, 1998 through December 31, 2011 for Gulf of Panama, Panama. The RASI datasets are products resulting from DISCOVER, a NASA MEaSUREs-funded project.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1979892078-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "REGIONAL AIR-SEA INTERACTION (RASI) GAP WIND AND COASTAL UPWELLING EVENTS CLIMATOLOGY GULF OF PAPAGAYO, COSTA RICA V1",
+    "description": "The Regional Air-Sea Interactions (RASI) Gap Wind and Coastal Upwelling Events Climatology Gulf of Papagayo, Costa Rica dataset was created using an automated intelligent algorithm which identified gap wind and coastal ocean upwelling events using two satellite-based microwave datasets. The Cross-Calibrated Multi-Platform (CCMP) ocean surface wind data product was used for wind data while the Optimally Interpolated Sea Surface Temperatures (OISST) data product provided by Remote Sensing Systems was used for sea surface temperatures. Data is available from January 1, 1998 through December 31, 2011 for Gulf of Papagayo, Costa Rica. The RASI datasets are products resulting from DISCOVER, a NASA MEaSUREs-funded project.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1979892350-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "REGIONAL AIR-SEA INTERACTION (RASI) GAP WIND AND COASTAL UPWELLING EVENTS CLIMATOLOGY GULF OF TEHUANTEPEC, MEXICO V1",
+    "description": "The Regional Air-Sea Interactions (RASI) Gap Wind and Coastal Upwelling Events Climatology Gulf of Tehuantepec, Mexico dataset was created using an automated intelligent algorithm which identified gap wind and coastal ocean upwelling events using two satellite-based microwave datasets. The Cross-Calibrated Multi-Platform (CCMP) ocean surface wind data product was used for wind data while the Optimally Interpolated Sea Surface Temperatures (OISST) data product provided by Remote Sensing Systems was used for sea surface temperatures. Data is available from January 1, 1998 through December 31, 2011 for Gulf of Tehuantepec, Mexico. The RASI datasets are products resulting from DISCOVER, a NASA MEaSUREs-funded project.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1979892406-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  },
+  {
+    "title": "Tropical Cyclone Intensity (TCI) Hurricane Imaging Radiometer (HIRAD) V2.1",
+    "description": "The Tropical Cyclone Intensity (TCI) Hurricane Imaging Radiometer (HIRAD) dataset was created for the TCI field campaign from August 30, 2015 through October 23, 2015. The goal of the TCI field campaign was to improve the prediction of tropical cyclone (TC) intensity and structure change. The specific focus was to have an improved understanding of TC upper-level outflow layer processes and dynamics. These Hurricane Imaging Radiometer (HIRAD) data were obtained from the instrument onboard the NASA WB-57 aircraft flow on specific dates during the campaign. The data files include brightness temperature, rain rate, wind speed, and sea surface temperature estimates in netCDF-3 format, with corresponding browse imagery in PNG format.",
+    "link": "https://search.earthdata.nasa.gov/search/granules?p=C1979948197-GHRC_DAAC",
+    "category": "climate",
+    "tags": ["api"]
+  }
+]
