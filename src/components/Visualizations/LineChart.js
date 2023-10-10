@@ -19,7 +19,7 @@ function LineChart() {
           "#f3ba2f",
           "#2a71d0",
         ],
-        borderColor: "green",
+        borderColor: "blue",
         borderWidth: 2,
       },
       {
