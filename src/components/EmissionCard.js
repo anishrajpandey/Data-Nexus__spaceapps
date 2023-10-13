@@ -20,8 +20,8 @@ function CardDefault() {
             CO<sub>2</sub> Emission Prediction
           </Typography>
           <Typography>
-            Analyzsis of the CO<sub>2</sub> emission data of Nepal from 1960 to
-            2022 and prediction of the future emission.
+            Analysis of the CO<sub>2</sub> emission data of Nepal from 1960 to
+            2025 and prediction of future emissions.
           </Typography>
         </CardBody>
         <CardFooter className="pt-0 mt-0">
@@ -60,8 +60,8 @@ function CardDefault() {
             CO<sub>2</sub> Emission visualization
           </Typography>
           <Typography>
-            Analyzsis of the CO<sub>2</sub> emission data of different countries
-            from 1960 to 2022.
+            Analysis of the CO<sub>2</sub> emission data of different countries
+            from 1960 to 2020.
           </Typography>
         </CardBody>
         <CardFooter className="pt-0 mt-0">
