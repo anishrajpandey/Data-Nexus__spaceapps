@@ -96,7 +96,7 @@ function CountriesSelect({ country, setCountry }) {
         {/* <button onClick={updateChart}> update</button> */}
         <p className="text-center mt-2 mb-4">
           This line chart shows the carbon dioxide emission of {country} from
-          1960 to 2022. The actual data is taken from World Bank Open Data and
+          1960 to 2020. The actual data is taken from World Bank Open Data and
           the predicted data is calculated using the time series analysis.
         </p>
         <button ref={updatebtn} onClick={updateChart}></button>
