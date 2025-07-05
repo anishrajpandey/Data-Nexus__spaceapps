@@ -1,6 +1,6 @@
 # Data Nexus: NASA SpaceApps Challenge 2023
 
-![Data Nexus Screenshot](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/9ad696f9-5942-404e-9c67-12e98f9ab730)
+[![NASA SpaceApps Logo](https://spaceappschallenge.org/wp-content/themes/spaceapps/images/spaceapps-logo.svg)](https://spaceappschallenge.org/)
 
 ---
 
@@ -19,7 +19,7 @@ Key features include:
 
 ## 🌐 Live Demo
 
-*(Add your live demo link here if available)*
+Check out the live demo here: [https://data-nexus.netlify.app/](https://data-nexus.netlify.app/)
 
 ---
 
@@ -55,7 +55,6 @@ Data-Nexus__spaceapps/
 ├── requirements.txt   # Python dependencies
 └── package.json       # Frontend dependencies
 ```
-
 ## 📸 Screenshots
 
 ![Data Nexus Screenshot 1](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/9ad696f9-5942-404e-9c67-12e98f9ab730)  
