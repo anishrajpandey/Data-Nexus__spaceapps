@@ -54,9 +54,14 @@ Data-Nexus__spaceapps/
 ├── README.md
 ├── requirements.txt   # Python dependencies
 └── package.json       # Frontend dependencies
+```
 
-![image](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/9ad696f9-5942-404e-9c67-12e98f9ab730)
+## 📸 Screenshots
 
-![image](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/4b750866-9fd5-4d0c-a5ae-e43f4705869f)
-![image](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/86b03d8b-80e6-411c-bd95-8c816173cbe5)
-![image](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/8db462a1-bb8e-42da-8da5-9fd19cb5ba82)
+![Data Nexus Screenshot 1](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/9ad696f9-5942-404e-9c67-12e98f9ab730)  
+
+![Data Nexus Screenshot 2](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/4b750866-9fd5-4d0c-a5ae-e43f4705869f)  
+
+![Data Nexus Screenshot 3](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/86b03d8b-80e6-411c-bd95-8c816173cbe5)  
+
+![Data Nexus Screenshot 4](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/8db462a1-bb8e-42da-8da5-9fd19cb5ba82)  
