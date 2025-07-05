@@ -1,6 +1,6 @@
 # Data Nexus: NASA SpaceApps Challenge 2023
 
-[![NASA SpaceApps Logo](https://spaceappschallenge.org/wp-content/themes/spaceapps/images/spaceapps-logo.svg)](https://spaceappschallenge.org/)
+[![NASA SpaceApps Logo](https://assets.spaceappschallenge.org/media/images/Colorway2-Color_White3x.width-440.jpegquality-60.png)](https://spaceappschallenge.org/)
 
 ---
 
