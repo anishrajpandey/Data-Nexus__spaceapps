@@ -1,6 +1,60 @@
-# Data Ware house
-It is a spaceapp project that Aims to solve the problem of finding the scatterd freely available data.
-It also helps visualize Co<sub>2</sub> emissions of different countries; and prediction of Nepal's emission. 
+# Data Nexus: NASA SpaceApps Challenge 2023
+
+![Data Nexus Screenshot](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/9ad696f9-5942-404e-9c67-12e98f9ab730)
+
+---
+
+## 🚀 Project Overview
+
+Data Nexus is a solution developed for the NASA SpaceApps Challenge 2023 aimed at tackling the problem of scattered freely available environmental data. This platform aggregates over 1000 datasets from various NASA sources into a centralized, categorized repository.
+
+Key features include:
+
+- **Unified data collection:** Consolidates scattered datasets from NASA into one accessible platform  
+- **Advanced search:** Search datasets by keywords or categories for easy discovery  
+- **CO₂ Emissions Visualization:** Interactive graphs showing historical CO₂ emissions data for countries worldwide using Chart.js  
+- **CO₂ Emission Prediction for Nepal:** A machine learning model built in Python predicts Nepal’s future CO₂ emission trends based on past data  
+
+---
+
+## 🌐 Live Demo
+
+*(Add your live demo link here if available)*
+
+---
+
+## 📊 Features
+
+- Collection of over 1000 NASA datasets categorized by theme and type  
+- Keyword and category-based search functionality to quickly find relevant data  
+- Interactive visualizations of CO₂ emissions by country through dynamic charts  
+- Machine learning model predicting Nepal’s CO₂ emissions using historical data trends  
+
+---
+
+## 🧰 Tech Stack
+
+| Technology      | Purpose                             |
+|-----------------|-----------------------------------|
+| **React**       | Frontend UI framework              |
+| **Python**      | Backend services and ML model     |
+| **Chart.js**    | Interactive CO₂ emissions graphs  |
+| **Machine Learning** | Predictive modeling of emissions |
+
+---
+
+## 📂 Project Structure
+
+```bash
+Data-Nexus__spaceapps/
+├── backend/           # Python backend code & ML models
+├── frontend/          # React frontend source code
+├── data/              # Dataset samples and processing scripts
+├── docs/              # Documentation and design files
+├── README.md
+├── requirements.txt   # Python dependencies
+└── package.json       # Frontend dependencies
+
 ![image](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/9ad696f9-5942-404e-9c67-12e98f9ab730)
 
 ![image](https://github.com/anishrajpandey/Data-Nexus__spaceapps/assets/74363280/4b750866-9fd5-4d0c-a5ae-e43f4705869f)
